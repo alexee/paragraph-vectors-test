@@ -1,0 +1,75 @@
+
+	SunLight Gen. Capital LLC v CJS Invs. Inc.
+	2014 NY Slip Op 01118 [114 AD3d 521]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	SunLight General Capital LLC, Appellant,
+v
+CJS
+Investments Inc. et al., Respondents, et al., Defendant.
+
+
+—[*1]
+
+
+Nixon Peabody LLP, New York (Frank H. Penski of counsel), for appellant.
+
+Herrick, Feinstein LLP, New York (Jeffrey I. Wasserman of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, New York County (Barbara R. Kapnick, J.), entered June 27,
+2013, which granted defendants CJS Investments Inc. and Clean Jersey Solar LLC's
+motion, pursuant to CPLR 3211 (a) (8), for dismissal of the complaint as against them,
+unanimously affirmed, with costs.
+
+In this action, plaintiff SunLight General Capital LLC, a New York corporation,
+seeks, inter alia, recovery for damages allegedly incurred as a result of defendants'
+breaches of contract and tortious interference. Defendants CJS Investments Inc. (CJS)
+and Clean Jersey Solar LLC (Clean Jersey) are New Jersey entities, with offices and
+employees located solely within the State of New Jersey, and whose alleged actions
+herein occurred with the State of New Jersey. The contractual claims, as against CJS
+arise out of CJS's entry into a memorandum of understanding (MOU) with plaintiff
+which contemplated a joint venture whose business was to consist of the development of
+solar energy facilities on New Jersey properties owned by CJS. All of the meetings
+between plaintiff and CJS took place in New Jersey, and the MOU contained a New
+Jersey choice-of-law provision.
+
+The fact that CJS negotiated the terms of the MOU and communicated with plaintiff
+via email and telephone, which communications do not serve as the basis for plaintiff's
+claims, is insufficient to constitute the transaction of business within New York (see
+CPLR 302 [a] [1]; Arouh v
+Budget Leasing, Inc., 63 AD3d 506 [1st Dept 2009]; Warck-Meister v Diana
+Lowenstein Fine Arts, 7 AD3d 351 [1st Dept 2004]; Granat v Bochner,
+268 AD2d 365 [1st Dept 2000]). Plaintiff's actions within New York, including making
+presentations to potential investors and executing the MOU, cannot be imputed to CJS
+for jurisdictional purposes (see
+Royalty Network, Inc. v Harris, 95 AD3d 775 [1st Dept 2012]; see also
+Standard Wine & Liq. Co. v Bombay Spirits Co., 20 NY2d 13, 17 [1967]; Libra
+Global Tech. Servs. [UK] v Telemedia Intl., 279 AD2d 326 [1st Dept 2001]).
+Accordingly, plaintiff's breach of contract and breach of duty of fair dealing claims were
+properly dismissed as against CJS.
+
+Likewise, dismissal of the tortious interference claims asserted against CJS and
+Clean [*2]Solar was proper. Plaintiff cannot establish
+personal jurisdiction, pursuant to CPLR 302 (a) (3) (ii), in the absence of evidence that
+these defendants "derive[ ] substantial revenue from interstate or international
+commerce."
+
+Finally, plaintiff failed to make a "sufficient start," via tangible evidence, in
+demonstrating that long-arm jurisdiction may exist over these defendants, and thus,
+jurisdictional discovery is not warranted (see Insurance Co. of N. Am. v EMCOR Group, Inc., 9 AD3d
+319, 320 [1st Dept 2004]; Granat v Bochner, 268 AD2d at 365).
+Concur—Sweeny, J.P., Renwick, Moskowitz, Richter and Gische, JJ.
+
+

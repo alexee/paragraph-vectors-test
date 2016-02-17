@@ -1,0 +1,115 @@
+
+	Dillenbeck v Shovelton
+	2014 NY Slip Op 01370 [114 AD3d 1125]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Jessica Dillenbeck, Respondent, v Robert Shovelton,
+Appellant.
+
+
+—[*1]
+
+
+Joseph D. Caldwell, New Hartford, for appellant.
+
+Robert Abdella, Gloversville, for respondent.
+
+
+
+Peters, P.J. Appeal from an order of the Supreme Court (J. Sise, J.), entered March 1,
+2013 in Montgomery County, which denied defendant's motion for summary judgment
+dismissing the complaint.
+
+Upon returning from work on the morning of February 7, 2011, plaintiff stepped
+onto the porch of her apartment building and an area of the wooden floorboards
+collapsed, causing her right leg to fall through the resulting opening in the porch surface.
+The initial collapse did not cause injury to plaintiff. However, upon extricating her right
+leg from the opening with the use of her left knee and right hand and attempting to
+proceed forward towards the doorway, the toe of plaintiff's right shoe caught a portion of
+the broken floorboard that was still attached to the deck, causing her to fall into the front
+door to the apartment and injure her shoulder. Plaintiff thereafter commenced this
+negligence action against defendant, her landlord and the owner of the premises, to
+recover damages for her injuries. Following joinder of issue and discovery, defendant
+moved for summary judgment dismissing the complaint. Supreme Court denied the
+motion, and defendant appeals.
+
+"[D]efendant, as the movant for summary judgment, bore the initial burden of
+establishing, as a matter of law, that he maintained the property in a reasonably safe
+condition and did not have actual or constructive notice of the allegedly dangerous
+condition" (Vincent v
+Landi, 101 AD3d 1565, 1566 [2012]; see Beckerleg v Tractor Supply Co., 107 AD3d 1208, 1209
+[2013]). Here, defendant submitted an affidavit stating that the porch flooring appeared
+in sound [*2]structural condition and that, during his
+numerous visits to the premises in the months prior to the incident, the floorboards never
+exhibited any weakness, movement or other signs indicating a problem with their
+integrity. He further averred that there were no previous accidents or mishaps associated
+with the front porch floor during the 15 years that he owned and leased out the premises,
+nor had he received any complaints about the condition of the porch flooring or its
+integrity prior to this incident. Defendant also proffered plaintiff's own deposition
+testimony that she had repeatedly used the front porch during the four-month period
+immediately prior to her accident and never noticed anything dangerous or defective
+about the condition of the floorboards. This proof was sufficient to shift the burden to
+plaintiff to establish the existence of issues of fact requiring a trial (see Timmins v Benjamin, 77
+AD3d 1254, 1254-1255 [2010]; Raczes v Horne, 68 AD3d 1521, 1522 [2009]; Reid v Schalmont School
+Dist., 50 AD3d 1323, 1324-1325 [2008]).
+
+On the issue of notice, plaintiff submitted an affidavit from a tenant living at the
+premises at the time of the accident, who stated that he had complained to defendant
+about the condition of the porch on three separate occasions prior to plaintiff's fall. More
+specifically, this individual averred that he had informed defendant that the porch
+floorboards were rotting, unsafe and would bend under his weight and that, in reply to
+one of his complaints, defendant acknowledged the problems associated with the front
+porch flooring and stated, "I'll get to it." Although this tenant's affidavit is patently
+inconsistent with plaintiff's deposition testimony regarding the appearance and condition
+of the porch flooring, as well as defendant's assertion that he had not received any
+complaints concerning the floor, a court may not assess credibility on a summary
+judgment motion "unless it clearly appears that the issues are not genuine, but feigned"
+(Glick & Dolleck v Tri-Pac Export Corp., 22 NY2d 439, 441 [1968]; see Asabor v Archdiocese of
+N.Y., 102 AD3d 524, 527 [2013]; Conciatori v Port Auth. of N.Y. & N.J., 46 AD3d 501, 503
+[2007]; Rifenburgh v Wilczek, 294 AD2d 653, 655 [2002]; compare Valenti v Exxon Mobil
+Corp., 50 AD3d 1382, 1384 [2008]). As Supreme Court properly concluded, no
+such finding can be made here.
+
+Moreover, factual issues exist as to proximate cause. As for defendant's argument
+that the claimed defects in the porch floorboards merely furnished the condition for the
+occurrence of plaintiff's accident but was not one of its causes, a jury could reasonably
+conclude that defendant's alleged negligence indeed "put in motion the agency by which
+the injuries were inflicted" (Benaquista v Municipal Hous. Auth. of City of
+Schenectady, 212 AD2d 860, 861 [1995] [internal quotation marks and citation
+omitted]; accord Lockhart v Adirondack Tr. Lines, 289 AD2d 686, 690 [2001];
+compare Ortiz v Jimtion Food Corp., 274 AD2d 508 [2000]; Button v
+Rainbow Prods. & Servs., 234 AD2d 664, 665 [1996]). Nor do we find that, as a
+matter of law, plaintiff's conduct in attempting to step over the opening created by the
+broken floorboards upon extricating her right leg therefrom constitutes "intervening
+conduct [that] was extraordinary under the circumstances, not foreseeable in the normal
+course of events, or independent of or far removed from [defendant's] conduct" (Nash v Fitzgerald, 14 AD3d
+850, 851 [2005] [internal quotation marks and citations omitted]). Plaintiff testified
+that she believed she could successfully step over the broken floorboards and resulting
+opening and, although it may have been possible for her to have instead placed her foot
+to the side of the opening after removing her leg from it, this simply is not a case "where
+the plaintiff recognized the danger and chose to disregard it, thus rendering [her] conduct
+the sole proximate cause" of her injuries (Skibinski v Salvation Army, 307 AD2d
+427, 428 [2003]; accord Neissel
+v Rensselaer Polytechnic Inst., 54 AD3d 446, 452 [2008], lv denied 11
+NY3d 716 [2009]; Nash v Fitzgerald, 14 AD3d at 852). Rather, any such
+negligence on the part of plaintiff amounts only to comparative negligence not [*3]rising to the level of a superceding cause (see Alexander v St. Mary's
+Inst., 78 AD3d 1475, 1476 [2010]; Page v State of New York, 72 AD3d 1456, 1459 [2010];
+Nash v Fitzgerald, 14 AD3d at 852; Skibinski v Salvation Army, 307
+AD2d at 428; Mesick v State of New York, 118 AD2d 214, 218 [1986], lv
+denied 68 NY2d 611 [1986]).
+
+Defendant's remaining contention, that the complaint should have been dismissed for
+failure to state a cause of action, has been reviewed and found to be lacking in merit.
+
+Stein, Rose and Egan Jr., JJ., concur. Ordered that the order is affirmed, with costs.
+
+

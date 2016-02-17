@@ -1,0 +1,131 @@
+
+	Simmons-Grant v Quinn Emanuel Urquhart & Sullivan, LLP
+	2014 NY Slip Op 01407 [116 AD3d 134]
+	February 27, 2014
+	Acosta, J.
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, May 28, 2014
+
+
+
+
+
+[*1]
+	Kisshia Simmons-Grant, Respondent,
+v
+Quinn Emanuel Urquhart & Sullivan, LLP, Appellant.
+
+
+
+First Department, February 27, 2014
+
+
+
+
+
+
+
+
+
+
+
+
+APPEARANCES OF COUNSEL
+
+
+
+Proskauer Rose LLP, New York City (Lawrence R. Sandak and Alychia L. Buchan of counsel), for appellant.
+
+Liddle & Robinson, L.L.P., New York City (James W. Halter of counsel), for respondent.
+
+
+
+{**116 AD3d at 136} OPINION OF THE COURT
+
+
+
+Acosta, J.P.
+
+This appeal requires us to decide whether the doctrine of collateral estoppel bars an employee's retaliation claim under the New York City Human Rights Law (the City HRL), where [*2]a similar claim under title VII of the Civil Rights Act of 1964 was dismissed by the U.S. District Court for the Southern District of New York.
+
+Plaintiff is an African American woman who was employed by defendant law firm as an hourly "staff attorney" from 2006 until she resigned effective August 5, 2010. In 2011, she filed a complaint in federal court alleging racial discrimination and retaliation (including constructive discharge as a consequence of the latter) under title VII (42 USC § 2000e et seq.), the New York State Human Rights Law (Executive Law, art 15, § 296), and the City HRL (Administrative Code of City of NY § 8-107). In January 2013, the District Court granted defendant's motion for summary judgment dismissing plaintiff's title VII claims and declined to exercise supplemental jurisdiction over plaintiff's state and city claims (Simmons-Grant v Quinn Emanuel Urquhart & Sullivan, 915 F Supp 2d 498 [SD NY 2013]). Later that month, plaintiff refiled her City HRL claims in New York State Supreme Court. Defendant moved to strike portions of plaintiff's complaint and dismiss her retaliation cause of action pursuant to CPLR 3211 (a) (5) and (7), contending that the cause of action is barred by the doctrine of collateral estoppel.
+
+The motion court denied defendant's motion to dismiss, stating that the District Court "never addressed the issues and the factual findings as it [sic] relates to causes of action under [the City HRL]." This appeal followed. We note that defendant did not seek to dismiss plaintiff's discrimination cause of action and, accordingly, we deal only with her City HRL retaliation claim (Administrative Code § 8 107 [7]).
+
+
+Substance of Plaintiff's Retaliation Claim
+
+
+In both the federal court action and the state court action, plaintiff alleged that, because she had complained in February{**116 AD3d at 137} 2010 to the managing partner of defendant's New York office about allegedly discriminatory practices (a complaint the managing attorney rejected the same month), she was retaliated against in July 2010 in connection with defendant's handling of a dispute she had with a coworker that arose out of an ongoing assignment to work on a document review project (the United Guarantee matter).
+
+Plaintiff does not claim retaliation from her assignment, along with two coworkers, to supervise the work of "contract attorneys" on the United Guarantee matter. Indeed, she acknowledged in her complaint that she was assigned to the United Guarantee matter in January 2010, before she made a complaint of discriminatory practices.
+
+Nor does plaintiff claim any ongoing pattern of retaliation; her allegations of retaliation are limited to a one-day period from July 20 to July 21, 2010. Earlier that month, the associate in charge of the project had asked that the staff attorneys add a Saturday shift to the schedule to expedite the United Guarantee matter. A rotating schedule of Saturday coverage was set up, apparently by plaintiff (who does not allege that she was singled out for Saturday work).
+
+On July 20th, plaintiff informed the senior discovery attorney and the New York office manager by email that her coworker was upset about having to work on Saturdays and that, several days earlier, he had screamed at her while he "was shaking and angry." (Plaintiff's coworker denied raising his voice.) After plaintiff attempted to ameliorate the situation by scheduling herself to work in lieu of her coworker on Saturday, July 24th, he left her a voicemail message indicating his refusal to work on Saturdays. Plaintiff, who characterized her coworker's [*3]behavior as "an obvious overreaction to a mundane scheduling matter," ultimately requested that either she or the coworker be reassigned to a different project because she was fearful of working with him. The record before this Court is devoid of any evidence of the words exchanged at plaintiff's in-person confrontation with the coworker or in any of their correspondence, and there is no allegation that any verbal threats were made against plaintiff.
+
+The next day, July 21st, plaintiff met with the senior discovery attorney and the New York office manager and reiterated her request that she or her coworker be reassigned. Plaintiff does not allege that they stonewalled her request to have her contact with this particular coworker limited. In fact, plaintiff's deposition{**116 AD3d at 138} testimony in the federal action established that the senior discovery attorney offered to take over responsibility assigning the shift schedule (Simmons-Grant, 915 F Supp 2d at 502). The court also noted that plaintiff's testimony reflected two other solutions proposed by defendant that were discussed at the meeting: "all communications between plaintiff and [the coworker] would go through" the senior discovery attorney, and "a twenty-minute buffer would be created between [their] shifts" (id.). Plaintiff's complaint in the federal court action confirms the 20-minute buffer proposal; her complaint in the state court action adds that the senior discovery attorney and office manager offered to make sure that plaintiff and the coworker "would not be assigned to the same projects in the future."
+
+What plaintiff does say is retaliatory—that is, what occurred because she had previously opposed allegedly discriminatory practices—is that defendant refused during the meeting to immediately reassign her to another project, although it would have been easy to do so. Later that day, plaintiff submitted her resignation by email, effective August 5, 2010.
+
+
+Discussion
+
+
+The doctrine of collateral estoppel applies where "[f]irst, the identical issue necessarily must have been decided in the prior action and be decisive of the present action, and second, the party to be precluded from relitigating the issue . . . had a full and fair opportunity to contest the prior determination" (Kaufman v Eli Lilly & Co., 65 NY2d 449, 455 [1985]).
+
+
+"The party seeking the benefit of collateral estoppel has the burden of demonstrating the identity of the issues in the present litigation and the prior determination, whereas the party attempting to defeat its application has the burden of establishing the absence of a full and fair opportunity to litigate the issue in the prior action" (id. at 456).
+
+
+In considering plaintiff's title VII constructive discharge claim, the District Court examined, as it was obliged to do, the question of whether defendant "intentionally subjected her to an intolerable work environment" (Simmons-Grant, 915 F Supp 2d at 506).[FN1]
+
+An integral part [*4]of the court's determination that{**116 AD3d at 139} defendant had not done so was its explicit finding that defendant "responded promptly after [p]laintiff's complaint" and "the next day, July 21, 2010, attempted to address [p]laintiff's concerns within the constraints of [defendant's] staffing situation" (id. at 507).
+
+To have concluded that defendant did all that it could given its staffing constraints, the District Court also necessarily considered the argument that plaintiff had explicitly and directly advanced, namely that it "would have been simple" for defendant to switch plaintiff's assignment with any of a number of other staff attorneys, but that defendant chose not to utilize that alternative as an act of retaliation. The court explicitly found that plaintiff "ha[d] not introduced any evidence to contradict [the supervising discovery attorney's] statement that all of the contract attorneys were, at that time, working on time-sensitive matters which would have been disrupted by a transfer, and that no alternative placement was available" (Simmons-Grant, 915 F Supp 2d at 507 [emphasis added]). The supervising discovery attorney "could not immediately transfer [p]laintiff," the court also explicitly concluded (id.).
+
+In the unique circumstances of this case, it is appropriate to estop plaintiff from relitigating the issue of whether an immediate reassignment was possible. Consequently, by being precluded from arguing that an immediate reassignment was possible, plaintiff will be unable to prove that the challenged failure to reassign occurred, in whole or in part, because of retaliation.[FN2]
+
+As the failure to immediately transfer plaintiff is {**116 AD3d at 140}the sole action or failure to act that comprises the entirety of plaintiff's City HRL retaliation claim in this action, that retaliation claim is herewith dismissed.
+
+There are several factors specific to this case, and integral to our determination, that make the application of the doctrine of collateral estoppel appropriate to the extent indicated.
+
+First, plaintiff does not argue that she lacked a full and fair opportunity to litigate the [*5]issue of the feasibility of immediate reassignment. Indeed, that issue was central to the previous litigation.
+
+Second, the feasibility-of-immediate-reassignment issue, a strictly factual question not involving application of law to facts or the expression of an ultimate legal conclusion, does not implicate any of the several ways in which City HRL claims—including retaliation claims—raise issues not identical to their federal and state counterparts. Those issues include a lack of identity with federal and state counterparts of elements of claims, the scope of conduct proscribed, methods and standards of proof, as well as the distinct demand made by the City HRL—and applicable across all issues—that evidence be assessed with maximum sensitivity to the impact that workplace realities can have on employees (see e.g. Williams, 61 AD3d at 70-71). Of course, the resolution of even a strictly factual issue could vary depending on the balancing process that shapes a court's view of one or more events. The balancing process demanded by title VII as it has been interpreted (see e.g. Simmons-Grant, 915 F Supp 2d at 506) and the City HRL as it has been amended by the Restoration Act (see e.g. Williams, 61 AD3d at 66; Mihalik v Credit Agricole Cheuvreux N. Am., Inc., 715 F3d 102, 109 [2d Cir 2013] Loeffler v Staten Is. Univ. Hosp., 582 F3d 268, 278 [2d Cir 2009]) can easily yield different interpretations and, hence, different results. A federal court's factual findings under the federal analytical framework may preclude state courts from adjudicating city law claims. Here, however, the concern is minimal, because the District Court's fact-finding regarding this single, time-limited event was based on undisputed evidentiary materials and involved virtually no judicial interpretation.
+
+Third, this case involves an explicit finding that plaintiff produced no evidence on the relevant specific factual issue in the litigation. Indeed, in opposition to defendant's collateral estoppel motion, plaintiff has not identified any evidence on the relevant issue that the court in the previous litigation overlooked. Thus, the frequent risk that evidence winds up being{**116 AD3d at 141} undervalued for City HRL purposes because it has been filtered through a title VII lens is not present here.[FN3]
+[*6]
+
+On appeal, plaintiff focuses her argument on the fact that the provisions of the City HRL must be construed liberally and independently to accomplish their "uniquely broad and remedial purposes" (Administrative Code § 8-130). She correctly sets forth the general principle (see e.g. Albunio v City of New York, 16 NY3d 472, 477-478 [2011] [all provisions of the City HRL must be construed "broadly in favor of discrimination plaintiffs, to the extent that such a construction is reasonably possible"] Williams, 61 AD3d at 66 [clarifying that the City HRL, as amended by the Restoration Act, "now explicitly requires an independent liberal construction analysis in all circumstances, even where state and federal civil rights laws have comparable language"]). Plaintiff's difficulty is that the general principle does not substitute for evidence as to the feasibility of an immediate reassignment (see e.g. Bennett, 92 AD3d at 38 ["In the context of a summary judgment motion, of course, once a defendant has laid bare its proof, a plaintiff is compelled to do the same"]). Although defendant's motion is not for summary judgment, once defendant established its nonretaliatory reason in the federal action, plaintiff was required to identify an issue of fact. She failed to do so.
+
+Because we are dismissing the second cause of action (the retaliation claim) in the state court action, that branch of defendant's motion which seeks to limit the relief available to plaintiff arising out of plaintiff's alleged constructive discharge is denied as moot. As we read the complaint, the claim for constructive discharge is wholly unrelated to the underlying discrimination claim (the first cause of action that remains); it was allegedly a consequence only of the now-dismissed retaliation claim.
+
+Accordingly, the order of the Supreme Court, New York County (Joan M. Kenney, J.), entered April 30, 2013, which, to{**116 AD3d at 142} the extent appealed from, denied defendant's motion to dismiss the second cause of action for retaliation and to strike certain portions of plaintiff's complaint, should be modified, on the law, to dismiss the second cause of action, and otherwise affirmed, without costs.
+
+Renwick, Saxe, DeGrasse and Richter, JJ., concur.
+
+Order, Supreme Court, New York County, entered April 30, 2013, modified, on the law, to dismiss the second cause of action, and otherwise affirmed, without costs.
+
+
+Footnotes
+
+
+
+
+Footnote 1: [1] This Court has not yet ruled as to the contours of a City HRL constructive discharge claim using enhanced liberal construction analysis required by the New York City Local Civil Rights Restoration Act of 2005 (Local Law No. 85 [2005] of City of NY [Restoration Act]). The requirements of this type of analysis are set out in Williams v New York City Hous. Auth. (61 AD3d 62 [1st Dept 2009]). As such, it should not be assumed that the standards for establishing constructive discharge under the City HRL are the same as have been set forth for title VII, either in respect to the degree of difficulty or unpleasantness of working conditions required to make out the claim or otherwise.
+
+
+
+
+Footnote 2: There can, of course, be circumstances where the fact that an employer cannot modify assignments without causing at least some disruption to the business will not be dispositive of the employer's motive or the adequacy of its response. These include circumstances in which other employees have received reassignments with a similar business impact, harassment situations where reassignment of an alleged harasser is an "immediate and appropriate corrective action" (Administrative Code § 8-107 [13] [b] [2]) notwithstanding business disruption, and cases of accommodation for persons with disabilities where the covered entity fails to prove that a business disruption constitutes an "undue hardship."
+
+
+
+
+Footnote 3: Where there is some evidence that even one of the defendant's explanations is false, misleading, or incomplete, for example, the conclusion that ought to follow differs markedly between federal law and the City HRL (see e.g. Bennett v Health Mgt. Sys., Inc., 92 AD3d 29, 41-42, 43 [1st Dept 2011], lv denied 18 NY3d 811 [2012] [contrasting Reeves v Sanderson Plumbing Prods., Inc. (530 US 133 [2000]), regarding evidence of falsity for federal purposes, with the City HRL rule that, inter alia, treats evidence of falsity as much more probative]). In the instant case, there is no such evidence, despite plaintiff's bald allegations that defendant could have immediately reassigned her.
+
+
+
+

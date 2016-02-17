@@ -1,0 +1,72 @@
+
+	Credit Agricole Corporate & Inv. Bank N.Y. Branch v BDC
+Fin., L.L.C.
+	2014 NY Slip Op 01242 [114 AD3d 552]
+	February 20, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Credit Agricole Corporate and Investment Bank New York
+Branch, Formerly Known as Calyon New York Branch, et al.,
+Respondents,
+v
+BDC Finance, L.L.C., et al.,
+Appellants.
+
+
+—[*1]
+
+
+Richards Kibbe & Orbe LLP, Washington, DC (David W.T. Daniels of the bar
+of the District of Columbia, admitted pro hac vice, of counsel), for appellants.
+
+White & Case LLP, New York (J. Christopher Shore of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, New York County (Paul G. Feinman, J.), entered September
+6, 2012, which, to the extent appealed from, granted plaintiffs' CPLR 3211 (a) (7) motion
+to dismiss the third counterclaim asserted by defendant BDC Finance, L.L.C. and
+counterclaim-plaintiffs Black Diamond Capital Management, L.L.C. and Black Diamond
+CLO 2006-1 (Cayman), Ltd. (collectively, BD-defendants) sounding in defamation, and
+directed that the claim be severed and judgment entered thereon, unanimously affirmed,
+with costs.
+
+The third counterclaim, alleging libel and slander by plaintiffs' counsel in connection
+with statements he made to a reporter that were printed in an article published in a
+financial news publication, was properly dismissed. The article, fairly read, summarized
+bankruptcy proceedings in which BD-defendants, who held a majority interest in the
+debtor's credit financing obligations, acquired the right to supervise the liquidation of the
+debtor's assets. Plaintiffs, the debtor's minority secured lenders, argued that the sale of the
+debtor's assets at auction using a "credit bid" effectively compromised their security
+interests in the assets. Plaintiffs further argued that the bankruptcy trustee's motion
+seeking court approval of the auction sale, in essence, failed to adequately protect their
+security interests. In this context, plaintiffs' counsel's statement to the reporter that it was
+his belief that the trustee's motion for court approval was "based upon a misconception
+that something could be good for a liquidating estate but not for its creditors
+. . . [and that] [j]ust because the Corleones pay for fireworks in Little Italy
+doesn't mean they're good guys," would be interpreted by a reasonable reader to be of and
+concerning the trustee's conduct, not that of BD-defendants (see Aronson v
+Wiersma, 65 NY2d 592, 594 [1985]). Further, this statement is entitled to absolute
+privilege because it was made in connection with a judicial proceeding (see Rosenberg v MetLife, Inc.,
+8 NY3d 359, 365 [2007]; Civil Rights Law § 74).
+
+Another statement contained in the article, asserting that "the plan proponents" argue
+that the "sale motion gives Black Diamond at least $126 million in value that belongs to
+secured [*2]lenders in exchange for a mere $4.6 million
+payout to unsecured lenders" is also alleged to be defamatory. This statement is also
+privileged (id.), and, in any event, is non-actionable since it has not been pleaded
+with the requisite particularity. BD-defendants have not adequately alleged the
+statement's falsity nor have they sufficiently asserted that it was made by plaintiff's
+counsel, rather than any of the members of plaintiffs, to whom the statement is attributed.
+Concur—Gonzalez, P.J., Tom, Saxe, Freedman and Manzanet-Daniels, JJ.
+
+

@@ -1,0 +1,178 @@
+
+	Austin v CDGA Natl. Bank Trust & Canandaigua Natl.
+Corp.
+	2014 NY Slip Op 01087 [114 AD3d 1298]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Vivian M. Austin, Appellant,
+v
+CDGA National
+Bank Trust and Canandaigua National Corporation, Doing Business as Canandaigua
+National Bank and Trust Company, Respondents.
+
+
+—[*1]
+
+
+William K. Mattar, P.C., Williamsville (Sara T. Wallitt of counsel), for
+plaintiff-appellant.
+
+Trevett Cristo Salzer & Andolina, P.C., Rochester (Eric M. Dolan of counsel), for
+defendants-respondents.
+
+
+
+Appeal from an order of the Supreme Court, Ontario County (Frederick G. Reed,
+A.J.), entered October 29, 2012 in a personal injury action. The order granted the motion
+of defendants for summary judgment dismissing the complaint.
+
+It is hereby ordered that the order so appealed from is affirmed without costs.
+
+Memorandum: Plaintiff commenced this action seeking damages for injuries that she
+sustained when she allegedly slipped and fell on an icy step while exiting defendants'
+bank. Defendants thereafter moved for summary judgment dismissing the complaint on
+the grounds that there was no dangerous condition and that they had no notice of any
+allegedly dangerous condition. Supreme Court properly granted defendants' motion.
+Although defendants' own submissions, which include the deposition testimony of
+plaintiff that she saw ice on the step, raise an issue of fact concerning the presence of a
+dangerous condition (see
+generally Acevedo v New York City Tr. Auth., 97 AD3d 515, 516 [2012]), we
+conclude that defendants met their burden of establishing that they lacked notice of the
+allegedly dangerous condition, and plaintiff failed to raise a triable issue of fact in
+opposition (see Costanzo v
+Woman's Christian Assn. of Jamestown, 92 AD3d 1256, 1258 [2012]; see
+generally Zuckerman v City of New York, 49 NY2d 557, 562 [1980]).
+
+Here, plaintiff relies upon a theory of constructive notice, and it is well settled that,
+"[t]o constitute constructive notice, a defect must be visible and apparent and it must
+exist for a sufficient length of time prior to the accident to permit defendant's employees
+to discover and remedy it" (Gordon v American Museum of Natural History, 67
+NY2d 836, 837 [1986]; see Smith v May Dept. Store, Co., 270 AD2d 870, 870
+[2000]; see also O'Neil v
+Holiday Health & Fitness Ctrs. of N.Y., 5 AD3d 1009, 1010 [2004]). In support
+of the motion, defendants submitted the deposition testimony of their facilities
+supervisor, who is in charge of snow and ice maintenance at the bank. The facilities
+supervisor testified that he routinely inspects the bank's steps and sidewalk upon his
+arrival at the bank between 6:30 a.m. and 7:30 a.m. He or his employees salt or shovel
+"first thing" in the morning, if the conditions require such action. In addition to
+inspecting the property upon their arrival, facilities personnel regularly monitor
+conditions throughout the day and "re-salt or re-shovel" as needed, and do so more
+frequently during inclement weather or if a customer complains. Defendants did not
+receive any complaints about snow, ice, or any other dangerous condition on the step
+prior to the accident. After the accident, which occurred at approximately 12:15 p.m., the
+facilities supervisor did not salt the steps or direct an employee to do so because he saw
+nothing to salt. Defendants also submitted the deposition testimony of their regional
+manager, who testified that there was no ice on the step when he arrived at the bank
+between 8:00 a.m. and 8:30 a.m. on the morning of the accident and that, after the
+accident, he inspected the step and the surrounding area and did not observe any snow or
+ice. A bank security [*2]officer testified that he
+photographed the step approximately two hours after the accident, at which time there
+was no snow or ice on the step. The security officer testified that he was "perplex[ed]"
+when he viewed the accident scene because he observed "nothing . . . to slip
+or fall on." The postaccident photographs of the step depict what appears to be salt
+residue, but no ice.
+
+We cannot agree with the dissent that defendants failed to meet their burden relative
+to constructive notice because they did not establish when the step was last inspected and
+salted prior to the accident. Although "a defendant may meet its burden of
+affirmatively demonstrating a lack of [constructive] notice by offering proof of regularly
+recurring maintenance or inspection of the premises" (Kropp v Corning, Inc., 69
+AD3d 1211, 1212 [2010] [emphasis added]; see Webb v Salvation Army, 83 AD3d 1453, 1454 [2011]),
+such evidence is not required where, as here, defendants submitted the deposition
+testimony from their employees who were at the bank on the day of the accident
+concerning the condition of the step in the hours prior to and at the time of the accident
+(see Evangelista v Church of St.
+Patrick, 103 AD3d 571, 571 [2013]; cf. Spector v Cushman & Wakefield, Inc., 87 AD3d 422,
+423 [2011]; De La Cruz v
+Lettera Sign & Elec. Co., 77 AD3d 566, 566-567 [2010]; Kropp, 69
+AD3d at 1212-1213; see
+generally Rodriguez v Bronx Zoo Rest., Inc., 110 AD3d 412, 412 [2013]).
+
+The burden thus shifted to plaintiff to "demonstrate by admissible evidence the
+existence of a factual issue requiring a trial of the action or tender an acceptable excuse
+for [her] failure so to do" (Zuckerman, 49 NY2d at 560; see Rodriguez v 705-7 E. 179th St.
+Hous. Dev. Fund Corp., 79 AD3d 518, 519 [2010]). Contrary to the contention
+of plaintiff, the unsworn expert reports that she submitted in opposition to the motion
+were not in admissible form and thus were insufficient to raise a triable issue of fact (see generally Arce v 1704 Seddon
+Realty Corp., 89 AD3d 602, 603 [2011]; Woodard v City of New York,
+262 AD2d 405, 405 [1999]; Stowell v Safee, 251 AD2d 1026, 1026 [1998]; see also Ciccarelli v Cotira,
+Inc., 24 AD3d 1276, 1276-1277 [2005]). In any event, the report of plaintiff's
+expert meteorologist was insufficient to raise an issue of fact because it " 'was completely
+speculative and conclusory, failed to set forth foundational facts, assumed facts not
+supported by the evidence, and failed to recite the manner in which [he] came to his
+conclusions' " (Ciccarelli, 24 AD3d at 1277). The report of plaintiff's expert
+engineer was likewise insufficient to defeat defendants' motion because it improperly
+raised for the first time the allegation that the structure of the step itself was defective
+(see Wilson v Prazza, 306 AD2d 466, 467 [2003]). Although plaintiff's
+deposition testimony raises an issue of fact relative to the presence of ice on the step, we
+conclude that it is insufficient to raise an issue of fact with respect to constructive notice
+(see Hyna v Reese, 52
+AD3d 1254, 1255-1256 [2008]).
+
+Finally, there is no merit to plaintiff's contention that summary judgment is
+premature because she has not yet deposed defendants' janitorial staff or reviewed
+defendants' records to identify all employees who were working on the date of the
+accident. Plaintiff has not presented any evidence tending to show that she requested, and
+was denied, the opportunity to depose additional employees during the relevant time
+period, or that she requested, but was not provided, the records sought (cf. Juseinoski v New York Hosp.
+Med. Ctr. of Queens, 29 AD3d 636, 637-638 [2006]; see generally
+CPLR 3212 [f]). Moreover, inasmuch as the accident occurred during business hours, we
+fail to see how deposing the janitorial staff, which is responsible for maintenance after
+the bank's business hours and on the weekends, would yield any information that would
+lead to relevant evidence (see
+Peerless Ins. Co. v Micro Fibertek, Inc., 67 AD3d 978, 979 [2009]). There is
+likewise no basis for plaintiff's assertion that deposing additional employees would
+reveal pertinent information about the existence of ice on the premises, particularly given
+that she has already deposed three employees who were working on the date of plaintiff's
+accident. We thus conclude that "[p]laintiff's 'mere hope or speculation' that further
+discovery will lead to evidence sufficient to defeat defendant[s'] . . . motion
+is insufficient to warrant denial thereof" (Kaufmann's Carousel, Inc. v Carousel Ctr. Co. LP, 87 AD3d
+1343, 1345 [2011], lv dismissed 18 NY3d 975 [2012]).
+
+All concur except Whalen, J., who dissents in part and votes to modify in accordance
+with the following memorandum.
+
+Whalen, J. (dissenting in part). I respectfully dissent in part because I cannot agree
+with the majority's conclusion that defendants met their burden of establishing on their
+motion for summary judgment dismissing the complaint that they did not have
+constructive notice of the alleged icy condition. I would therefore modify the order by
+denying defendants' motion with respect to constructive notice, and reinstating the
+complaint to that extent.
+[*3]
+We have held that a defendant failed to meet its
+burden on its motion for summary judgment in slip and fall cases where, as here, there
+was no proof when the surface on which the plaintiff fell was last inspected (see Bailey v Curry, 1 AD3d
+1059, 1059-1060 [2003]; Mancini v Quality Mkts., 256 AD2d 1177,
+1177-1178 [1998]). Here, as in Bailey and Mancini, there was deposition
+testimony that the steps and sidewalk are routinely inspected, but there is no evidence in
+the record that those inspections occurred on the day of plaintiff's accident, before her
+fall (see Bailey, 1 AD3d at 1059; Mancini, 256 AD2d at 1177-1178).
+Rather, there was only general deposition testimony from bank employees that they did
+not recall seeing snow or ice on the step in the surrounding area. Given such general
+deposition testimony, and mindful that discovery has not yet been completed, I disagree
+with the majority's speculation that affording plaintiff the opportunity to depose
+defendants' janitorial staff could not lead to any relevant evidence (see generally
+CPLR 3212 [f]). Rather, the deposition testimony of the janitorial staff may reveal when
+the steps were actually last inspected, as opposed to when defendants believe the steps
+were last inspected based on routine practices. In support of their motion, defendants
+submitted photographs taken two hours after the accident that depict salt residue in the
+area where plaintiff fell. Thus, there is evidence that someoneÂ—possibly a member of
+defendants' janitorial staffÂ—salted the step at some point before plaintiff's fall. If a
+member of defendants' janitorial staff salted the step the night before plaintiff's fall or
+before the bank opened on the morning of plaintiff's fall, a trier of fact could infer that
+defendants should have had notice that the steps were icy at some point before plaintiff's
+fall, thus raising an issue of fact whether defendants had constructive notice of the
+alleged icy condition (see generally id.; Zuckerman v City of New York,
+49 NY2d 557, 562 [1980]). Present—Centra, J.P., Peradotto, Carni, Sconiers and
+Whalen, JJ.
+
+

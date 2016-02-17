@@ -1,0 +1,128 @@
+
+	Genger v Genger
+	2014 NY Slip Op 01421 [115 AD3d 421]
+	March 4, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 30, 2014
+
+
+
+
+
+
+	Orly Genger, Individually and on Behalf of the Orly
+Genger 1993 Trust, Respondent,
+v
+Dalia Genger et al., Appellants, et al.,
+Defendant.
+
+
+[Recalled and vacated, see 120 AD3d 1102.]
+
+—[*1]
+
+
+Pedowitz & Meister, L.L.P., New York (Robert A. Meister of counsel), for
+Dalia Genger, appellant.
+
+Morgan, Lewis & Bockius LLP, New York (John Dellaportas of counsel), for Sagi
+Genger and TPR Investment Associates, Inc., appellants.
+
+Judith Lisa Bachman, New City, for Leah Fang, appellant.
+
+Zeichner Ellman & Krause LLP, New York (Yoav M. Griver of counsel), for
+respondent.
+
+
+
+Order, Supreme Court, New York County (Barbara Jaffe, J.), entered May 31, 2013,
+which, insofar as appealed from, denied the motions of defendants TPR Investment
+Associates, Inc. (TPR) and D&K GP LLC (D&K GP) to amend their answers and for
+summary judgment dismissing the claims against them, granted plaintiff's cross motion
+for sanctions against TPR, D&K GP, defendant Dalia Genger (Dalia), and defendant
+Sagi Genger (Sagi), sanctioned defendant Leah Fang (Fang), and denied Fang's motion
+for summary judgment dismissing the claims against her, unanimously modified, on the
+law and the facts, to delete the sanctions against Dalia, Sagi, and Fang, and to grant
+Fang's motion for summary judgment dismissing the claims against her, and otherwise
+affirmed, without costs.
+
+Contrary to the motion court's statement, plaintiff did not cross-move for sanctions
+against Fang. Furthermore, Fang did not disobey the 2010 and 2011
+injunctions—she resigned as trustee of indirect plaintiff the Orly Genger 1993
+Trust (Orly's Trust) in January 2008 and had nothing to do with the 2011 and 2012
+settlements challenged by plaintiff. Hence, there was no basis for sanctioning Fang.
+
+Plaintiff's cross motion for sanctions was improper as against Dalia and Sagi, who
+were not movants (see e.g.
+Kershaw v Hospital for Special Surgery, 114 AD3d 75, 
+88-89 [1st Dept 2013]).
+
+TPR and D&K GP contend that they should not have been sanctioned because they
+did not violate the 2010 and 2011 injunctions. This argument is unavailing. Assuming,
+arguendo, [*2]that the 2010 order merely enjoined
+transfers, sales, pledges, assignments, or other dispositions of TPR shares (as opposed to
+transfers, etc., of the Orly's Trust's interest in double-derivative plaintiff D&K LP), Orly's
+Trust disclaimed any interest in any shares of TPR via the settlement agreements.
+
+It is true that the October 2011 settlement predated the December 2011 injunction;
+however, the parties to the settlement amended and restated their agreement in March
+2012, i.e., after the injunction. The 2011 order enjoined Sagi, TPR, and Dalia "from
+making demands upon and using or spending the proceeds derived from the purported
+sale by TPR . . . to [nonparty] Trump Group . . . of
+. . . the Orly Trust['s shares of nonparty Trans-Resources, Inc. (TRI)]
+. . . , pending the determination by a court of competent jurisdiction [of] the
+beneficial ownership of such shares." The promissory note which is a part of both
+settlement agreements—and which replaced a note that D&K LP had given in
+1993 (the 1993 Note)—provides that the principal and accrued interest shall be
+due "[i]mmediately upon [Orly's Trust]'s receipt of the proceeds from the sale of [its] TRI
+shares."
+
+In sum, the motion court properly found that TPR and D&K GP had disobeyed "a
+lawful mandate of the court" (Judiciary Law § 753 [A] [3]) and properly ordered
+them to pay plaintiff's attorneys' fees (see Davey v Kelly, 57 AD3d 230 [1st Dept 2008]).
+
+It was a provident exercise of the IAS court's discretion to deny TPR's and D&K
+GP's motions to amend their answers to add the defense of release because the proposed
+amendment lacked merit (see
+Eighth Ave. Garage Corp. v H.K.L. Realty Corp., 60 AD3d 404, 405 [1st Dept
+2009], lv dismissed 12 NY3d 880 [2009]).
+
+When a fiduciary has a conflict of interest in entering a transaction and does not
+disclose that conflict to his/her principal, the transaction is "voidable at the option of" the
+principal (Wendt v Fischer, 243 NY 439, 443 [1926]). Moreover, "an agent
+cannot bind his principal . . . where he is known to be acting for himself, or
+to have an adverse interest" (Manhattan Life Ins. Co. v Forty-Second St. & Grand St.
+Ferry R.R. Co., 139 NY 146, 151 [1893]).
+
+In June 2009, plaintiff brought a petition in Surrogate's Court to remove Dalia as
+trustee of Orly's Trust and to surcharge her. On July 2, 2009, plaintiff—on behalf
+of herself, her trust, and D&K LP—demanded that TPR return certain TPR shares
+which D&K LP had pledged and on which TPR had foreclosed. On July 7, 2009,
+plaintiff commenced the instant action against Dalia, Sagi, TPR, and D&K GP; she
+alleged, inter alia, that the Gengers never meant for the 1993 Note—which was
+replaced by the note created in conjunction with the settlement agreements—to be
+enforced.
+
+Under these circumstances, Dalia—as trustee of Orly's Trust—had a
+conflict of interest in releasing herself as part of the October 2011 and March 2012
+settlement agreements. Also, it is clear that plaintiff will want to void the settlement
+agreements (in which Orly's Trust disclaims any interest in TPR) and the related
+promissory note (in which Orly's Trust agrees to pay $4 million upon receipt of the
+proceeds of the sale of its TRI shares, which plaintiff did not want sold in the first place).
+
+Because the release is voidable at plaintiff's option, and because she will want to
+void it, the motion court properly denied TPR's and D&K GP's motions to amend their
+answers to add the defense of release, TPR's and D&K GP's motions for summary
+judgment dismissing the claims against them based on the release, and so much of Fang's
+motion as sought summary judgment dismissing the claims against her based on the
+releases contained in the 2011 and 2012 settlement agreements.
+[*3]
+Fang moved for summary judgment based on
+additional releases given to her by Dalia (as trustee of Orly's Trust) in December 2007
+and January 2008. The IAS court should have granted this branch of Fang's motion based
+on the releases that Dalia gave her. Concur—Tom, J.P., Friedman, Acosta, Andrias
+and Richter, JJ.
+
+

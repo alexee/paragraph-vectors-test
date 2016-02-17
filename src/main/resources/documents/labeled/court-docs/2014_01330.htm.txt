@@ -1,0 +1,181 @@
+
+	Matter of Town of Woodbury v County of Orange
+	2014 NY Slip Op 01330 [114 AD3d 951]
+	February 26, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of Town of Woodbury et al.,
+Respondents-Appellants, et al., Petitioner/Plaintiff-Respondent,
+v
+County of
+Orange et al., Respondents, and Village of Kiryas Joel,
+Appellant-Respondent.
+
+
+—[*1]
+
+
+Whiteman Osterman & Hanna LLP, Albany, N.Y. (Michael G. Sterthous and
+Robert S. Rosborough IV of counsel), for respondent/defendant-appellant-respondent.
+
+David K. Gordon and James B. Bacon, New Paltz, N.Y., for
+petitioners/plaintiffs-respondents-appellants.
+
+David L. Darwin, County Attorney, Goshen, N.Y. (Matthew J. Nothnagle of
+counsel), for respondents/defendants-respondents County of Orange, Orange County
+Legislature, and Orange County Sewer District Number 1.
+
+Norton & Christensen, Goshen, N.Y. (Henry N. Christensen, Jr., of counsel), for
+respondent/defendant-respondent Village of Chester.
+
+
+
+In a hybrid proceeding pursuant to CPLR article 78 to review (a) a determination of
+the Orange County Legislature dated February 4, 2010, accepting an amended final
+environmental impact statement and adopting an amended findings statement in relation
+to a proposed sale of wastewater treatment capacity, and (b) the alleged failure of the
+County of Orange to comply with the State Environmental Quality Review Act (ECL art
+8) in executing an agreement dated February 19, 2010, between the County of Orange
+and Orange County Sewer District No. 1, and action for a judgment declaring the
+February 19, 2010, agreement void, the Village of Kiryas Joel appeals, as limited by its
+brief, from so much of an order and judgment (one paper) of the Supreme Court, Orange
+County (Nicolai, J.), dated May 2, 2012, as granted that branch of the amended
+petition/complaint which was to annul the agreement dated February 19, 2010, and the
+petitioners/plaintiffs Town of Woodbury and Village of Harriman cross-appeal, as
+limited by their brief, from so much of the same order and judgment as (1) denied those
+branches of the amended petition/complaint which were to annul the determination dated
+February 4, 2010, and (2) dismissed the sixth cause of action of the amended
+petition/complaint as moot.
+
+Ordered that the order and judgment is modified, on the law, (1) by deleting the
+provision thereof granting that branch of the amended petition/complaint which was to
+annul the agreement dated February 19, 2010, and substituting therefor a provision
+denying that branch of the [*2]amended
+petition/complaint, and (2) by deleting the provision thereof dismissing the sixth cause of
+action of the amended petition/complaint as moot; as so modified, the order and
+judgment is affirmed insofar as appealed and cross-appealed from, with one bill of costs
+payable to the Village of Kiryas Joel by the petitioners/plaintiffs, the sixth cause of action
+of the amended petition/complaint is reinstated and severed, and the matter is remitted to
+the Supreme Court, Orange County, for further proceedings on that cause of action.
+
+The Harriman Wastewater Treatment Plant (hereinafter the HWWTP) is located in
+the Village of Harriman and the Town of Woodbury. The HWWTP serves Orange
+County Sewer District No. 1 (hereinafter the District) and portions of neighboring
+communities known collectively as the Moodna Communities. The HWWTP was
+originally constructed in 1974 with 2 million gallons per day (hereinafter mgd) of
+treatment capacity. It was thereafter expanded to 6 mgd, the last expansion made in 2006.
+The 2006 expansion was the subject of review pursuant to the State Environmental
+Quality Review Act (ECL art 8; hereinafter SEQRA), by the Orange County Legislature
+(hereinafter the Legislature) as lead agency, which accepted and adopted a final
+environmental impact statement (hereinafter FEIS) and findings statement for the
+expansion in 2001.
+
+By letter dated January 8, 2007, Orange County (hereinafter the County) inquired of
+the Moodna Communities whether they were interested in purchasing expanded capacity
+at the HWWTP pursuant to their proportionate allocations listed in a 1978 intermunicipal
+agreement. The Village of Kiryas Joel (hereinafter Kiryas Joel), which is one of the
+communities within the District, commenced a hybrid proceeding and action seeking to
+enjoin the County from entering into a contract of sale of capacity to the Moodna
+Communities, contending that the County had failed to determine that adequate capacity
+existed for communities within the District. The Supreme Court agreed and enjoined the
+County from selling such capacity without first complying with SEQRA, among other
+requirements.
+
+While the County's appeal from that determination was pending, the County and
+Kiryas Joel entered into a memorandum of understanding to settle that litigation and
+another pending litigation in which the County had challenged Kiryas Joel's SEQRA
+review of a pipeline project. As part of the global settlement, Kiryas Joel drafted further
+reports related to its pipeline SEQRA review. The County conducted a population
+growth study to analyze the treatment capacity needs of the District, and amended its
+2001 FEIS to incorporate its conclusions. The Legislature accepted and adopted the
+amended FEIS and an amended findings statement on February 4, 2010.
+
+The County and the District entered into an agreement dated February 19, 2010
+(hereinafter the District Agreement), whereby they agreed to initiate specified planning
+procedures for a further expansion of District capacity upon the flow of the HWWTP and
+any other District facilities reaching 85% of design capacity. The County and the District
+agreed, among other things, to a timetable within which to file preliminary maps and
+plans for a proposed expansion with the Clerk of the Legislature, together with requests
+to the Legislature to set a date for a public hearing pursuant to County Law § 268
+and for a resolution approving the expansion. The pending proceedings were then
+discontinued, and the Supreme Court's injunction vacated.
+
+The Town of Woodbury, Village of Woodbury, and Village of Harriman (hereinafter
+collectively the petitioners) subsequently commenced this hybrid proceeding pursuant to
+CPLR article 78 to review the Legislature's approval of the amended FEIS and amended
+findings statement and the County's alleged failure to comply with SEQRA in executing
+the District Agreement, and action for a judgment declaring the District Agreement void,
+inter alia, due to alleged violations of SEQRA and breaches of a 1995 inter-municipal
+agreement. The Supreme Court granted that branch of the amended petition/complaint
+which was to annul the District Agreement, denied those branches of the amended
+petition/complaint which were to annul the Legislature's approval of the amended FEIS
+and amended findings statement, and dismissed the remaining causes of action and a
+cross claim by the Village of Chester as moot. Kiryas Joel appeals, and the petitioners
+Village of Harriman and Town of Woodbury cross-appeal.
+
+The Supreme Court properly determined that the petitioners established "a [*3]demonstrated interest in the potential environmental
+impacts of the project" (Matter
+of Town of Babylon v New York State Dept. of Transp., 33 AD3d 617, 618-619
+[2006]) and, thus, had standing to challenge the amended FEIS, amended findings
+statement, and District Agreement (see Society of Plastics Indus. v County of
+Suffolk, 77 NY2d 761, 774 [1991]; Matter of Village of Chestnut Ridge v Town of Ramapo, 45
+AD3d 74, 86-87 [2007]).
+
+Further, the Supreme Court properly upheld the amended FEIS and amended
+findings statement against the petitioners' procedural SEQRA challenges. The
+Legislature's determination to accept the amended documents in lieu of requiring
+preparation of a supplemental environmental impact statement was not arbitrary and
+capricious (see 6 NYCRR 617.9 [a] [7] [i]; Matter of Riverkeeper, Inc. v Planning Bd. of Town of
+Southeast, 9 NY3d 219, 231, 235 [2007]; Matter of Muir v Town of Newburgh Planning Bd., 49 AD3d
+742 [2008]; see also 6 NYCRR 617.3 [h]), and the petitioners' further
+procedural challenges are without merit (see 6 NYCRR 617.11 [a]; 617.12 [b];
+617.2 [n]; Matter of East End
+Prop. Co. #1, LLC v Kessel, 46 AD3d 817, 820 [2007]).
+
+However, the Supreme Court erred in annulling the District Agreement for purported
+violations of SEQRA. "Although a SEQRA review is required for any 'action' taken by
+an agency (6 NYCRR 617.3 [a]), preliminary steps in the planning of a project do not
+constitute such an action unless they 'commit the agency to a definite course of future
+decisions' " (Matter of
+Palczynski v County of Herkimer, 55 AD3d 1242, 1243 [2008], quoting 6
+NYCRR 617.2 [b] [2]; see
+Matter of East End Prop. Co. #1, LLC v Kessel, 46 AD3d 817, 821 [2007]).
+Contrary to the petitioners' contention, the District Agreement did not commit to an
+expansion of the HWWTP or other District facilities. The Legislature is the only entity
+with the authority to commit to an expansion of wastewater treatment facilities, following
+public hearing and appropriate environmental review (see County Law §
+268). The District Agreement merely commits the County Executive and/or the
+Administrative Head of the District to seek such approval from the Legislature in a
+specified time frame and with specified procedures. Accordingly, the District Agreement
+did not constitute an "action" pursuant to SEQRA requiring prior environmental review
+(6 NYCRR 617.2 [b] [2]; see
+Matter of Palczynski v County of Herkimer, 55 AD3d 1242 [2008]; Hudson
+Riv. Sloop Clearwater v Cuomo, 222 AD2d 386 [1995]).
+
+While the petitioners further challenge the provisions of the District Agreement
+providing for the timing of a contemplated SEQRA review of any expansion, it would be
+premature to review the Legislature's future approval of any expansion pursuant to
+County Law § 268 for its compliance with SEQRA.
+
+Upon annulling the District Agreement, the Supreme Court dismissed, as moot, the
+sixth cause of action seeking a judgment declaring the District Agreement void on the
+ground that it breached a 1995 intermunicipal agreement. In light of our determination,
+that cause of action is no longer academic. However, in the absence of a dispositive
+motion addressed to that cause of action seeking declaratory relief, that cause of action
+may not be summarily determined (see Matter of Lake St. Granite Quarry, Inc. v Town/Village of
+Harrison, 106 AD3d 918 [2013]; Matter of Rosenberg v New York State Off. of Parks, Recreation, &
+Historic Preserv., 94 AD3d 1006 [2012]). We therefore reinstate the sixth cause
+of action, sever it, and remit the matter to the Supreme Court for further proceedings.
+
+The remaining contentions of the County, Legislature, and District are without merit.
+Dillon, J.P., Balkin, Chambers and Cohen, JJ., concur.
+
+

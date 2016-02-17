@@ -1,0 +1,71 @@
+
+	People v Perry
+	2014 NY Slip Op 01077 [114 AD3d 1282]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York,
+Appellant,
+v
+David Perry, Respondent.
+
+
+—[*1]
+
+
+Brooks T. Baker, District Attorney, Bath (John C. Tunney of counsel), for
+appellant.
+
+John M. Scanlon, Binghamton, for defendant-respondent.
+
+
+
+Appeal from an order of the Steuben County Court (Joseph W. Latham, J.), entered
+November 28, 2012. The order granted that part of defendant's omnibus motion seeking
+to dismiss the indictment.
+
+It is hereby ordered that the order so appealed from is unanimously reversed on the
+law, that part of the motion seeking to dismiss the indictment is denied, the indictment is
+reinstated, and the matter is remitted to Steuben County Court for further proceedings on
+the indictment.
+
+Memorandum: On appeal from an order granting that part of defendant's omnibus
+motion seeking to dismiss the indictment pursuant to CPL 30.10 (2) (b), the People
+contend that County Court erred in determining that the statute of limitations had
+expired. We agree. Defendant was charged by an indictment with grand larceny in the
+second degree based on the theory that he stole in excess of $50,000 in New York State
+retirement disability benefits to which he was not entitled. Defendant applied for those
+benefits in 2004 or 2005, and received payments from February 17, 2005 through
+February 28, 2012.
+
+It is well settled that the People may aggregate "a series of single larcenies governed
+by a common fraudulent scheme or plan even though the successive takings extended
+over a long period of time" (People v Rosich, 170 AD2d 703, 703 [1991], lv
+denied 77 NY2d 1000 [1991]; see People v Cox, 286 NY 137, 142-143
+[1941], rearg denied 286 NY 706 [1941]; People v Tighe, 2 AD3d 1364, 1365 [2003], lv
+denied 2 NY3d 747 [2004]). The offense of grand larceny as alleged in this case is
+therefore properly characterized as a continuing crime (see People v First Meridian
+Planning Corp., 86 NY2d 608, 615-616 [1995]), and "the [s]tatute of [l]imitations of
+a continuous crime is governed by the termination and not the starting date of the
+offense" (People v Eastern Ambulance Serv., 106 AD2d 867, 868 [1984]; see People v DeBeer, 35 AD3d
+1275, 1276 [2006], lv denied 8 NY3d 921 [2007]). The statute of limitations
+in this case did not begin to run until the final taking in February 2012 (see generally People v
+Randall-Whitaker, 55 AD3d 931, 931 [2008], lv denied 12 NY3d 787
+[2009]), and the prosecution commenced shortly thereafter in March 2012 was thus
+timely pursuant to CPL 30.10 (2) (b).
+
+Defendant contends that the statute of limitations began to run at the time of the
+allegedly fraudulent filing, relying on People v O'Boyle (136 Misc 2d 1010,
+1012-1013 [1987]). That case, however, is inapposite inasmuch as the defendant in that
+case was charged with insurance fraud, whereas defendant in this case is charged with
+grand larceny. Present—Centra, J.P., Peradotto, Lindley, Sconiers and Whalen, JJ.
+
+

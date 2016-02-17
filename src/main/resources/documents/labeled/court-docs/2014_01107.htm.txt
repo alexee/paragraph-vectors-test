@@ -1,0 +1,112 @@
+
+	Orchard Hotel, LLC v D.A.B. Group, LLC
+	2014 NY Slip Op 01107 [114 AD3d 508]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Orchard Hotel, LLC, Appellant,
+v
+D.A.B. Group,
+LLC, Respondent, and Brooklyn Federal Savings Bank et al., Appellants, et al.,
+Defendants.
+
+
+—[*1]
+
+
+Morrison Cohen LLP, New York (Y. David Scharf of counsel), for Orchard
+Hotel, LLC, appellant.
+
+O'Reilly, Marsh & Corteselli P.C., Mineola (James G. Marsh of counsel), for
+Brooklyn Federal Savings Bank and State Bank of Texas, appellants.
+
+Law Offices of Everett N. Nimetz, Kew Gardens (Everett N. Nimetz of counsel), for
+respondent.
+
+
+
+Order, Supreme Court, New York County (Charles E. Ramos, J.), entered August 28,
+2013, which, to the extent appealed from as limited by the briefs, granted defendant
+D.A.B. Group, LLC's (DAB) motion to renew, and, upon renewal, vacated a prior order
+of the same court (Bernard J. Fried, J.), entered March 30, 2012, dismissing said
+defendant's counterclaims, reinstated DAB's counterclaims, and sua sponte granted DAB
+leave to serve an amended answer, unanimously reversed, on the law and the facts,
+without costs, the motion to renew denied, and the grant of leave to serve an amended
+answer vacated.
+
+In July 2011, plaintiff successor mortgagee Orchard Hotel, LLC (Orchard)
+commenced this action to foreclose on two commercial construction loans. DAB's
+answer asserted counterclaims against Orchard and against additional counterclaim
+defendants Brooklyn Federal Savings Bank (Brooklyn Federal) and State Bank of Texas
+(together, Bank defendants), the original mortgagees. DAB alleged that the Bank
+defendants misrepresented that the banks would extend the maturity date of the loans.
+
+We find that the motion court erred in granting DAB renewal of Orchard and the
+Bank defendants' motions to dismiss DAB's counterclaims, thereby vacating an order that
+this Court had affirmed (see Orchard Hotel, LLC v D.A.B. Group, LLC, 35 Misc
+3d 1206[A], 2012 NY Slip Op 50576[U] [Sup Ct, NY County 2012], affd 106
+AD3d 628 [1st Dept 2013]).
+
+CPLR 2221 (e) (2) provides in pertinent part that a motion to renew "shall be based
+upon new facts not offered on the prior motion that would change the prior
+determination." The record [*2]indicates that the
+document on which DAB relied to change the prior determination, an Action Plan, dated
+February 15, 2011, was unenforceable because it was an internal bank document that the
+Office of Thrift Supervision (OTS), the federal oversight agency, never
+approved—an unfulfilled condition precedent. In addition, Brooklyn Federal
+ultimately rescinded the Action Plan pursuant to a March 22, 2011 memorandum that it
+issued prior to OTS's consideration of an extension. Thus, the Action Plan provides no
+basis to find that there was reasonable reliance on a writing that extended the loans'
+maturity date. Further, even if this Court were to consider this document an indication of
+misrepresentation, DAB cannot establish that it reasonably relied upon the Action
+Plan—a document it was unaware of until May 2013—because it was an
+internal document that was not communicated, delivered or presented to DAB (see
+Waterways Ltd. v Barclays Bank, 202 AD2d 64, 74 [1st Dept 1994], lv
+denied 85 NY2d 803 [1995]).
+
+Moreover, under CPLR 2221 (e) (3), a motion to renew "shall contain reasonable
+justification for the failure to present such facts on the prior motion." Here, DAB made
+the discovery request that yielded the Action Plan only upon the motion court's
+suggestion, and only after this Court affirmed the order dismissing DAB's counterclaims.
+The Action Plan was available at the time of the original motion—indeed,
+numerous witnesses alluded to it during their depositions. Even so, DAB did not provide
+a reasonable justification for its failure to serve a more exacting discovery demand that
+specifically requested Brooklyn Federal's internal documents related to the loan
+extension issue. Thus, we find that DAB failed to show that it exercised due diligence in
+obtaining the documentary evidence, and the motion court erred in granting leave to
+renew (see Rosado v Edmundo
+Castillo Inc., 54 AD3d 278, 279 [1st Dept 2008]; Chelsea Piers Mgt. v
+Forest Elec. Corp., 281 AD2d 252 [1st Dept 2001]).
+
+The motion court also erred in granting DAB's motion to renew and vacate based on
+"newly-discovered evidence" pursuant to CPLR 5015 (a) (2). As the record
+demonstrates, had DAB exercised due diligence during discovery, it could have obtained
+the Action Plan through discovery well over a year earlier than it did (see Weinstock
+v Handler, 251 AD2d 184 [1st Dept 1998], lv dismissed 92 NY2d 946
+[1998]).
+
+Any vacatur pursuant to CPLR 5015 (a) (3) is also erroneous because the findings of
+"fraud, misrepresentation, or other misconduct" are predicated on DAB's assertions that
+the Bank defendants failed to turn over the Action Plan. To the contrary, the record
+reveals that DAB's initial discovery demands did not specifically request Brooklyn
+Federal's documents in connection with an extension of the maturity date and DAB did
+not present evidence to establish misconduct.
+
+Accordingly, because the motion court improvidently considered the Action Plan as
+new evidence, its sua sponte grant to DAB of leave to amend its answer was erroneous.
+Moreover, the proposed amendment lacks merit (see Bishop v Maurer, 83 AD3d 483, 485 [1st Dept 2011];
+360 W. 11th LLC v ACG Credit
+Co. II, LLC, 90 AD3d 552 [1st Dept 2011]).
+
+We have considered the parties' remaining arguments and find them unavailing.
+Concur—Sweeny, J.P., Acosta, Saxe, Moskowitz and Clark, JJ.
+
+

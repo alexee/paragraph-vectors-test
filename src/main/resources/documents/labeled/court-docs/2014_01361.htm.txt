@@ -1,0 +1,199 @@
+
+	Matter of City of Hudson
+	2014 NY Slip Op 01361 [114 AD3d 1106]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of the Foreclosure of Tax Liens by City of
+Hudson. First Church of God in Christ, Inc., Appellant; City of Hudson,
+Respondent.
+
+
+—[*1]
+
+
+Waite & Associates, PC, Albany (Stephen J. Waite of counsel), for appellant.
+
+Rapport Meyers, LLP, Hudson (Jessica K. DiFiore of counsel), for
+respondent.
+
+
+
+McCarthy, J. Appeal from an order of the Supreme Court (McGrath, J.), entered
+January 18, 2013 in Columbia County, which dismissed petitioner's application, in a
+proceeding pursuant to RPTL article 11, to set aside a judgment of foreclosure and
+transfer of title concerning certain real property.
+
+A 1985 deed purportedly conveyed a parcel of real property in the City of Hudson,
+Columbia County from petitioner, a religious corporation, to its then-minister, Godfrey
+Forbes. The next month, and again three months after that, Forbes and his wife obtained
+mortgages on the property.[FN1]
+
+Forbes apparently paid the real property taxes until 2008. After the taxes were not paid
+for several years, respondent commenced a tax foreclosure proceeding listing Forbes as
+the owner. Upon Forbes' default, County Court (Koweek, J.) issued a judgment of
+foreclosure against the property and transferred title to respondent (see RPTL
+1136).
+[*2]
+More than a month after County Court's
+judgment was entered, petitioner commenced this proceeding to set aside the judgment of
+foreclosure and transfer title to the property to petitioner, on the grounds that the 1985
+deed was invalid, petitioner remained the lawful owner and petitioner had not received
+proper notice of the foreclosure proceeding. Respondent moved to dismiss. Supreme
+Court (McGrath, J.) treated petitioner's application as a motion to vacate a default
+judgment and denied the application as untimely, also noting that it would deny the
+application on the merits. Petitioner appeals.
+
+Initially, Supreme Court erred in determining that petitioner's application was
+untimely. Unlike a motion to vacate a default judgment in a tax foreclosure proceeding,
+which "may not be brought later than one month after entry of the judgment" (RPTL
+1131; see Matter of County of
+Otsego [Opalecky], 103 AD3d 1020, 1021 [2013]), a person or entity
+challenging the validity of a deed transferred in connection with a tax foreclosure
+proceeding faces a two-year statute of limitations (see RPTL 1137; Panther Mtn. Water Park, Inc. v
+County of Essex, 40 AD3d 1336, 1338 [2007]). As petitioner was not a party to
+the foreclosure proceeding and now seeks to set aside the judgment on the basis that
+respondent failed to provide notice to the rightful owner, the application was timely
+(see RPTL 1137).
+
+The 1985 deed to Forbes was invalid. A religious corporation shall not sell "any of
+its real property without applying for and obtaining leave of the court" pursuant to
+N-PCL 511 (Religious Corporations Law § 12 [1]; see Scher v Yeshivath Makowa
+Corp., 54 AD3d 839, 839 [2008]). Under N-PCL 511 (b), the Attorney General
+must be notified before any sale may be finalized. Petitioner did not seek court approval
+in 1985 or thereafter (see Religious Corporations Law § 12 [1], [9]), nor
+was the Attorney General notified of the transfer of the property. Where court approval is
+not obtained for the transfer of real property from a religious corporation, the conveyance
+is invalid (see Congregation
+Yetev Lev D'Satmar of Kiryas Joel, Inc. v Congregation Yetev Lev D'Satmar, Inc., 9
+NY3d 297, 301 [2007]; Wiggs v Williams, 36 AD3d 570, 571 [2007]; see also
+Church of God of Prospect Plaza v Fourth Church of Christ, Scientist, of Brooklyn,
+54 NY2d 742, 743-744 [1981]). Accordingly, the 1985 deed was invalid and Forbes
+should not have had any legal right to the property.
+
+Nevertheless, respondent provided the notice required by law for the tax foreclosure
+proceeding (see RPTL 1125). Notice of a tax foreclosure proceeding must be
+sent by certified mail and ordinary first class mail to "each owner and any other person
+whose right, title, or interest was a matter of public record as of the date the list of
+delinquent taxes was filed, which right, title or interest will be affected by the termination
+of the redemption period, and whose name and address are reasonably ascertainable from
+the public record" (RPTL 1125 [1] [a], [b]). For purposes of that statute, the "public
+record" consists of the tax rolls, as well as books kept by that county's Surrogate's Court
+Clerk and real property recording officer (see RPTL 1125 [1] [e]). "Where the
+names and addresses of interested parties are known, due process requires 'notice
+reasonably calculated, under all the circumstances, to apprise' that party of the
+foreclosure action, so that party may have an opportunity to appear and be heard"
+(Kennedy v Mossafa, 100 NY2d 1, 9 [2003], quoting Mullane v Central
+Hanover Bank & Trust Co., 339 US 306, 314 [1950]). There is no constitutional
+requirement that actual owners of the property receive personal notice of a foreclosure
+proceeding (see Congregation Yetev Lev D'Satmar v County of Sullivan, 59
+NY2d 418, 422 [1983]). If the taxing authority gives "reasonable notice to ascertainable
+interested parties," notice may be sufficient even though "the owners of record were not
+the true owners of the parcel and, as a result, said true owners did not receive personal
+notice of the proceedings" (Maple Tree Homes, Inc. v County of Sullivan, 17 AD3d
+965, 966-967 [2005], [*3]appeal dismissed 5
+NY3d 782 [2005]).
+
+It is undisputed that Forbes was served with notice by ordinary and certified mail.
+Respondent's treasurer, who is responsible for enforcing and collecting tax liens, averred
+that Forbes was listed on the tax rolls as the owner of the subject premises. The record
+does not indicate that any relevant information was available in the books of the
+Surrogate's Court Clerk. A search of the County Clerk's books would have revealed the
+1985 deed from petitioner to Forbes, indicating that Forbes had been the owner of record
+for almost 27 years. Thus, as Forbes was the only owner pursuant to the public record, he
+was entitled to notice. Petitioner, which was not an owner according to the public record,
+was entitled to notice under the statute only if it had a "right, title, or interest [that] was a
+matter of public record" (RPTL 1125 [1] [a]).
+
+Petitioner acknowledged in its petition that it attempted to convey the property to
+Forbes, and that the conveyance was invalid because the parties to that deed were
+unaware of the requirements under Religious Corporations Law § 12. Yet
+petitioner did not renounce its intent to transfer the property to Forbes, and did nothing to
+regain title during the ensuing 27 years, until it commenced this proceeding after Forbes
+was divested of title through the judgment of foreclosure. In 1985, Forbes and his wife
+obtained two mortgages on the property. Petitioner asserts that it was not until 2011,
+when Forbes attempted to secure another mortgage, that a title searcher discovered the
+problem with the 1985 deed. Petitioner's counsel avers that, prior to commencement of
+the foreclosure proceeding, respondent was placed on notice that the conveyance to
+Forbes was invalid and petitioner was the true owner, but counsel's assertion is
+insufficient because it is vague, devoid of facts—such as who provided the notice,
+to whom, and by what means—and unsupported by proof from anyone with
+first-hand knowledge (see
+Madison Mut. Ins. Co. v Expert Chimney Servs., Inc., 103 AD3d 995, 996
+[2013]).[FN2]
+
+
+While petitioner notes that no court order was filed with the 1985 deed, the statute
+does not strictly require that the court order approving of the conveyance be filed where
+the deed is recorded (see Religious Corporations Law § 12; see
+also N-PCL 511). Even if such a filing requirement were statutorily mandated, it is
+unclear that someone untrained in the Religious Corporations Law or Not-For Profit
+Corporations Law would be aware, from a review of books of deeds, that a deed from a
+religious or not-for profit corporation was invalid without court approval. Indeed, while a
+title searcher noticed this problem with the 1985 deed in 2011, Forbes obtained two
+mortgages in 1985, apparently without anyone raising any concern regarding that same
+deed. A taxing authority's enforcing officer is not required to be a lawyer, title searcher
+or have special expertise in ferreting out errors in recorded deeds, nor have courts
+imposed unreasonable obligations on taxing authorities to perform burdensome research
+to discover potential interested parties (see Mac Naughton v Warren County, 20 NY3d 252,
+257-258 [2012]; Kennedy v Mossafa, 100 NY2d at 10; see also Jones v
+Flowers, 547 US 220, 235-236 [2006]). On its face, the public record here did not
+disclose that petitioner had any interest in the property (compare Matter of Barnes v
+McFadden, 25 AD3d 955, 957 [2006], appeal dismissed 6 NY3d [*4]890 [2006]).
+
+When determining the reasonableness of the taxing authority's attempts to provide
+notice to interested parties, the court may take into account the conduct of such parties
+(see Matter of Harner v County
+of Tioga, 5 NY3d 136, 140 [2005]). Here, petitioner indicated that it intended to
+convey the property to Forbes—its then-minister[FN3]
+
+—in 1985 and was only unsuccessful due to their lack of legal knowledge.
+Additionally, petitioner did not take any action against Forbes to regain title, despite the
+deed having been filed for nearly 27 years at the time the foreclosure proceeding was
+commenced. Under the circumstances, including respondent's provision of proper
+statutory notice to the owner of record, respondent complied with due process and
+satisfied its obligation of searching for interested parties, and petitioner has not
+demonstrated that any additional steps or more exhaustive search was required here
+(see Mac Naughton v Warren County, 20 NY3d at 257-258; Kennedy v
+Mossafa, 100 NY2d at 10; Matter of County of Sullivan [Fay], 79 AD3d 1409, 1411
+[2010], lv dismissed 17 NY3d 787 [2011]). Therefore, respondent was not
+required to provide notice to petitioner of the tax foreclosure proceeding.
+
+Lahtinen, J.P., Garry and Rose, JJ., concur. Ordered that the order is affirmed,
+without costs.
+
+
+Footnotes
+
+
+
+
+Footnote 1: The record does not
+disclose whether those mortgages have been paid or remain liens on the property.
+
+
+
+
+Footnote 2: The petition alleges,
+upon information and belief, that respondent was aware that Forbes was not the rightful
+owner of the property, that title remained with petitioner and that respondent should have
+known that a conveyance from petitioner required court approval on notice to the
+Attorney General. The record does not contain any proof to support these allegations.
+
+
+
+
+Footnote 3: It appears that Forbes is
+still petitioner's minister.
+
+
+
+

@@ -1,0 +1,97 @@
+
+	DeJesus v 888 Seventh Ave. LLC
+	2014 NY Slip Op 01273 [114 AD3d 587]
+	February 25, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Anthony DeJesus et al.,
+Appellants-Respondents,
+v
+888 Seventh Avenue LLC, Respondent/Third-Party
+Plaintiff-Respondent, and R&R Scaffolding, Ltd., Respondent-Appellant, et al.,
+Defendant. SMB Windows LLC, Third-Party
+Defendant-Respondent.
+
+
+—[*1]
+
+
+Sacks & Sacks, LLP, New York (Scott N. Singer of counsel), for
+appellants-respondents.
+
+McGaw, Alventosa & Zajac, Jericho (Dawn C. DeSimone and James K. O'Sullivan
+of counsel), for respondent-appellant.
+
+Wilson, Elser, Moskowitz, Edelman & Dicker, LLP, New York (Adam Kazansky of
+counsel), for 888 Seventh Avenue LLC, respondent.
+
+Baxter Smith & Shapiro, P.C., White Plains (Sim R. Shapiro of counsel), for SMB
+Windows LLC, respondent.
+
+
+
+Order, Supreme Court, New York County (Saliann Scarpulla, J.), entered June 12,
+2012, which, to the extent appealed from as limited by the briefs, granted defendant 888
+Seventh Avenue LLC's motion for summary judgment dismissing the complaint as
+against it, denied plaintiffs' motion for partial summary judgment on the Labor Law
+§ 240 (1) claim, denied defendant R&R Scaffolding, Ltd.'s motion for summary
+judgment dismissing the Labor Law § 200 and common-law negligence claims as
+against it, granted R&R's motion for summary judgment dismissing 888 Seventh
+Avenue's cross claims for contribution and common-law indemnification against it, and
+granted third-party defendant SMB Windows, LLC's motion for [*2]summary judgment dismissing the third-party complaint,
+unanimously modified, on the law, to deny 888 Seventh Avenue's motion as to the Labor
+Law §§ 240 (1) and 200 and common-law negligence claims as against it, to
+grant plaintiffs' motion as against 888 Seventh Avenue, to grant R&R's motion as to the
+Labor Law § 200 claim, to deny R&R's motion as to 888 Seventh Avenue's cross
+claims against it, and to deny SMB's motion, and otherwise affirmed, without costs.
+
+Although plaintiff Anthony DeJesus was not operating the scaffold in his capacity as
+a window washer at the time of the accident, he was operating it for the caulkers who
+could not have safely discharged their duties without him. Since caulking is an activity of
+the sort enumerated in Labor Law § 240 (1) (see Rendino v City of New York, 83 AD3d 540 [1st Dept
+2011]; Kielar v Metropolitan
+Museum of Art, 55 AD3d 456 [1st Dept 2008]), plaintiff is entitled to the same
+statutory protection as the caulkers, and his Labor Law § 240 (1) claim against 888
+Seventh Avenue should not be dismissed. Further, given the evidence that the lanyard
+and harness provided to plaintiff proved inadequate to shield him from falling through
+the rail track, plaintiff is entitled to summary judgment on the issue of liability on that
+claim (see Miglionico v Bovis
+Lend Lease, Inc., 47 AD3d 561, 564 [1st Dept 2008]).
+
+The protections of Labor Law § 241 (6) are inapplicable to plaintiff's claims
+because he was not engaged in construction work at the time of the accident (see Esposito v New York City
+Indus. Dev. Agency, 1 NY3d 526 [2003]). Similarly, Labor Law § 202 is
+inapplicable because plaintiff was not engaged in window cleaning at the time of the
+accident.
+
+The testimony of plaintiff's supervisor that 888 Seventh Avenue's property manager
+had the authority to direct plaintiff's work raises a triable issue of fact whether 888
+Seventh Avenue supervised or controlled plaintiff's work for purposes of the Labor Law
+§ 200 and common-law negligence claims against it (see Rizzuto v L.A.
+Wenger Contr. Co., 91 NY2d 343, 352 [1998]; Giovengo v P&L Mech., 286
+AD2d 306 [1st Dept 2001]).
+
+The record presents a triable issue of fact whether R&R failed to exercise reasonable
+care in the performance of its duties under the agreement (see Espinal v Melville
+Snow Contrs., 98 NY2d 136, 140 [2002]). However, plaintiff conceded that R&R is
+not liable under Labor Law § 200.
+
+In light of our disposition of the claims against it, 888 Seventh Avenue's cross claims
+and third-party claims for contribution and common-law indemnification against R&R
+and SMB should not be dismissed, since there is evidence in the record that supports a
+finding of proportionate negligence among these parties (see Chevalier v 368 E.
+148th St. Assoc., LLC, 80 [*3]AD3d 411, 414 [1st
+Dept 2011]). Moreover, on this record, 888 Seventh Avenue may be entitled to
+contractual indemnification by SMB under their Windows Contract.
+Concur—Sweeny, J.P., Andrias, Moskowitz, DeGrasse and Gische, JJ. [Prior
+Case History: 2012 NY Slip Op 31540(U).]
+
+

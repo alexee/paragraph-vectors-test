@@ -1,0 +1,214 @@
+
+	Matter of Uniformed Firefighters Assn. of Greater N.Y. v City
+of New York
+	2014 NY Slip Op 01108 [114 AD3d 510]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of Uniformed Firefighters Association of
+Greater New York, Appellant,
+v
+City of New York et al.,
+Respondents.
+
+
+—[*1]
+
+
+Certilman Balin Adler & Hyman, LLP, East Meadow (Paul S. Linzer of
+counsel), for appellant.
+
+Michael A. Cardozo, Corporation Counsel, New York (Elizabeth S. Natrella of
+counsel), for the City of New York, respondent.
+
+John F. Wirenius, New York, for the New York City Board of Collective Bargaining,
+respondent.
+
+
+
+Judgment, Supreme Court, Bronx County (Alexander W. Hunter, Jr., J.), entered
+December 6, 2012, denying the petition brought under CPLR article 78 to annul a
+portion of the interim decision and order of respondent the New York City Board of
+Collective Bargaining (the board or the BCB), dated June 29, 2011, which dismissed
+petitioner's charges of an improper practice upon determining that respondent the City of
+New York (the City) was not required to negotiate its decision to reduce fire engine
+staffing levels, and dismissing the proceeding, unanimously affirmed, without costs.
+
+Petitioner Uniformed Firefighters Association (UFA) serves as the collective
+bargaining representative for FDNY firefighters. Since the 1980s, there has been a
+dispute between the City and the firefighters' unions concerning the City's attempts to
+reduce the number of firefighters assigned to each engine.
+
+On January 31, 1990, the City implemented a roster staffing program that reduced
+fire engine crews in certain companies from five to four firefighters per engine.
+Petitioner subsequently challenged this action as creating a safety threat to firefighters. In
+considering the challenge, the BCB directed a hearing to establish a record and determine
+whether a practical safety impact would result from the City's action. The parties
+conducted safety impact hearings before a special trial examiner, but he died before
+issuing a decision for the board's consideration. On January 30, 1996, the parties settled
+the matter by executing the Roster Staffing Agreement (the agreement); the agreement
+was to be effective for a 10-year term, expiring on January 31, 2006.
+
+The agreement provided that "the [FDNY] will initially designate sixty (60) Engine
+Companies to be staffed with a fifth firefighter at the outset of each tour . . .
+. All other engine company staffing not so designated will remain at the maximum of five
+firefighters at the start of each tour." During the term of the agreement, FDNY had the
+right to reduce the engine staffing [*2]levels in
+companies with five firefighters per engine if the level of firefighter medical leave
+exceeded a certain percentage.
+
+The agreement contained the following provision in the eleventh paragraph:
+"ELEVENTH: By entering into this Stipulation of Settlement, the Union agrees to waive
+its right to file any litigation or grievance regarding the Department Roster Staffing
+program as set forth in the case docketed with the Office of Collective Bargaining as
+BCB-1265-90, or with regard to the practical impact of this agreement until January 31,
+2006. Should a court of competent jurisdiction or any other administrative entity, except
+for enforcement purposes, grant the right to initiate any such litigation or grievance
+within that time, this agreement will be terminated immediately. Should litigation or a
+grievance commence, this agreement or any portion thereof shall not be admissible in any
+court proceeding or other administrative forum. After the expiration of this Agreement,
+January 31, 2006, the City in view of factors including, but not limited to changes in
+technology, structural and non-structural fires, and response times, may wish to change
+staffing levels. In the event the City plans to make such changes, the parties will
+negotiate to the extent required by the New York City Collective Bargaining Law.
+Should differences between the parties arise, it is the intent of the parties to work
+expeditiously to resolve them."
+
+In October 2005, petitioner and the City agreed to extend the term of the agreement
+by five years to January 31, 2011.
+
+In October 2010, the City notified petitioner that, following the agreement's
+impending January 31, 2011 expiration date, the City planned to staff engines in certain
+companies with a minimum of four firefighters per engine at the beginning of each tour
+and others with five firefighter crews, effective February 1, 2011. The City noted that,
+while it was not obligated to bargain with the union over the changes, it was "willing to
+meet with the UFA to discuss any concerns the union may have." The City gave
+petitioner a publication containing the FDNY's guidelines and procedures for
+implementing the new staffing policy.
+
+On January 31, 2011, petitioner, with the Uniformed Fire Officers Association (the
+UFOA), brought a combined improper practice and scope of bargaining petition to
+challenge the City's decision to reduce the engine staffing levels at certain companies
+from five firefighter crews to four, beginning February 1, 2011. The petition challenged
+the City's unilateral action as violative of both the agreement and the New York City
+Collective Bargaining Law (Administrative Code of City of NY § 12-301 et
+seq. [NYCCBL]).
+
+In an interim decision and order dated June 29, 2011, the BCB, by a four-to-two
+vote, dismissed all challenges except the allegations concerning the practical impact of
+the City's decision to reduce the engine staffing levels. The board also directed a hearing
+before a trial examiner to determine whether the reduction would have a safety impact
+that would require negotiations between the parties concerning implementation of the
+changes.
+
+In its decision, the board found that the agreement contained a "sunset" provision
+because paragraph Eleventh and the subsequent extension indicated an expiration date.
+Thus, any provision in the agreement to maintain the engine staffing levels had
+"sunset"—that is, terminated a benefit at a specific time or on a specific condition.
+The board rejected a reading of paragraph Eleventh as requiring the parties to negotiate
+post-expiration should the City decide to reduce engine staffing levels. This construction,
+the board held, would render the agreement's [*3]expiration meaningless and would impose an absolute
+obligation on the City to bargain, where the language indicated only that the parties
+would bargain "to the extent required by the [NYCCBL]."
+
+The board further found that the agreement allowed petitioner to file grievances after
+the expiration date, but that petitioner's proposed reading would not similarly permit the
+City to act; thus, petitioner's reading of the agreement would evince a lack of mutuality
+that could not have been the parties' intent. The board also found that, based on its
+determination that paragraph Eleventh "on its face, constitutes a sunset provision,"
+neither maintenance of the status quo under Civil Service Law § 209-a (1) (e), nor
+the conversion theory of negotiability, applied.
+
+Based on its own precedent, the board determined that the agreement was not
+incorporated into the parties' collective bargaining agreement. The board further held
+that, consistent with its previous decisions and NYCCBL 12-307, fire engine staffing
+levels are a nonmandatory bargaining subject and the City was not required to bargain
+unless, following a hearing, the board found a practical safety impact. Thus, the board
+held that the City was not required to bargain, but directed a hearing regarding the safety
+impact on firefighters.
+
+Petitioner then commenced this article 78 proceeding, seeking to annul the portion of
+the board's decision finding that the agreement did not require the City to negotiate its
+decision to reduce fire engine staffing levels of certain companies.[FN*]
+
+Petitioner argued that the decision was arbitrary and capricious because it incorrectly
+interpreted paragraph Eleventh to mean that the agreement had expired and that it
+imposed no post-expiration obligation on the parties in the event the City reduced engine
+staffing levels. Petitioner further argued that the board's construction rendered
+meaningless the last two sentences of that provision indicating that the parties would
+negotiate and work expeditiously to resolve any differences that may arise.
+
+Thereafter, the board moved and the City cross-moved to dismiss the proceeding for
+failure to state a cause of action, arguing that the board's decision had a rational basis and
+was not arbitrary but rather was consistent with the record and applicable law. Following
+the motion court's denial of the motion and cross motion, respondents answered and
+again sought dismissal of the proceeding.
+
+The court found no reason to disturb the board's determination. The court held that,
+once the board determined that the agreement expired on January 31, 2011, it rationally
+applied its own precedent to find that this "sunset provision" rendered inapplicable the
+theory that nonmandatory subjects could be converted into mandatory subjects by way of
+incorporation into a collective bargaining agreement. Hence, any provision in the
+agreement that required petitioner and the City to negotiate the reduction of engine
+staffing levels expired with the agreement. The court further found that the board
+rationally determined, based on its own precedent interpreting the NYCCBL, that there
+was no post-expiration obligation to negotiate the matter unless the reduction had an
+impact on safety. Thus, the board properly directed a hearing to establish a record
+concerning that issue.
+
+We find that the motion court properly denied the petition and dismissed the
+proceeding. Indeed, the board's determination was rational and did not render any
+provision in paragraph Eleventh meaningless.
+[*4]
+To begin, if the board's determination has a
+rational basis, we must affirm, even if this Court would have interpreted the provision
+differently (see Matter of
+Peckham v Calogero, 12 NY3d 424, 430-431 [2009]). Here, the board rationally
+concluded that paragraph Eleventh's reference to the "expiration of this Agreement,
+January 31, 2006" was a sunset provision (see Matter of Professional Staff Congress-City Univ. of N.Y. v New
+York State Pub. Empl. Relations Bd., 7 NY3d 458, 468 [2006]). Further, the
+board properly concluded that, after the agreement's expiration, if the City intended to
+reduce engine staffing levels, it would negotiate "to the extent required by the New York
+City Collective Bargaining Law." Under the current Collective Bargaining Law, staffing
+levels are a nonmandatory subject of collective bargaining (see Matter of Uniformed
+Firefighters Assn. of Greater N.Y. v New York City Off. of Collective Bargaining, Bd.
+of Collective Bargaining, 163 AD2d 251 [1st Dept 1990]). Contrary to petitioner's
+contention, the board's decision does not render meaningless the last sentence of
+paragraph Eleventh—"[s]hould differences between the parties arise, it is the
+intent of the parties to work expeditiously to resolve them"—because the safety
+impact of any staffing level reduction remains negotiable. Nor does that sentence render
+staffing levels a mandatory subject of collective bargaining, as petitioner argues.
+
+The result of petitioner's interpretation would be that, at a time when the City had
+obtained a final determination that staffing levels were not subject to mandatory
+collective bargaining, it must then follow petitioner's reading of paragraph Eleventh,
+rendering the negotiation of staffing levels mandatory going forward. If this were the
+intent of the parties, the agreement could simply have stated that, following its
+expiration, staffing levels would be subject to mandatory collective bargaining. On the
+other hand, limiting bargaining "to the extent required by the New York City Collective
+Bargaining Law," left open the possibility that the union could persuade the Legislature
+to amend the law.
+
+We have considered the parties' remaining arguments and find them unavailing.
+Concur—Mazzarelli, J.P., Acosta, Saxe and Moskowitz, JJ.
+
+
+Footnotes
+
+
+
+
+Footnote *: The UFOA is not a
+party to the agreement and, thus, is not a party to this appeal.
+
+
+
+

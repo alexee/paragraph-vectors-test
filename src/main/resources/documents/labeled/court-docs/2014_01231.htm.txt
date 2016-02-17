@@ -1,0 +1,169 @@
+
+	Matter of Apjohn v Lubinski
+	2014 NY Slip Op 01231 [114 AD3d 1061]
+	February 20, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of Maureen Apjohn, Formerly Known as
+Maureen Lubinski, Respondent,
+v
+David E. Lubinski, Appellant. (And Another
+Related Proceeding.)
+
+
+—[*1]
+
+
+David E. Lubinski, Edgewater, Florida, appellant pro se.
+
+Jon Kosich, Greenville, for respondent.
+
+
+
+Garry, J. Appeal from an order of the Family Court of Greene County (Tailleur, J.),
+entered February 22, 2013, which, in a proceeding pursuant to Family Ct Act article 4,
+denied respondent's objections to the order of a Support Magistrate.
+
+Petitioner (hereinafter the mother) and respondent (hereinafter the father) are the
+divorced parents of a son (born in 1993). In 1994, the parties executed a separation
+agreement which was incorporated, but not merged, into their judgment of divorce. In
+July 2011, the mother commenced this proceeding seeking an upward modification of
+child support and alleging that the father had failed to pay health insurance costs and
+college expenses for the son as required by the agreement. The father separately
+petitioned for, among other relief, a downward modification of support and
+reimbursement for alleged past overpayments. Following a hearing, a Support Magistrate
+issued an order and findings of fact to which the father objected. After Family Court
+sustained some of his objections, the Support Magistrate issued supplemental findings of
+fact and an order that, among other things, directed the father to pay specified college
+expenses and decreased his obligation for health insurance expenses. Family Court
+denied the father's further objections, and the father appeals.
+[*2]
+The father first contends that Family Court erred
+in several respects in determining his obligation to contribute to the son's college
+expenses. The parties' agreement contains a "cap" provision; each party is required to
+contribute to the son's undergraduate college costs in an amount not to exceed half of the
+cost of tuition, room and board at a college or university that is part of the State
+University of New York (hereinafter SUNY). The agreement further provides that the
+son must apply to "the said college or university" for all possible grants, scholarships and
+financial aid before either party is obliged to pay any college costs. The son applied for
+and obtained financial aid from the private college where he enrolled in September 2011,
+as well as an outside scholarship. However, the father contends that the agreement
+required the son to apply to a SUNY institution for financial aid, and that as he did not
+do so, the father has no obligation to contribute anything toward his expenses. We
+disagree.
+
+Ambiguity in a separation agreement is resolved, as with any contract, by
+determining the parties' intent from within the instrument's four corners, if possible, and
+otherwise from extrinsic evidence (see Fecteau v Fecteau, 97 AD3d 999, 999-1000 [2012]; Bjerke v Bjerke, 69 AD3d
+1042, 1044 [2010]). In doing so, "[t]he court is not limited to the literal language of
+the agreement, but should also include a consideration of whatever may be reasonably
+implied from that literal language" (Desautels v Desautels, 80 AD3d 926, 928 [2011] [internal
+quotation marks and citation omitted]). In resolving the ambiguity as to whether the
+requirement to apply to "the said college or university" for financial aid refers to a SUNY
+institution or to the college attended by the son, we note that the agreement does not
+require the son to attend or apply for admission at a SUNY school, and the father did not
+show that it is possible to apply to a SUNY institution for financial aid without also
+applying for admission. Further, the contract provides that the parties "expect[ ] and
+desire" the son to pursue higher education, and it is a reasonable inference that they
+intended to facilitate this mutual goal not only by contributing to the cost, but also by
+ensuring that any available financial aid would be secured from the institution attended
+by the son to make it as affordable as possible. Accordingly, we agree that the son's
+financial aid application to the college where he enrolled was sufficient to trigger the
+father's contractual obligation to contribute to the son's expenses.
+
+The agreement is further ambiguous as to whether financial aid obtained by the son
+is to be applied to reduce the parties' contributions, or to the son's remaining expenses.
+For reasons similar to those just discussed, we find that Family Court properly reduced
+the father's tuition obligation by the amount of the son's outside scholarship—a
+relatively small, one-time award—but not by the amount of a four-year grant
+received directly from the private college. As applied here, the private grant, which was
+calculated in accord with that school's tuition cost rather than the lower tuition at a
+SUNY school, is sufficiently large such that setting it off against the father's contribution
+would result in completely negating any tuition obligation from him, while leaving the
+son with a substantial bill. The agreement cannot reasonably be interpreted to require this
+result, which is inconsistent with the parties' stated desire for the son to obtain higher
+education and their explicit intent to contribute to this expense.
+
+In view of this clearly-expressed intent, we further find that Family Court erred in
+subtracting loans obtained by the son from the amount to be contributed by the parties.
+The agreement requires the son to apply for "scholarships, grant money or financial aid"
+but neither mentions loans nor requires the son to obtain them (see Matter of Frank v Frank,
+88 AD3d 1123, 1124 [2011]; compare Matter of Cranston v Horton, 99 AD3d 1090,
+1092 [2012]; Matter of Hartle v Cobane, 228 AD2d 756, 757-758 [1996]). As
+repayment will apparently be the son's responsibility rather than that of either party, and
+in the absence of clear direction in the [*3]agreement, it
+was error to take the loans into account in calculating the parties' obligations (see Bungart v Bungart, 107
+AD3d 751, 752 [2013]; Matter of Korosh v Korosh, 99 AD3d 909, 911 [2012]; Matter of Kent v Kent, 29
+AD3d 123, 134 [2006]).
+
+There was no error in crediting the father's already-existing child support obligation
+against room and board costs, but not against tuition. In the absence of specific
+contractual language, the availability and amount of such a credit "depend[ ] upon the
+facts and circumstances in the particular case, taking into account the needs of the
+custodial parent to maintain a household and provide certain necessaries" (Paro v
+Paro, 215 AD2d 965, 966 [1995]). Here, the agreement simply requires that the
+amount of child support being paid by the father and the actual costs and expenses of the
+mother "shall be considered"—and Family Court gave due consideration to these
+circumstances.
+
+The child support credit is greater than half of the cost of room and board at a SUNY
+institution and thus fully satisfies this aspect of the father's obligation. In determining the
+maximum amount of his remaining contribution, SUNY costs for fees, books and
+supplies should not have been included in addition to SUNY tuition. A court must not
+create a new agreement for the parties under the guise of contract construction, but must
+instead ascertain their intent "to the extent that [they] evidenced what they intended by
+what they wrote" (Slatt v Slatt, 64 NY2d 966, 967 [1985] [internal quotation
+marks and citation omitted]). Here, the plain language of the parties' agreement provided
+that the maximum amount was to be calculated based solely upon "tuition, room and
+board" at a SUNY institution. According to the SUNY information submitted by the
+parties, tuition for the academic year in question was $5,270; other fees and expenses
+were not included in this amount, but were listed as separate categories. Thus, deducting
+the son's one-year outside scholarship from the tuition figure and dividing the remainder
+in half, the father's maximum obligation for the son's college costs is $2,335.
+
+Family Court correctly held that the plain language of the parties' agreement requires
+the mother to keep the son on her health insurance so long as that insurance is available
+to her, while the father is responsible for deductibles and copayments; contrary to the
+father's contention, the agreement does not permit him to put the son on his health
+insurance as an alternative. Finally, the father's claim for credit based upon overpayments
+of health insurance was properly denied. Pursuant to prior support orders, the father pays
+the share of the mother's health insurance premiums attributable to the difference
+between individual coverage and a family plan. The father sought a reduction based upon
+the mother's addition of her new husband to the family plan in 2009. In light of the
+strong public policy against recoupment of child support overpayments and the absence
+of any provision for such recoupment in the Child Support Standards Act, we find no
+error in the denial of reimbursement to the father for any portion of his previous
+payments (see Johnson v
+Chapin, 12 NY3d 461, 466 [2009]; Baraby v Baraby, 250 AD2d 201,
+205 [1998]), despite the Support Magistrate's determination reducing his future
+obligation.[FN*]
+
+
+Peters, P.J., Stein and McCarthy, JJ., concur. Ordered that the order is modified, on
+the law, without costs, by reversing so much thereof as (1) denied respondent's objection
+to the inclusion of costs other than tuition, room and board at a State University of New
+York institution in determining his maximum obligation for college costs, and (2)
+sustained respondent's objection to the calculation of this obligation by applying student
+loans obtained by the son to reduce respondent's obligation; respondent's obligation for
+college expenses modified to $2,335; and, as so modified, affirmed.
+
+
+Footnotes
+
+
+
+
+Footnote *: Notably, the addition of
+the husband did not alter the cost of the family plan.
+
+
+
+

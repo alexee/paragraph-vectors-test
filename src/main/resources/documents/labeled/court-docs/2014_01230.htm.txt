@@ -1,0 +1,141 @@
+
+	Ivory v International Bus. Machines Corp.
+	2014 NY Slip Op 01230 [116 AD3d 121]
+	February 20, 2014
+	McCarthy, J.
+	Appellate Division, Third Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, May 28, 2014
+
+
+
+
+
+[*1]
+	Thomas H. Ivory et al., Appellants-Respondents,
+v
+International Business Machines Corporation, Respondent-Appellant.
+
+
+
+Third Department, February 20, 2014
+
+
+
+
+
+Ivory v International Bus. Mach. Corp., 37 Misc 3d 1221(A), 2012 NY Slip Op 52123(U), modified.
+
+Ivory v International Bus. Mach. Corp., 37 Misc 3d 1221(A), 2012 NY Slip Op 52127(U), modified.
+
+Ivory v International Bus. Mach. Corp., 37 Misc 3d 1221(A), 2012 NY Slip Op 52124(U), affirmed.
+
+Ivory v International Bus. Mach. Corp., 37 Misc 3d 1221(A), 2012 NY Slip Op 52125(U), affirmed.
+
+Ivory v International Bus. Mach. Corp., 37 Misc 3d 1221(A), 2012 NY Slip Op 52126(U), affirmed.
+
+
+
+
+
+
+
+
+
+APPEARANCES OF COUNSEL
+
+
+
+Faraci Lange, LLP, Rochester (Stephen G. Schwarz of counsel), Levene, Gouldin & Thompson, LLP, Vestal (Phillip C. Johnson of counsel), Williams Cuker & Berezofsky, Philadelphia, Pennsylvania (Gerald J. Williams of counsel), and Weitz & Luxenberg, PC, New York City (Ellen Relkin of counsel), for appellants-respondents.
+
+Jones Day, New York City (Mary Ellen Powers, of the Washington, D.C. bar, admitted pro hac vice, of counsel), for respondent-appellant.
+
+
+
+{**116 AD3d at 125} OPINION OF THE COURT
+
+
+
+McCarthy, J.
+
+Defendant owned a machine manufacturing facility in the Village of Endicott, Broome County between 1924 and 2002. From 1935 through the mid-1980s, defendant used the chemical trichloroethylene (hereinafter TCE) to clean metal parts in degreasers and in the production of circuit cards and boards. In 1979, defendant discovered that solvents, including TCE, had pooled in the groundwater beneath the facility and the contaminated groundwater appeared to be migrating. Defendant began remedial efforts, which have been ongoing. In 2002, defendant began investigating whether vapor intrusion—a process in which chemicals volatilize out of contaminated groundwater and then migrate as vapors through the pores in the subsurface and into structures on the surface—was taking place in Endicott as a result of contaminated groundwater that originated at defendant's facility. Defendant was required by the Department of [*2]Environmental Conservation and the Department of Health to offer ventilation systems to owners of homes in certain areas in which TCE was detected and traceable to groundwater contamination.
+
+In 2008, defendant was the subject of a class action alleging causes of action for negligence, private nuisance and trespass and seeking, among other things, medical monitoring damages. Following extensive disclosure, the claims of two families were severed from the class action to be tried first. Out of the seven{**116 AD3d at 126} instant plaintiffs,[FN1]
+
+plaintiff Thomas H. Ivory and plaintiff Timothy Ivory each allege that they have developed cancer—non-Hodgkin's lymphoma and kidney cancer, respectively—as a result of TCE exposure; the other five plaintiffs allege that, although they were exposed to significant levels of TCE, they do not presently have any physical manifestations of injury related to TCE. All of the plaintiffs except Thomas H. Ivory seek medical monitoring damages in connection with their negligence or other claims.
+
+Defendant separately moved for, among other things, summary judgment dismissing the claims for negligence, trespass, private nuisance, medical monitoring damages, and exposure to chemicals other than TCE and exposure to TCE at locations other than plaintiffs' homes. Supreme Court fully granted defendant's motions regarding medical monitoring damages and other chemicals and locations, and partially denied each of the other three motions. Supreme Court issued five orders and one judgment. Plaintiffs appeal from all five orders and the judgment and defendant cross-appeals from three of the orders.
+
+Supreme Court properly granted defendant summary judgment dismissing plaintiffs' claims related to TCE exposure at locations other than their homes.[FN2]
+
+While "it is not always necessary for a plaintiff to quantify exposure levels precisely or use the dose-response relationship," an expert must establish causation through a method that is "generally accepted in the scientific community" (Parker v Mobil Oil Corp., 7 NY3d 434, 448 [2006]).[FN3]
+
+Here, plaintiffs' experts provided calculations related to exposure at two locations, the family homes of Thomas H. Ivory and plaintiff Grace Odom, where those plaintiffs raised their respective children. As no expert provided "a scientific expression of [any plaintiff's] exposure level" at any other location, the court correctly precluded proof at trial regarding exposure at other locations, as such assertions would be speculative and not scientifically supported (id. at 449; compare Jackson v Nutmeg Tech., Inc., 43 AD3d 599, 602 [2007]).
+
+{**116 AD3d at 127}Supreme Court did not err in denying defendant's motion for summary judgment dismissing the negligence claims of Thomas H. Ivory and Timothy Ivory. "[I]n cases involving [*3]the pollution of underground waters, the plaintiff must demonstrate that the defendant failed to exercise due care in conducting the allegedly polluting activity" (Fetter v DeCamp, 195 AD2d 771, 773 [1993]). "Although the precise manner in which the harm occurred need not be foreseeable, liability does not attach unless the harm is within the class of reasonably foreseeable hazards that the duty exists to prevent" (Sanchez v State of New York, 99 NY2d 247, 252 [2002] [citation omitted]). Expert testimony is necessary to prove a deviation from accepted standards of care and establish proximate cause "unless the matter is one which is within the experience and observation of the ordinary juror" (Lyons v McCauley, 252 AD2d 516, 517 [1998], lv denied 92 NY2d 814 [1998]). "The statements of defendant's experts that defendant 'comported with industry standards [do] not establish as a matter of law that [defendant] was not negligent' " (Baity v General Elec. Co., 86 AD3d 948, 951 [2011], quoting Gardner v Honda Motor Co., 214 AD2d 1024, 1024 [1995]), as an industry standard may fail to meet the appropriate standard of care. While some of the information regarding the standard of care here may have been outside the common knowledge of average jurors (see Koehler v Schwartz, 48 NY2d 807, 808-809 [1979]), defendant presented expert proof that it complied with the standard of care. Plaintiffs countered defendant's submissions by presenting documents and affidavits that, without the necessity of expert proof, raised questions of fact as to whether defendant complied with the standard of care set forth by its own experts.
+
+Despite the statements and conclusions of defendant's experts, the record does not contain an explanation as to how a large pool of solvents developed beneath defendant's facility. An ordinary layperson could conclude that a corporation fails to meet the standard of due care if it allows toxic chemicals to form into a large underground pool and then migrate onto or through properties up to a mile away, especially considering the estimates of the amounts of solvents and the time period over which the pool must have formed. The record contains varying estimates as to how much solvent was in the pool and what amount was TCE, raising factual issues. Although some of defendant's experts opined that TCE is not generally considered carcinogenic in humans, or at least not at the levels to which{**116 AD3d at 128} Timothy Ivory and Thomas H. Ivory were exposed, plaintiffs submitted proof from a physician who concluded that TCE exposure was a significant contributing factor to Timothy Ivory's and Thomas H. Ivory's development of cancer. The record also contains documents indicating defendant's awareness of leaking or missing solvents, as well as the ill health effects of TCE. Considering all of these factual issues concerning the negligence claims of Thomas H. Ivory and Timothy Ivory, Supreme Court appropriately denied summary judgment on those claims.
+
+Supreme Court did not err in finding a question of fact with regard to the doctrine of res ipsa loquitur. The only element of that doctrine that defendant addresses on appeal is whether the accident is the type that usually does not occur absent someone's negligence (see James v Wormuth, 21 NY3d 540, 546 [2013]). Documents and affidavits in the record, along with common sense, are sufficient to establish that the formation of a large solvent pool is not something that happens absent someone's negligence, and "the issue of proximate cause is ordinarily a question of fact for a jury to resolve" (Schlanger v Doe, 53 AD3d 827, 829-830 [2008] compare 92 Ct. St. Holding Corp., LLC v Monnet, 106 AD3d 1404, 1407 [2013]). Thus, the court reasonably determined that plaintiffs could attempt to rely on res ipsa loquitur at trial, and deferred any final determination on the issue until such time.
+
+Supreme Court did not err in dismissing plaintiff James Odom's private nuisance claim. The Court of Appeals has held that an occupant of a home who lacks an ownership or possessory interest in the property cannot maintain a claim for private nuisance (see Kavanagh v Barber, 131 NY 211, 213-214 [1892] see also Hughes v City of Auburn, 161 NY 96, 105 [1899]). While [*4]some may deem this rule antiquated, especially as it applies to a spouse or child who lives in a family home but does not have a legal interest in the property, the rule preserves the essence of private nuisance claims, which is to permit recovery for interference with use and enjoyment of land that amounts to an injury to a right of ownership in the land (see Swearingen v Long, 889 F Supp 587, 592 [ND NY 1995]). Regardless of our view of this rule, the Court of Appeals—not this Court—must "pass on the continued validity of its earlier decisions" (Babigian v Wachtler, 181 AD2d 640, 640 [1992] see Carnesi v State of New York, 140 AD2d 912, 913 [1988] Thomas v Hendrickson Bros., 30 AD2d 730, 731 [1968]). Based on binding precedent, Supreme Court{**116 AD3d at 129} properly dismissed James Odom's private nuisance claim due to lack of standing, as he has no legal interest in his mother's home, although he has lived there since birth (see Kavanagh v Barber, 131 NY at 213-214; Broxmeyer v United Capital Corp., 79 AD3d 780, 784 [2010] Swearingen v Long, 889 F Supp at 592-593).
+
+Supreme Court partially erred in denying the portion of defendant's motion for summary judgment dismissing the trespass claims of Grace Odom, Thomas H. Ivory and plaintiff Shawn (Ivory) Stevens insofar as those claims are based on vapor intrusion, air emissions and groundwater contamination. Initially, defendant incorrectly argues that plaintiffs asserted a new theory of trespass based on groundwater infiltration, soil contamination and air emissions. Broadly reading the amended complaint and plaintiffs' interrogatory responses, plaintiffs adequately alleged that defendant's trespasses occurred through water and soil contamination as well as air and vapor intrusion. On the merits, a trespass claim represents an injury to the right of possession (see 104 NY Jur 2d, Trespass, § 10 at 471), and the elements of a trespass cause of action are an intentional entry onto the land of another without permission (see Phillips v Sun Oil Co., 307 NY 328, 331 [1954] Hand v Stray Haven Humane Socy. & S.P.C.A., Inc., 21 AD3d 626, 628 [2005]). Regarding intent, the defendant "must intend the act which amounts to or produces the unlawful invasion, and the intrusion must at least be the immediate or inevitable consequence of what he [or she] willfully does, or which he [or she] does so negligently as to amount to willfulness" (Phillips v Sun Oil Co., 307 NY at 331). For a trespass claim involving toxic chemicals, a defendant is liable only if "he [or she] had good reason to know or expect that subterranean and other conditions were such that there would be passage [of the toxins] from [the] defendant's to [the] plaintiff's land" (id.; see Baity v General Elec. Co., 86 AD3d at 951). Documents in the record confirm that defendant became aware of a solvent pool under its facility, TCE was one of the solvents in that pool, the solvent concentration was high, and it appeared that contaminated groundwater was moving toward the Susquehanna River. Based on defendant's own submissions, the record contains questions of fact regarding defendant's intent as to the intrusion of contaminated groundwater entering the property and soil owned by Thomas H. Ivory, Grace Odom and Stevens.
+
+As relevant to the vapor intrusion and air emissions, however, courts have precluded trespass claims where the entry or intrusion{**116 AD3d at 130} was intangible, such as the occurrence of vibrations (see Booth v Rome, Watertown & Ogdensburg Term. R.R. Co., 140 NY 267, 280 [1893], overruled on other grounds Spano v Perini Corp., 25 NY2d 11 [1969]), shading of a plaintiff's property (see Weinberg v Lombardi, 217 AD2d 579, 579 [1995]), or a permeating odor or vapors of gasoline (see Boswell v Leemilt's Petroleum, 252 AD2d 889, 891 [1998]). "Generally, intangible intrusions, such as by noise, odor, or light alone, are treated as nuisances, not trespass [because] they interfere with nearby property owners' use and enjoyment of their land, not with their exclusive possession of it" (75 Am Jur 2d, Trespass § 27). Thus, plaintiffs have no valid trespass claims based on vapor intrusion or air emissions, as those caused only intangible intrusions.
+
+Thomas H. Ivory, Grace Odom and Stevens cannot support trespass claims based on contaminated groundwater, because groundwater does not belong to the owners of real property, but is a natural resource entrusted to the state by and for its citizens (see Castle Vil. Owners Corp. v Greater N.Y. Mut. Ins. Co., 64 AD3d 44, 49 [2009] State of New York v New York Cent. Mut. Fire Ins. Co., 147 AD2d 77, 79 [1989], citing Navigation Law §§ 170, 172 [12], [18]). On the other hand, as to contaminated soil, title to "real property includes both the air above the parcel and the earth below it" (City of Kingston v Knaust, 287 AD2d 57, 59 [2001]). The record contains sufficient information concerning TCE contamination of groundwater that apparently flowed through the soil under the homes of Thomas H. Ivory, Grace Odom and Stevens to survive summary judgment on their trespass claims as related to contaminated soil (see Boswell v Leemilt's Petroleum, 252 AD2d at 891; Bimbo v Chromalloy Am. Corp., 226 AD2d 812, 814-815 [1996]).
+
+Supreme Court properly dismissed the claims for medical monitoring damages, except as to Timothy Ivory and Grace Odom. The Court of Appeals recently held that New York does not recognize an independent cause of action for medical monitoring (Caronia v Philip Morris USA, Inc., 22 NY3d 439 [2013]). Plaintiffs here did not assert such a separate cause of action, but instead sought medical monitoring expenses as consequential damages in connection with some of their other claims. Despite this different context, we are guided by the Court of Appeals' decision in Caronia, which noted "that medical monitoring is an element of damages that may be recovered only after a physical injury has been proven, i.e., that it is a{**116 AD3d at 131} form of remedy for an existing tort" (id. at 448). The Court held that New York's current tort jurisprudence does not allow a claim for medical monitoring "absent any evidence of present physical injury or damage to property" (id. at 452). Only Thomas H. Ivory and Timothy Ivory have alleged, and presented some proof to establish, that they currently suffer from actual physical injuries allegedly caused by TCE. Thomas H. Ivory does not seek medical monitoring damages. Therefore, only Timothy Ivory can proceed to seek medical monitoring as consequential damages in connection with his actual physical injury, namely kidney cancer.[FN4]
+
+Although defendant contends that Timothy Ivory did not allege that any other medical conditions were consequentially related to his kidney cancer, it can be gleaned from the allegations and the record that Timothy Ivory was exposed to sufficient amounts or concentrations of TCE to cause him to develop kidney cancer, and that same exposure makes it likely that he could develop other TCE-related injuries. Defendant is not entitled to summary judgment against Timothy Ivory on medical monitoring damages because, viewing the evidence in a light most favorable to plaintiffs (see Vega v Restani Constr. Corp., 18 NY3d 499, 503 [2012]), the affidavits of the competing experts raise a triable issue of fact as to whether he can recover such consequential damages related to his negligence cause of action.
+
+Caronia also indicates that medical monitoring can be recovered as consequential damages associated with a separate tort alleging property damage (Caronia v Philip Morris USA, Inc., 22 NY3d at 448, 452). Grace Odom and Stevens have valid trespass and private nuisance causes of action. Private nuisance, however, does not require damage to property; it "is established by proof of intentional action or inaction that substantially and [*5]unreasonably interferes with other people's use and enjoyment of their property" (Nemeth v K-Tooling, 100 AD3d 1271, 1272 [2012] Swearingen v Long, 889 F Supp at 592). As private nuisance does not require any "present . . . damage to property" (Caronia v Philip Morris USA, Inc., 22 NY3d at 452), and Grace Odom and Stevens have not alleged such as part of their{**116 AD3d at 132} nuisance claim,[FN5]
+
+no plaintiff here has a claim for medical monitoring damages consequential to a nuisance cause of action. Conversely, the trespass cause of action asserted by Grace Odom and Stevens, as limited by this decision to the contaminated soil under their property, alleges present property damage. Accordingly, those two plaintiffs could pursue medical monitoring damages consequential to the trespass cause of action.
+
+Stevens' trespass claim is limited, however, by her partial stipulation of discontinuance. Stevens' stipulation to discontinue her claim for "property damages, including property devaluation," after she sold her home for market value, does not preclude her from seeking damages for inconvenience or annoyance related to any trespass committed by defendant, as opposed to recovery for damage to the property itself (see Volunteer Fire Assn. of Tappan, Inc. v County of Rockland, 101 AD3d 853, 856 [2012] Kronish Lieb Weiner & Hellman LLP v Tahari, Ltd., 35 AD3d 317, 319 [2006]). This stipulation was specifically limited to the property damage aspect of Stevens' trespass claim, and, if defendant intended to have the stipulation entirely discontinue her trespass cause of action, defendant could have insisted that the stipulation include language that would do so. Additionally, defendant was not entitled to summary judgment on the trespass claims due to an alleged lack of proof of damages, as nominal damages can be presumed in an action for trespass to real property (see Kronos, Inc. v AVX Corp., 81 NY2d 90, 95 [1993] Strader v Ashley, 61 AD3d 1244, 1248 [2009], lv dismissed 13 NY3d 756 [2009]). Nevertheless, because Stevens can only pursue medical monitoring damages as consequential damages associated with a separate tort alleging property damage, and she discontinued her property damage claims, she has waived her right to seek consequential medical monitoring damages.
+
+Finally, Thomas H. Ivory forfeited his right to a claim for trespass damages by participating in defendant's Voluntary Property Benefit Program, through which he accepted $10,000 in exchange for signing a general release whereby he released defendant from all claims for "trespasses . . . and demands whatsoever relating to damage to, and/or diminution in value of, any real property" in Endicott. The Attorney General stated in a press release regarding the Voluntary Property Benefit{**116 AD3d at 133} Program that acceptance of money through the program precluded claims for "property damage," although it did not preclude "other claims associated with the contamination." As the word "trespasses" is specifically used in the release, and the trespass allegations relating to soil contamination refer to damage to real property, the release bars Thomas H. Ivory from pursuing his trespass cause of action. The release does not preclude his private nuisance cause of action, however, because private nuisance depends on interference with use and enjoyment of property, including through air emissions and vapor intrusion, that may not necessarily cause any damage to the real property (see Massaro v Jaina Network Sys., Inc., 106 AD3d 701, 703 [2013], lv dismissed 21 NY3d 1057 [2013] JP Morgan Chase Bank v Whitmore, 41 AD3d 433, 434-435 [2007]).
+
+We have reviewed the parties' remaining contentions and find them to be without merit.
+
+Peters, P.J., Stein and Garry, JJ., concur.
+
+Ordered that the order entered January 16, 2013 (medical monitoring) is modified, on the law, without costs, by reversing so much thereof as granted defendant's motion for summary judgment dismissing (1) plaintiff Timothy Ivory's claim for medical monitoring as consequential damages related to his negligence cause of action, and (2) plaintiff Grace Odom's claim for medical monitoring as consequential damages related to her trespass cause of action; motion denied to that extent; and, as so modified, affirmed.
+
+Ordered that the order entered January 16, 2013 (trespass) is modified, on the law, without costs, by reversing so much thereof as denied defendant's motion for summary judgment dismissing (1) the trespass cause of action of plaintiff Thomas H. Ivory and (2) the trespass cause of action of plaintiffs Shawn (Ivory) Stevens and Grace Odom to the extent that those claims are based on vapor intrusion, air emissions and groundwater contamination; motion granted to that extent; and, as so modified, affirmed.
+
+Ordered that the remaining three orders entered January 16, 2013 and the judgment are affirmed, without costs.
+
+
+Footnotes
+
+
+
+
+Footnote 1: One of the original eight plaintiffs, Emmanuel Odom, has since passed away and his claims have been discontinued.
+
+
+
+
+Footnote 2: As plaintiffs' briefs do not address their claims or theory concerning exposure to chemicals other than TCE, they have abandoned any argument concerning those claims (see Matter of Smith v O'Donnell, 107 AD3d 1311, 1312 n [2013]).
+
+
+
+
+Footnote 3: To resolve a separate motion filed by defendant, Supreme Court will hold a Frye hearing regarding the admissibility of plaintiffs' expert testimony. Until that motion is decided, we will treat the expert proof as admissible.
+
+
+
+
+Footnote 4: We reject defendant's argument that the medical monitoring claim is time-barred. While that argument may have been valid if we were dealing with a separate cause of action, it does not apply to these consequential damages related to independent tort causes of action that are not time-barred.
+
+
+
+
+Footnote 5: In their interrogatory responses, these two plaintiffs alleged as their only damages related to their private nuisance claim that they suffered annoyance, inconvenience, loss of quiet enjoyment and emotional injury.
+
+
+
+

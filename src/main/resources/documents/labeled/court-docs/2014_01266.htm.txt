@@ -1,0 +1,115 @@
+
+	TBA Global, LLC v Proscenium Events, LLC
+	2014 NY Slip Op 01266 [114 AD3d 571]
+	February 25, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	TBA Global, LLC, Appellant,
+v
+Proscenium
+Events, LLC, et al., Respondents.
+
+
+—[*1]
+
+
+Crowell & Moring LLP, New York (Jeffrey W. Pagano of counsel), for
+appellant.
+
+Kaiser Saurborn & Mair, P.C., New York (David N. Mair of counsel), for
+Proscenium Events, LLC, Mark Shearon, Chuck Santoro and James Cavanaugh,
+respondents.
+
+Meltzer, Lippe, Goldstein & Breitstone, LLP, Mineola (Michael H. Masri of
+counsel), for Trade Show Fabrications, Inc. and Ronald Suissa, respondents.
+
+
+
+Order, Supreme Court, New York County (Melvin L. Schweitzer, J.), entered on or
+about April 9, 2013, which, to the extent appealed from as limited by the briefs, granted a
+motion by defendants Mark Shearon, Chuck Santoro and James Cavanaugh for partial
+summary judgment to the extent of finding that certain restrictive covenants consisting of
+postemployment nonsolicitation agreements between plaintiff and each of the moving
+defendants are unenforceable, and denied plaintiff's motion to compel discovery,
+unanimously modified, on the law, the motion for partial summary judgment denied, and
+otherwise affirmed, without costs.
+
+Shearon's nonsolicitation agreement with plaintiff provided that for a period of two
+years after the termination of his employment with plaintiff he was not to "directly or
+indirectly, communicate with clients or customers of [plaintiff] or pursue business
+relationships developed while employed by [plaintiff]" except for exclusions that are not
+relevant to this appeal. The nonsolicitation agreements entered into by Santoro and
+Cavenaugh provided that during their one-year postemployment nonsolicitation periods
+neither respective employee was to "directly or indirectly communicate with the clients or
+prospective clients of [plaintiff] that" each "had personal contact with while employed by
+[plaintiff]." Defendants moved for partial summary judgment to the extent of a
+determination that the subject nonsolicitation agreements are overbroad and
+unenforceable. By their own terms, all of the nonsolicitation agreements were to be
+governed by and construed in accordance with Delaware law. Nonetheless, the parties
+differ as to whether New York law or Delaware law should be applied.
+
+In light of the parties' disagreement as to which state's law should apply, our first step
+is to determine whether there is an actual conflict between the laws of the jurisdictions
+involved (see Matter of Allstate Ins. Co. [Stolarz—New Jersey Mfrs. Ins.
+Co.], 81 NY2d 219, 223 [1993]). For an actual conflict to exist, "the laws in question
+must provide different substantive rules in each jurisdiction that are 'relevant' to the issue
+at hand and have a 'significant possible effect on the outcome of the trial' " (Elmaliach v Bank of China
+Ltd., 110 AD3d 192, 200 [1st Dept [*2]2013]).
+Under New York law, an employee's noncompetition agreement is reasonable and,
+therefore, enforceable "only if it: (1) is no greater than is required for the
+protection of the legitimate interest of the employer, (2) does not impose undue
+hardship on the employee, and (3) is not injurious to the public" (BDO Seidman v
+Hirshberg, 93 NY2d 382, 388-389 [1999]). The parties' briefs disclose no conflict of
+laws that would have a " 'significant possible effect on the outcome of the trial' " (see
+Elmaliach, 110 AD3d at 200 [emphasis omitted]). To be sure, the moving defendants
+argued before the motion court that "Delaware law does not differ significantly from
+New York law as to the test for enforceability" and that applying New York law "should
+not make a material difference to the outcome" of the case. Thus, we apply the law of
+New York, the forum state (see
+Excess Ins. Co. v Factory Mut. Ins. Co., 2 AD3d 150, 151 [1st Dept 2003],
+affd 3 NY3d 577 [2004]).
+
+The motion court erred in granting partial summary judgment based on its finding
+that the nonsolicitation covenants are unenforceable. Contrary to the motion court's
+determination, the restrictions imposed are no greater than required to protect TBA's
+legitimate interests which include the protection of client relationships (see BDO
+Seidman, 93 NY2d at 388; Reed, Roberts Assoc. v Strauman, 40 NY2d 303,
+307-308 [1976]; Crown IT
+Servs., Inc. v Koval-Olsen, 11 AD3d 263, 264 [1st Dept 2004]). The purported
+preexisting relationship between Santoro and T-Mobile, one of the customers allegedly
+improperly solicited by defendants, does not establish that such a relationship existed
+between any of the moving defendants and the other TBA clients alleged to have been
+improperly solicited. Thus, summary judgment was improperly granted since TBA is not
+precluded from seeking to enforce the nonsolicitation covenants for the purpose of
+protecting its customer relationships and goodwill.
+
+Further, the motion court incorrectly found that there is no evidence that defendants
+misappropriated or used plaintiff's customer lists or trade secrets. To the contrary,
+plaintiff has proffered evidence that the moving defendants, who had intimate knowledge
+of TBA's intellectual property and financial information, misappropriated and misused
+TBA's trade secrets and intellectual property in connection with their solicitation of
+clients. The record contains evidence that Shearon regularly forwarded to his personal
+email account confidential and proprietary TBA pricing and customer information,
+including internal TBA reports detailing comprehensive information about TBA
+customers such as revenue figures, project pricing and the status of projects, and also
+took proprietary documents pertaining to TBA's work on Walmart, including proposal
+and pitch materials. Thus, at a minimum, there are issues of fact with respect to whether
+the moving defendants breached the restrictive covenants (see Ashland Mgt. Inc. v Altair
+Invs. NA, LLC, 59 AD3d 97, 102 [1st Dept 2008], mod on other grounds
+14 NY3d 774 [2010]).
+[*3]
+With respect to the denial of TBA's motion to
+compel discovery, the court did not abuse its discretion in concluding that TBA must
+provide further disclosure to defendants concerning its customers and damages before
+obtaining the relief requested. Concur—Sweeny, J.P., Moskowitz, Renwick,
+DeGrasse and Gische, JJ. [Prior Case History: 2013 NY Slip Op 30938(U).]
+
+

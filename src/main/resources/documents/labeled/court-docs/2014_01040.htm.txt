@@ -1,0 +1,153 @@
+
+	People v Bakerx
+	2014 NY Slip Op 01040 [114 AD3d 1244]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York,
+Respondent,
+v
+Robert Bakerx, Appellant.
+
+
+—[*1]
+
+
+Thomas Theophilos, Buffalo, for defendant-appellant.
+
+Frank A. Sedita, III, District Attorney, Buffalo (David A. Heraty of counsel), for
+respondent.
+
+
+
+Appeal from a judgment of the Supreme Court, Erie County (Christopher J. Burns,
+J.), rendered June 21, 2011. The judgment convicted defendant, upon a nonjury verdict,
+of manslaughter in the first degree and criminal possession of a weapon in the second
+degree.
+
+It is hereby ordered that the judgment so appealed from is unanimously affirmed.
+
+Memorandum: Defendant appeals from a judgment convicting him, following a joint
+nonjury trial with one codefendant (People v Heary, 104 AD3d 1208 [2013], lv denied
+21 NY3d 943 [2013], reconsideration denied 21 NY3d 1016 [2013]), of
+manslaughter in the first degree (Penal Law § 125.20 [1]) and criminal possession
+of a weapon in the second degree (§ 265.03 [3]) (CPW 2d). Defendant contends
+that the evidence is legally insufficient to support his conviction of manslaughter because
+the People failed to meet their burden of disproving his justification defense beyond a
+reasonable doubt (see generally § 25.00 [1]; People v Umali, 10 NY3d
+417, 425 [2008], rearg denied 11 NY3d 744 [2008], cert denied 556
+US 1110 [2009]). He further contends that the evidence is legally insufficient to support
+the conviction of CPW 2d because the People failed to establish that he did not possess
+the loaded weapon in his home or place of business (Penal Law § 265.03 [3]) or
+that he intended to use the weapon against another. Those "contention[s] [are] not
+preserved for our review inasmuch as defendant 'did not move for a trial order of
+dismissal on th[ose] ground[s]' " (Heary, 104 AD3d at 1209; see generally
+People v Gray, 86 NY2d 10, 19 [1995]). We reject defendant's further contention
+that he was denied effective assistance of counsel based on defense counsel's failure to
+move for a trial order of dismissal on those grounds. "It is well settled that '[a] defendant
+is not denied effective assistance of trial counsel merely because counsel does not make a
+motion or argument that has little or no chance of success' . . . Here, there
+was no chance that such a motion would have succeeded" (Heary, 104 AD3d at
+1209, quoting People v
+Stultz, 2 NY3d 277, 287 [2004], rearg denied 3 NY3d 702 [2004]).
+
+Defendant further contends that the evidence is legally insufficient to support the
+conviction of manslaughter because the People failed to establish the element of intent to
+cause serious physical injury. Although defendant preserved that contention for our
+review, we conclude that it lacks merit. Such "intent may be inferred from [defendant's]
+conduct, the surrounding circumstances, and the medical evidence," which established
+that defendant shot the victim and that the bullet entered the victim through the back,
+piercing his right lung and aorta (People v Wise, 46 AD3d 1397, 1399 [2007], lv
+denied 10 NY3d 872 [2008] [internal quotation marks omitted]; see generally
+People v Bleakley, 69 NY2d 490, 495 [1987]).
+
+Although defendant further contends that Supreme Court erred in failing to consider
+the lesser included offense of manslaughter in the second degree (Penal Law §
+125.15 [1]), we reject that contention. There is no "reasonable view of the evidence [that]
+would support a finding that the defendant committed such lesser offense but did not
+commit the greater" (CPL 300.50 [1]; see generally People v Glover, 57 NY2d
+61, 63 [1982]). We further conclude, upon viewing the evidence in light of the elements
+of the crimes in this nonjury trial (see People v Danielson, 9 NY3d 342, 349 [2007]), that the
+verdict is not against the weight of the evidence (see Bleakley, 69 NY2d at 495).
+
+Inasmuch as defendant did not join in the application of the codefendant to introduce
+evidence of the victim's prior bad acts, he did not preserve for our review his contention
+that the court erred in refusing to admit such evidence (see People v Thompson,
+300 AD2d 1032, 1033 [2002], lv denied 99 NY2d 620 [2003]; People v
+Cook, 286 AD2d 917, 917 [2001], lv denied 97 NY2d 680 [2001]; see
+generally People v Buckley, 75 NY2d 843, 846 [1990]). In any event, that
+contention lacks merit (see Matter of Robert S., 52 NY2d 1046, 1048 [1981])
+and, therefore, defense counsel was not ineffective in failing to make an argument that
+had little or no chance of success (see Heary, 104 AD3d at 1209; see
+generally Stultz, 2 NY3d at 287).
+
+In his pretrial omnibus motion and supplemental motions, defendant sought
+suppression of his statements, physical evidence and DNA evidence contending, inter
+alia, that he was arrested without probable cause. We conclude that the court properly
+denied the Dunaway branch of defendant's motions without a hearing. "Given
+'(1) the face of the pleadings, (2) assessed in conjunction with the context of the
+motion[s], and (3) defendant's access to information,' defendant's allegations in support
+of his motion[s] were too conclusory to warrant a hearing" (People v Lopez, 5 NY3d
+753, 754 [2005], quoting People v Mendoza, 82 NY2d 415, 426 [1993]; see People v Arokium, 33
+AD3d 458, 459 [2006], lv denied 8 NY3d 878 [2007]; People v McDowell, 30 AD3d
+160, 160 [2006], lv denied 7 NY3d 850 [2006]). In any event defendant's
+"written postarrest statement . . . on its face shows probable cause for
+defendant's arrest, and defendant failed to controvert it in his motion papers"
+(Lopez, 5 NY3d at 754).
+
+Defendant contends for the first time on appeal that the Miranda warnings
+given to him were defective. That contention is not preserved for our review (see
+People v Tutt, 38 NY2d 1011, 1012-1013 [1976]; People v Louisias, 29 AD3d
+1017, 1018-1019 [2006], lv denied 7 NY3d 814 [2006]) and, in any event, it
+lacks merit. Although the detective issuing the warnings did not inform defendant that he
+would be entitled to "free" counsel if he could not afford counsel, "the Miranda
+prophylaxis does not require a 'ritualistic incantation of warnings in any particular
+language or form' " (People v Snider, 258 AD2d 929, 930 [1999], lv
+denied 93 NY2d 979 [1999]). "The inquiry is simply whether the warnings
+reasonably 'conve[y] to [a suspect] his rights as required by Miranda' "
+(Duckworth v Eagan, 492 US 195, 203 [1989]; see Louisias, 29 AD3d at
+1019). Here, defendant was informed that he would receive appointed counsel if he
+could not afford counsel and, therefore, the warnings given to defendant reasonably
+apprised him of his rights.
+
+Defendant also contends for the first time on appeal that he was denied his right to
+counsel because, although he was not in custody on a prior charge, he was represented by
+counsel on that charge and it was related to the charges for which he was in custody
+(see People v Vella, 21 NY2d 249, 251 [1967]). "[T]he rule 'authorizing review
+of unpreserved constitutional right-to-counsel claims' has been applied 'only when the
+constitutional violation was established on the face of the record' " (People v McLean, 15 NY3d
+117, 121 [2010], quoting People v Ramos, 99 NY2d 27, 37 [2002]). Here,
+because "the record does not make clear, irrefutably, that a right to counsel violation has
+occurred, the claimed violation can be reviewed only on a post-trial motion under CPL
+440.10, not on direct appeal" (id.). Defendant's further contention that defense
+counsel was ineffective in failing to pursue that theory of suppression also involves
+matters outside the record on appeal and thus is properly raised by way of a CPL 440.10
+motion (see People v Rivera, 71 NY2d 705, 709 [1988]).
+
+Defendant contends that photo arrays shown to two witnesses were unduly
+suggestive because of the differences in the attire of the persons depicted and in the
+composition of the photographs. We reject that contention inasmuch as those differences
+were "not sufficient to create a substantial likelihood that the defendant would be singled
+out for identification" (People v Chipp, 75 NY2d 327, 336 [1990], cert
+denied 498 US 833 [1990]). For the first time on appeal, defendant also contends
+that the photo arrays were unduly suggestive because he was the only person with a
+mohawk hairstyle in both arrays. That contention was not raised in the hearing court and,
+therefore, is not preserved for our review (see People v Johnson, 306 AD2d 214,
+215 [2003], lv denied 100 NY2d 621 [2003]; People v Berry, 201 AD2d
+489, 489-490 [1994], lv denied 83 NY2d 869 [1994]). We decline to exercise
+our power to review that contention as a matter of discretion in the interest of justice
+(see CPL 470.15 [6] [a]).
+
+Finally, we reject defendant's challenges to the severity of the sentence and the
+court's remarks at sentencing. Present—Scudder, P.J., Fahey, Peradotto, Carni and
+Valentino, JJ.
+
+

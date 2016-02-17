@@ -1,0 +1,131 @@
+
+	Williams v City of New York
+	2014 NY Slip Op 01165 [114 AD3d 852]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Tyrone Williams, Respondent,
+v
+City of New
+York, Appellant, et al., Defendant.
+
+
+—[*1]
+
+
+Zachary W. Carter, Corporation Counsel, New York, N.Y. (Kristin M. Helmers,
+Janet L. Zaleon, and Keegan K. Staker of counsel), for appellant.
+
+Hill Rosenberg & Thurston, LLC, Brooklyn, N.Y. (Steven N. Feinman of counsel),
+for respondent.
+
+
+
+In an action, inter alia, to recover damages for false imprisonment and malicious
+prosecution, the defendant City of New York appeals, as limited by its brief, from so
+much of an order of the Supreme Court, Kings County (Velasquez, J.), dated June 29,
+2012, as denied those branches of its motion which were for summary judgment
+dismissing the causes of action alleging false imprisonment and malicious prosecution
+insofar as asserted against it.
+
+Ordered that the order is reversed insofar as appealed from, on the law, with costs,
+and those branches of the motion of the defendant City of New York which were for
+summary judgment dismissing the causes of action alleging false imprisonment and
+malicious prosecution insofar as asserted against it are granted.
+
+"In order to prevail on a cause of action seeking to recover damages for false arrest
+or imprisonment, a plaintiff must prove that: (1) the defendant intended to confine the
+plaintiff; (2) the plaintiff was aware of the resulting confinement; (3) the plaintiff did not
+consent to the confinement; and (4) the confinement was not otherwise privileged" (Rivera v County of Nassau, 83
+AD3d 1032, 1033 [2011]; see Broughton v State of New York, 37 NY2d
+451, 456 [1975], cert denied sub nom. Schanbarger v Kellogg, 423 US
+929 [1975]). "The existence of probable cause serves as a legal justification for the arrest
+and an affirmative defense to the claim of false imprisonment or false arrest" (Rivera
+v County of Nassau, 83 AD3d at 1033 [internal quotation marks omitted]; see
+Broughton v State of New York, 37 NY2d at 458; Smith v County of
+Nassau, 34 NY2d 18, 23 [1974]).
+
+Contrary to the Supreme Court's determination, the City of New York demonstrated
+its prima facie entitlement to judgment as a matter of law dismissing the plaintiff's false
+imprisonment claim. " 'Generally, information provided by an identified citizen accusing
+another individual of a specific crime is legally sufficient to provide the police with
+probable cause to arrest' " (Rivera v County of Nassau, 83 AD3d at 1033,
+quoting People v Bero, 139 AD2d 581, 584 [1988]; see Minott v City of New
+York, 203 AD2d 265, 267 [1994]; Shapiro v County of Nassau, 202 AD2d
+358 [1994]). Here, the City established the existence of probable cause to arrest the
+defendant by presenting evidence that an identified citizen accused the plaintiff of a
+specific crime. The plaintiff failed to raise a triable issue of fact in opposition (see Redmond v City of White
+Plains, 77 AD3d 902, 902 [2010]). [*2]Accordingly, the Supreme Court should have granted that
+branch of the City's motion which was for summary judgment dismissing the false
+imprisonment cause of action.
+
+"The elements of the tort of malicious prosecution are: (1) the commencement or
+continuation of a criminal proceeding by the defendant against the plaintiff, (2) the
+termination of the proceeding in favor of the accused, (3) the absence of probable cause
+for the criminal proceeding and (4) actual malice" (Broughton v State of New
+York, 37 NY2d at 457; see Colon v City of New York, 60 NY2d 78, 82
+[1983]). "Once a suspect has been indicted, . . . the indictment creates a
+presumption of probable cause to believe that the suspect committed the crime" (Chetrick v Cohen, 52 AD3d
+449, 450 [2008]; see Colon v City of New York, 60 NY2d at 82-83; Strange v County of
+Westchester, 29 AD3d 676, 677 [2006]). "The presumption may be overcome
+only by evidence establishing that the police witnesses have not made a complete and full
+statement of facts either to the Grand Jury or to the District Attorney, that they have
+misrepresented or falsified evidence, [or] that they have withheld evidence or otherwise
+acted in bad faith" (Colon v City of New York, 60 NY2d at 82-83). Here, the
+City demonstrated its prima facie entitlement to judgment as a matter of law by showing
+that the plaintiff was indicted by a grand jury for the subject incident, thus creating a
+presumption of probable cause.
+
+The plaintiff asserts that a fingerprint analysis report, which was prepared after the
+victim and the lead detective testified before the grand jury, exonerated him and rebutted
+the presumption of probable cause created by the grand jury indictment. Contrary to the
+plaintiff's contention, the fingerprint analysis report did not exonerate him, but instead
+constituted "conflicting evidence uncovered in the course of the police investigation" that
+was "relevant to the issue of whether guilt beyond a reasonable doubt could have been
+proven at a criminal trial, not to the initial determination of the existence of probable
+cause" (Agront v City of New York, 294 AD2d 189, 190 [2002]; see Lewis v Caputo, 20 NY3d
+906, 907 [2012]; Medina v
+City of New York, 102 AD3d 101, 107 [2012]; Carthens v City of New
+York, 168 AD2d 408 [1990]; cf. Kemp v Lynch, 275 AD2d 1024,
+1025-1026 [2000]). The plaintiff's further contention that the lead detective withheld the
+report from the grand jury and the Kings County District Attorney's office (hereinafter
+the DA's office) is purely speculative (see Strange v County of Westchester, 29
+AD3d at 676), and the record does not support his contention that the criminal
+investigation was conducted in a manner which deviated so egregiously from proper
+police procedure as to indicate intentional or reckless action by the lead detective (see
+Lee v City of Mount Vernon, 49 NY2d 1041, 1042-1043 [1980]; cf. Haynes v City of New
+York, 29 AD3d 521, 522-523 [2006]; Hernandez v State of New York,
+228 AD2d 902, 905 [1996]). Accordingly, the plaintiff failed to raise a triable issue of
+fact in opposition to the City's prima facie showing, and the City was entitled to summary
+judgment dismissing the malicious prosecution cause of action.
+
+On appeal, the plaintiff also accuses the DA's office of wrongdoing in connection
+with his criminal proceeding. The plaintiff's contentions with respect to the DA's office,
+however, are not properly before this Court, as they are based on arguments and evidence
+provided for the first time in the plaintiff's surreply papers submitted to the Supreme
+Court (see Sawyers v
+Troisi, 95 AD3d 1293, 1294 [2012]; Lenox Hill Hosp. v Government Empls. Ins. Co., 89 AD3d
+905, 905 [2011]; Fotiadis v
+Fotiadis, 18 AD3d 699, 700 [2005]). Moreover, the plaintiff withdrew all claims
+against the DA's office, leaving the City as the only remaining defendant in this case. The
+DA's office is an entity separate from the City (see Narvaez v City of New York, 83 AD3d 516, 517
+[2011]; Leftenant v City of New
+York, 70 AD3d 596, 597 [2010]; Warner v City of New York, 57 AD3d 767, 768 [2008]).
+While "a 42 USC § 1983 claim may be maintained against the City for the conduct
+of the District Attorney's office, insofar as the District Attorney acted as a New York City
+policymaker" (Johnson v Kings County Dist. Attorney's Off., 308 AD2d 278,
+296 [2003]; see Ramos v City of New York, 285 AD2d 284, 303 [2001]), the
+plaintiff withdrew his 42 USC § 1983 claims against the City.
+
+In light of our determination, we need not address the City's remaining contentions.
+Rivera, J.P., Leventhal, Hall and Roman, JJ., concur.
+
+

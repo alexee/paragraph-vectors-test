@@ -1,0 +1,134 @@
+
+	Matter of Karm'ny QQ. (Steven QQ.)
+	2014 NY Slip Op 01359 [114 AD3d 1101]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of Karm'ny QQ., a Child Alleged to be
+Neglected. Washington County Department of Social Services, Respondent; Steven QQ.,
+Appellant. (And Another Related Proceeding.)
+
+
+—[*1]
+
+
+Cynthia Feathers, Glens Falls, for appellant.
+
+Robert A. Wickes, County Attorney, Fort Edward (Daniel S. Martindale of counsel),
+for respondent.
+
+Lynne E. Ackner, Glens Falls, attorney for the child.
+
+
+
+McCarthy, J. Appeals (1) from an order of the Family Court of Washington County
+(Pritzker, J.), entered June 20, 2012, which, in a proceeding pursuant to Family Ct Act
+article 10, denied respondent's motion for the return of his child, and (2) from an order of
+said court, entered November 29, 2012, which, in said proceeding pursuant to Family Ct
+Act article 10, granted petitioner's motion for summary judgment adjudicating
+respondent's child to be derivatively neglected.
+
+In October 2011, respondent consented to a finding that he neglected three children.
+In January 2012, two days after the birth of respondent's child, Karm'ny QQ., petitioner
+commenced this proceeding alleging derivative neglect of that child. Family Court
+temporarily removed the child and, with the exception of a two-week period when she
+was placed with a relative, the child has remained in foster care. In June 2012,
+respondent moved pursuant to Family Ct Act § 1028 [*2]for return of the child and, following a hearing, the court
+denied the motion. Petitioner then moved for summary judgment adjudicating the child
+to be derivatively neglected by both parents, which the court granted in November 2012
+as against respondent. Respondent appeals from both orders, but he is not pursuing his
+appeal from the June 2012 order because he acknowledges that it is moot (see Matter of Mary YY. [Albert
+YY.], 98 AD3d 1198, 1198 [2012]).
+
+Despite a September 2013 default order finding permanent neglect and an October
+2013 order terminating respondent's parental rights to Karm'ny, the appeal from the
+November 2012 order adjudicating neglect is not moot. This Court has recognized an
+exception to mootness when a parent is challenging a neglect finding, as such a finding
+"creates a stigma and may adversely affect the parent in future proceedings" (Matter of Bayley W. [Jaden
+W.], 100 AD3d 1203, 1203-1204 [2012]; see Matter of Armani KK. [Deborah KK.], 81 AD3d 1001,
+1002 [2011], lv denied 16 NY3d 711 [2011]). Additionally, respondent can still
+move to vacate the default order (see CPLR 5015 [a]; Matter of Sandra J., 25 AD3d
+360, 360 [2006]). Thus, we will address the merits of that appeal.
+
+Family Court erred in granting summary judgment because triable issues of fact
+remain. Summary judgment is rarely used in Family Court proceedings, and is only
+appropriate when no triable issue of fact exists (see Matter of Suffolk County Dept.
+of Social Servs. v James M., 83 NY2d 178, 182 [1994]; Matter of Alyssa WW. [Clifton
+WW.], 106 AD3d 1157, 1158 [2013]). While proof that respondent previously
+neglected three other children was admissible on the issue of whether he neglected
+Karm'ny (see Family Ct Act § 1046 [a] [i]), such proof alone typically is
+not sufficient to establish derivative neglect (see Matter of Michael N. [Jason M.], 79 AD3d 1165, 1167
+[2010]; Matter of Amanda LL., 195 AD2d 708, 709 [1993]). "Derivative neglect
+is established where the evidence demonstrates an impairment of parental judgment to
+the point that it creates a substantial risk of harm for any child left in that parent's care,
+and the prior neglect determination is sufficiently proximate in time to reasonably
+conclude that the problematic conditions continue to exist" (Matter of Tradale CC., 52
+AD3d 900, 901 [2008] [citation omitted]; accord Matter of Xiomara D. [Madelyn D.], 96 AD3d
+1239, 1240 [2012]).
+
+The prior neglect determination here occurred less than three months before the
+instant petition was filed, sufficiently proximate so as to give rise to an inference that the
+conditions leading to such determination still existed (see Matter of Michael N.
+[Jason M.], 79 AD3d at 1168). Despite that inference, the testimony from the Family
+Ct Act § 1028 hearing raised questions of fact regarding whether respondent was
+appropriately dealing with those conditions (see Matter of Brandie B. [Barrington B.], 109 AD3d 987,
+988 [2013]).[FN*]
+
+ Neither the hearing testimony, nor the affidavit from petitioner's caseworker, contained
+any proof that respondent was using illegal drugs. The only positive drug test was from
+2010. While petitioner alleged that respondent failed to obtain a substance abuse
+evaluation and follow up on recommended [*3]treatment,
+respondent testified that he was evaluated by one of petitioner's employees—who
+he identified by name—and was told that no treatment was necessary. Petitioner
+did not provide an affidavit or other proof from that employee to contradict respondent's
+testimony. Respondent acknowledged that he did not enroll in the specified anger
+management program, but testified that he was financially unable to do so. Respondent
+missed many of his visits with the child, but indicated that he exercised more visits than
+petitioner stated, at least one visit was canceled by petitioner and his work hours
+interfered with some visits.
+
+One of the conditions that contributed to the neglect finding was respondent's
+unstable housing, but he testified that, contrary to petitioner's assertions, he was never
+homeless during the child's life and, by the time of the hearing, he had established a
+suitable home with his new girlfriend. In the June 2012 order, Family Court ordered that
+petitioner investigate this new home and submit a report to the court, but the record does
+not indicate that any such investigation was completed. Respondent also testified that he
+had obtained a good job and his girlfriend was arranging for childcare. Although
+petitioner raised questions about some of respondent's testimony, and established that
+respondent often failed to provide information and was not cooperative, the evidence
+submitted by petitioner raised factual questions regarding neglect such that summary
+judgment was not appropriate (see Matter of Brandie B. [Barrington B.], 109
+AD3d at 988; compare Matter of Xiomara D. [Madelyn D.], 96 AD3d at
+1240-1241).
+
+Lahtinen, J.P., Stein and Egan Jr., JJ., concur. Ordered that the appeal from the order
+entered June 20, 2012, is dismissed, as moot, without costs. Ordered that the order
+entered November 29, 2012 is reversed, on the law, without costs, and matter remitted to
+the Family Court of Washington County for further proceedings not inconsistent with
+this Court's decision.
+
+
+Footnotes
+
+
+
+
+Footnote *: Family Court
+incorrectly stated that respondent had not appealed the Family Ct Act § 1028
+order. While the appeal from that order is now moot, he should not be collaterally
+estopped from contesting issues raised in that hearing. Additionally, while respondent did
+not provide a copy of the hearing transcript as a motion exhibit, counsel asked the court
+to refer to the testimony, and the order on appeal indicates that the court did consider that
+testimony.
+
+
+
+

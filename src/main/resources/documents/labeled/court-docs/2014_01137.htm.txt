@@ -1,0 +1,73 @@
+
+	Empire Ins. Co. v Miguel
+	2014 NY Slip Op 01137 [114 AD3d 539]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Empire Insurance Company as Successor in Interest to
+Allcity Insurance Company, Respondent,
+v
+Robert San Miguel, Defendant, and
+Thomas McHenry, Appellant.
+
+
+—[*1]
+
+
+
+Loretta McHenry, Brooklyn, for appellant.
+
+Dillon, Horowitz & Goldstein LLP, New York (Michael M. Horowitz of counsel),
+for respondent.
+
+
+
+Judgment, Supreme Court, New York County (Saliann Scarpulla, J.), entered June
+11, 2013, which granted plaintiff Empire Insurance Company's motion for summary
+judgment declaring that it had no obligation to defend or indemnify its insured,
+defendant Robert San Miguel, in the underlying action, unanimously affirmed, without
+costs. Appeal from order, same court and Justice, entered May 10, 2013, unanimously
+dismissed, without costs, as subsumed in the appeal from the judgment.
+
+The Empire policy states, in relevant part: "[o]ur obligation to defend any claim or
+suit ends when the amount we pay for damages resulting from the occurrence equals our
+limit of liability." The term "occurrence" is not ambiguous, as it refers to a "fortuitous
+event," as opposed to an intended act (see Insurance Law § 1101;
+Consolidated Edison Co. of N.Y. v Allstate Ins. Co., 98 NY2d 208, 220 [2002]).
+Further, the policy utilizes the terms "accident" and "occurrence" interchangeably, as it
+states that "[a]ll 'bodily injury' and 'property damage' resulting from any one accident or
+from continuous or repeated exposure to substantially the same general conditions shall
+be considered to be the result of one occurrence." Reading the above sentence to include
+an intentional assault with a metal pipe (the act at issue here) within the meaning of
+"occurrence" would make no textual sense and would "run afoul of the 'cardinal rule of
+construction that a court adopt an interpretation that renders no portion of the contract
+meaningless' " (Kolmar Ams.,
+Inc. v Bioversel Inc., 89 AD3d 493, 494 [1st Dept 2011]).
+
+Although the injured party now argues, contrary to his pleadings and testimony
+before the trial court, that the injuries he received from Empire's insured were the
+unexpected result of an intended act, where the harm to the victim was inherent in the
+nature of the act, courts have determined that there is no coverage, despite the fact that
+the intention of the insured, allegedly, [*2]was not to
+cause the harm (see Allstate Ins. Co. v Mugavero, 79 NY2d 153, 161 [1992]).
+The insured testified in the underlying action that he intended to hit McHenry with a
+metal pipe in order to "subdue" him. The fact that the injuries may have been more
+extensive than San Miguel intended does not negate the fact that this was an intentional
+assault.
+
+The jury found that San Miguel did not act in self defense, and having tried the case
+to verdict and there having been a judgment entered on the verdict, both McHenry and
+Robert San Miguel are bound by the verdict that San Miguel engaged in an intentional
+and unjustified assault of McHenry (see D'Arata v New York Cent. Mut. Fire Ins.
+Co., 76 NY2d 659, 668 [1990]). Concur—Mazzarelli, J.P., Andrias, DeGrasse
+and Clark, JJ. [Prior Case History: 2013 NY Slip Op 30702(U).]
+
+

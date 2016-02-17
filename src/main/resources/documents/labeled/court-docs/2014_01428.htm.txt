@@ -1,0 +1,140 @@
+
+	City of Yonkers v 58A JVD Indus., Ltd.
+	2014 NY Slip Op 01428 [115 AD3d 635]
+	March 5, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 30, 2014
+
+
+
+
+
+
+	City of Yonkers, Respondent,
+v
+58A JVD
+Industries, Ltd., Appellant, et al., Defendant.
+
+
+—[*1]
+
+
+Andrew Greene & Associates, P.C., White Plains, N.Y. (Richard J. Rubin and
+Paul Vink of counsel), for appellant.
+
+Michael V. Curti, Corporation Counsel, Yonkers, N.Y. (Rachel G. Kravitz of
+counsel), for respondent.
+
+
+
+In an action, inter alia, to recover upon a performance bond, the defendant 58A JVD
+Industries, Ltd., appeals from an order of the Supreme Court, Westchester County
+(Jamieson, J.), dated April 15, 2013, which denied its motion to dismiss the cause of
+action alleging breach of contract insofar as asserted against the defendant Colonial
+Surety Company on the ground that it is time-barred.
+
+Ordered that the order is reversed, on the law, with costs, and the motion of the
+defendant 58A JVD Industries, Ltd. to dismiss the cause of action alleging breach of
+contract insofar as asserted against the defendant Colonial Surety Company is granted.
+
+In April 2007, the plaintiff, the City of Yonkers, entered into a contract with the
+defendant 58A JVD Industries, Ltd. (hereinafter the appellant), pursuant to which the
+appellant agreed to perform concrete and related work on a project known as the McLean
+Avenue Streetscape Improvement Program (hereinafter the Project). Pursuant to the
+contract, the appellant executed, along with the defendant Colonial Surety Company
+(hereinafter Colonial), a performance bond in favor of the City whereby, inter alia,
+Colonial agreed to perform and complete work under the contract if the appellant failed
+to do so. The bond provided that "[a]ny suit under this bond must be instituted before the
+expiration of two (2) years from the date on which Final Payment is made under the
+Contract." Subsequently, the appellant, by its principals, executed a general indemnity
+agreement with Colonial, pursuant to which the appellant agreed, inter alia, to hold
+Colonial harmless from and against any claims or liabilities arising out of the
+performance bond.
+
+In October 2007, the City notified the appellant that several loads of concrete
+supplied for the Project did not meet contractual specifications for minimum compressive
+strength. Nonetheless, in late October 2008, the City certified that the appellant was
+owed $55,866.63, representing 80% of the $69,833.30 then being retained by the City, or
+4% of the contract price. Thereafter, payment in that amount was made. In March 2009,
+the City informed the appellant that there had been rapid and premature deterioration of
+certain Project areas and that, pursuant to the contract, the appellant was required to
+repair, replace, restore, or rebuild the affected areas. The City [*2]notified Colonial on April 16, 2010, that the appellant had
+failed to meet its contractual obligations and that the City was withholding $13,966.67,
+representing the remaining 20% of the amount retained by the City, or 1% of the contract
+price. Shortly thereafter, the City filed a formal claim with Colonial, but Colonial
+rejected the claim. In January 2013, the City commenced this action. In February 2013,
+the appellant, as Colonial's indemnitor, moved to dismiss the cause of action alleging
+breach of contract insofar as asserted against Colonial on the ground that it is
+time-barred. The Supreme Court denied the motion. We reverse.
+
+"Surety bonds—like all contracts—are to be construed in accordance
+with their terms" (Walter Concrete Constr. Corp. v Lederle Labs., 99 NY2d 603,
+605 [2003]). " 'Performance bonds are governed by the usual rules of construction of
+adhesion contracts, and contractual time limitations contained therein are to be strictly
+construed against the surety (Comey v United Sur. Co., 217 NY 268 [1916]' " (Incorporated Vil. of N. Hills v
+AVR Links Dev. Corp., 33 AD3d 588, 588 [2006], quoting Menorah
+Nursing Home v Zukov, 153 AD2d 13, 20 [1989]).
+
+Here, the parties dispute the accrual date of the two-year limitations period set forth
+in the performance bond. The City contends that, since it never refunded the $13,966.67
+contractual retainage to the appellant, there has been no "final payment" to trigger the
+limitations period, rendering the action timely. The appellant contends that the "final
+payment" triggering the limitations period is specifically defined in the contract as being,
+in essence, the $55,866.63 payment made by the City in October 2008, not including the
+$13,966.67 retainage, thus rendering the action untimely.
+
+Article 28 section A of the parties' contract, entitled "Final Payment," provides, in
+pertinent part, that "[a]s a condition precedent to recovering final payment for all work,
+the Contractor shall submit all required certificates and documents, together with a final
+requisition for the balance claimed to be due under the Contract, less any amount
+authorized to be retained for maintenance subsequent to final acceptance." Pursuant to
+article 18 section C of the contract, the appellant was required to deposit with the City a
+sum equal to 1% of the contract price "[a]s security for the faithful performance of his
+obligation." After the filing of all required certificates and documents, article 28 section
+C requires the City's engineer to make a final inspection of the work, and if, at that time,
+he determined that no further work was necessary, he was required to prepare and certify
+a voucher for final payment, minus any deductions authorized to be made under the
+contract. The same paragraph provides, in relevant part, that "payment pursuant to such
+final voucher," less any authorized deductions, "shall constitute . . . final
+payment."
+
+Sections A and C of article 28, when read together, contemplate "final payment" on
+the contract as occurring upon the City's certification of the work as completed with the
+tendering of payment thereon, even though it had yet to disburse funds that it retained as
+security pursuant to the contract. Here, it is undisputed that, in October 2008, the City
+issued a certification and paid the appellant all amounts due under the contract, except
+for the 1% retained as security. Specifically, the City tendered payment to the appellant in
+the sum of $55,866.63, and the only amount outstanding was the 1% retained as security
+in the sum of $13,966.67. As such, final payment was made in October 2008.
+
+"In moving to dismiss a cause of action pursuant to CPLR 3211 (a) (5) as barred by
+the applicable statute of limitations, a defendant bears the initial burden of
+demonstrating, prima facie, that the time within which to commence the action has
+expired" (Matteawan On Main,
+Inc. v City of Beacon, 109 AD3d 590, 590 [2013]). "The burden then shifts to
+the plaintiff to raise an issue of fact as to whether the statute of limitations was tolled or
+was otherwise inapplicable, or whether it actually commenced the action within the
+applicable limitations period" (id.; see Landow v Snow Becker Krauss, P.C., 111 AD3d 795,
+796-797 [2013]).
+
+Parties to a contract may agree to limit the period of time within which an action
+must be commenced to a period shorter than that provided by the applicable statute of
+limitations (see CPLR 201; White v Continental Cas. Co., 9 NY3d 264, 267 [2007]).
+Here, the parties do not dispute that the terms of the performance bond requiring that any
+suit under the bond be instituted within two [*3]years of
+final payment are controlling. The two-year contractual period of limitations contained in
+the performance bond is unambiguous and enforceable, measurable from the $55,866.63
+final payment issued in October 2008, as defined by the parties' contract.
+
+Therefore, the appellant has met its prima facie burden of demonstrating that the time
+within which the City had to commence the action had expired. In response, the City
+failed to raise a question of fact, as its last payment of $55,866.63 in October 2008
+triggered the clear and unambiguous two-year period of limitations, irrespective of its
+$13,966.66 retention for maintenance. Accordingly, the commencement of this action in
+January 2013 was untimely, and the Supreme Court should have granted the appellant's
+motion to dismiss the cause of action alleging breach of contract insofar as asserted
+against Colonial. Skelos, J.P., Dillon, Hall and Roman, JJ., concur.
+
+

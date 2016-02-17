@@ -1,0 +1,161 @@
+
+	Hyman v Schwartz
+	2014 NY Slip Op 01362 [114 AD3d 1110]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Marita E. Hyman, Respondent, v Arthur Schwartz et al.,
+Appellants, et al., Defendants.
+
+
+—[*1]
+
+
+Arthur Schwartz, Advocates for Justice Chartered Attorneys, New York City,
+appellant pro se, and for Schwartz, Lichten & Bright, PC, appellant.
+
+Marita E. Hyman, West Edmeston, respondent pro se.
+
+
+
+Stein, J. Appeal from that part of an order of the Supreme Court (Cerio Jr., J.),
+entered December 20, 2012 in Madison County, which partially denied a motion by
+defendants Arthur Schwartz and Schwartz, Lichten & Bright, PC to, among other things,
+dismiss the complaint.
+
+In August 2007, plaintiff—then a Cornell University graduate
+student—was charged with violating the University's Campus Code of Conduct by
+allegedly harassing a professor. Following disciplinary proceedings, the University's
+Hearing Board sustained the harassment charge and issued a penalty, which was, apart
+from a slight modification, affirmed by the University's Review Board. Plaintiff then
+retained defendant Arthur Schwartz to represent her in a CPLR article 78 proceeding
+challenging the University's determination. In addition, Schwartz represented plaintiff in
+a Title IX claim (see 20 USC § 1681 et seq.). After both of those
+matters were unsuccessful (Matter of Hyman v Cornell Univ., 82 AD3d 1309 [2011];
+Hyman v Cornell Univ., 834 F Supp 2d 77 [2011]), plaintiff commenced the
+instant action against Schwartz, defendant Schwartz, Lichten & Bright, PC (hereinafter
+the law firm)—Schwartz's former and now dissolved law firm—and
+defendants Stuart Lichten and Daniel Bright—his former partners—seeking
+damages for negligent and intentional infliction of emotional distress and legal
+malpractice. In the same complaint, plaintiff also challenged an arbitration award made
+in Schwartz's favor in connection with a fee dispute between Schwartz and plaintiff.
+[*2]
+Schwartz and the law firm (hereinafter
+collectively referred to as defendants) moved, and Lichten and Bright cross-moved, to
+dismiss the complaint for, among other things, failure to state a cause of action and lack
+of personal jurisdiction (see CPLR 3211 [a] [7], [8]). Defendants also moved in
+the alternative for a change of venue (see CPLR 510 [3]). Supreme Court
+partially granted defendants' motion by dismissing the claims against them for intentional
+and negligent infliction of emotional distress, and granted the cross motion by Lichten
+and Bright in is entirety. Defendants now appeal.
+
+Initially, we reject defendants' argument that Supreme Court should have dismissed
+the claims against the law firm due to lack of personal jurisdiction. Supreme Court found
+that service was effectuated upon the law firm by delivery of the summons with notice to
+Schwartz as an officer/director (see CPLR 311 [a] [1]; Vincent C. Alexander,
+Practice Commentaries, McKinney's Cons Laws of NY, Book 7B, CPLR C311:1 at
+359).[FN1]
+
+As limited by their briefs, defendants now argue that, because the law firm was
+dissolved, service could only be made through the Secretary of State (see
+Business Corporation Law §§ 304, 306 [a]; CPLR 311 [a] [1]; Bruce Supply Corp. v New Wave
+Mech., 4 AD3d 444, 445 [2004]; Camacho v New York City Tr. Auth.,
+115 AD2d 691, 693 [1985]; see
+also Centennial El. Indus., Inc. v Ninety-Five Madison Corp., 90 AD3d 689,
+690 [2011], lv dismissed 19 NY3d 936 [2012]; Speroni v Mid-Island
+Hosp., 222 AD2d 497, 498 [1995]). However, the record reflects that the law firm's
+dissolution postdated the date on which service was purportedly made. Accordingly,
+defendants' argument lacks merit and no other challenge to the manner of service upon
+the law firm is before us.
+
+We are also unpersuaded by defendants' contention that Supreme Court should have
+dismissed plaintiff's first cause of action, which sought a de novo review of an arbitration
+award made in connection with the attorney fee dispute between plaintiff and Schwartz.
+Under the Rules of the Chief Administrator of the Courts that govern the fee dispute
+resolution program (see 22 NYCRR part 137), in the event of a fee dispute
+between an attorney and a client, the client may elect to resolve the dispute by arbitration
+(see 22 NYCRR 137.2 [a]). Where that process has been utilized, "[a] party
+aggrieved by [an] arbitration award may commence an action on the merits of the fee
+dispute in a court of competent jurisdiction within 30 days after the arbitration award has
+been mailed" (22 NYCRR 137.8 [a]). Here, plaintiff sought arbitration of the fee dispute
+between her and Schwartz and, after the award was issued, timely exercised her right to a
+de novo review of such award (see Landa v Dratch, 45 AD3d 646, 647-648 [2007]).
+Inasmuch as there is nothing in the record indicating that plaintiff previously waived her
+right to such review (see 22 NYCRR 137.2 [c]; 137.8 [b]; Eiseman Levine Lehrhaupt &
+Kakoyiannis, P.C. v Torino Jewelers, Ltd., 44 AD3d 581, 583 [2007]), Supreme
+Court properly denied defendants' motion to dismiss this cause of action.
+
+However, defendants correctly argue that Supreme Court should have granted their
+motion to dismiss the legal malpractice claim. It is well established that, "[i]n order to
+sustain a claim for legal malpractice, a plaintiff must establish both that the defendant
+attorney failed to exercise the ordinary reasonable skill and knowledge commonly
+possessed by a member of the legal profession which results in actual damages to a
+plaintiff, and that the plaintiff would have succeeded on the merits of the underlying
+action but for the attorney's negligence" (Leder v Spiegel, 9 NY3d 836, 837 [2007], cert denied
+sub nom. Spiegel v Rowland, 552 US 1257 [2008] [internal quotation marks and
+citation omitted]; accord Alaimo
+v McGeorge, 69 AD3d 1032, [*3]1034 [2010];
+see Kreamer v Town of
+Oxford, 96 AD3d 1128, 1128-1129 [2012]; see also MacDonald v Guttman, 72 AD3d 1452,
+1454-1455 [2010]; Bixby v
+Somerville, 62 AD3d 1137, 1139 [2009]). Here, although the complaint is
+replete with allegations of Schwartz's alleged failures to use reasonable and ordinary skill
+in connection with both of plaintiff's underlying claims, it contains no allegation that, but
+for these alleged failures, plaintiff would have been successful on either claim.[FN2]
+
+Therefore, even if we accept the allegations as true and liberally construe the complaint
+to allege negligent representation by Schwartz (see Leon v Martinez, 84 NY2d
+83, 87-88 [1994]; Moulton v State of New York, 
+114 AD3d 115, 119 [2013]; Scheffield v Vestal Parkway Plaza, LLC, 102 AD3d 992,
+993 [2013]), the allegations are insufficient to make out a prima facie case of legal
+malpractice (see Kreamer v Town of Oxford, 96 AD3d at 1128; MacDonald
+v Guttman, 72 AD3d at 1455).
+
+Finally, we discern no error in Supreme Court's denial of defendants' motion for a
+discretionary change of venue (see CPLR 510 [3]). To succeed on such an
+application, the moving party must demonstrate that "the convenience of material
+witnesses and the ends of justice will be promoted by the change" (CPLR 510 [3]; see Cavazzini v Viennas, 82
+AD3d 1343, 1344 [2011]; State of New York v Quintal, Inc., 79 AD3d 1357,
+1357-1359 [2010]) and must proffer "detailed relevant information establishing that the
+convenience of the nonparty witnesses would be enhanced" (Cavazzini v
+Viennas, 82 AD3d at 1344 [internal quotation marks and citations omitted]; accord Manchester Tech. v
+Hansen, 6 AD3d 806, 807 [2004]; Singh v Catamount Dev. Corp., 306
+AD2d 738, 738 [2003]). Here, Schwartz's unsupported conclusory statement that all of
+the witnesses to plaintiff's dealings are located in New York County fell far short of the
+required showing, and we decline to disturb Supreme Court's exercise of its discretion in
+this regard (see Cavazzini v Viennas, 82 AD3d at 1344). Defendants' remaining
+contentions have been considered and are either academic or without merit.
+
+Peters, P.J., Rose and Egan Jr., JJ., concur. Ordered that the order is modified, on the
+law, without costs, by reversing so much thereof as denied the motion of defendants
+Arthur Schwartz and Schwartz, Lichten & Bright, PC to dismiss the fourth cause of
+action; motion granted to said extent and said cause of action dismissed; and, as so
+modified, affirmed.
+
+
+Footnotes
+
+
+
+
+Footnote 1: There is no affidavit of
+service in the record.
+
+
+
+
+Footnote 2: Notably, after
+Schwartz's representation terminated, plaintiff proceeded on both her state proceeding
+and federal action, without success.
+
+
+
+

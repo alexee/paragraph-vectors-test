@@ -1,0 +1,130 @@
+
+	Sokolik v Pateman
+	2014 NY Slip Op 01158 [114 AD3d 839]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Andrew Sokolik, Respondent-Appellant,
+v
+Charles
+M. Pateman et al., Respondents, and Frank Racanelli,
+Appellant-Respondent.
+
+
+—[*1]
+
+
+Moses & Singer, LLP, New York, N.Y. (Maguerite E. Royer of counsel), for
+appellant-respondent.
+
+Mark E. Constantine, Irvington, N.Y., for respondent-appellant.
+
+
+
+In an action for specific performance of a contract and to recover damages for breach
+of contract, the defendant Frank Racanelli appeals, as limited by his brief, from so much
+of a judgment of the Supreme Court, Westchester County (Giacomo, J.), dated
+September 12, 2011, as, upon a jury verdict in favor of the plaintiff and against him,
+awarded the plaintiff interest at a rate of 10% per annum from March 31, 2001, to the
+date of the verdict on the principal amount due on a certain promissory note, and the
+plaintiff cross-appeals from so much of the same judgment as did not award prejudgment
+interest pursuant to CPLR 5001, and did not award him judgment against the defendant
+Dearman Park Homeowners Associates.
+
+Ordered that the judgment is modified, on the law, by deleting the provision thereof
+awarding the plaintiff interest at a rate of 10% per annum from March 31, 2001, to the
+date of the verdict on the principal amount due on the promissory note, and substituting
+therefor a provision awarding the plaintiff prejudgment interest at the statutory rate of
+9% per annum from March 26, 2002; as so modified, the judgment is affirmed insofar as
+appealed and cross-appealed from, without costs or disbursements, and the matter is
+remitted to the Supreme Court, Westchester County, for a recomputation of prejudgment
+interest in accordance herewith, and thereafter the entry of an appropriate amended
+judgment.
+
+This action involves an agreement dated March 31, 2001, between the defendants
+Charles M. Pateman, Westwood Development Associates (hereinafter Westwood), Frank
+Racanelli, and Padriac Steinschneider (hereinafter collectively the debtors) and the
+plaintiff Andrew Sokolik, pursuant to which the plaintiff agreed to loan the debtors the
+sum of $216,250 for the benefit of a housing development, to be evidenced by a
+promissory note signed by the debtors. The promissory note, dated March 26, 2001,
+required repayment of the principal sum of $216,250 one year after the date of the note.
+The agreement gave the plaintiff the option to apply the principal amount of the loan plus
+an additional $50,000 "towards the purchase price of" a certain parcel of real property,
+which option had to be exercised in writing within the one-year loan period. The
+agreement gave Westwood the option to cancel the agreement within three months after
+the date of the agreement. [*2]Upon exercising the option
+to cancel, Westwood was required to return to Sokolik the principal sum of $216,250,
+together with interest calculated at the rate of 10% per annum, prorated from March 26,
+2001.
+
+The plaintiff allegedly exercised his option to purchase within his one-year option
+period. On October 7, 2003, counsel for Racanelli and Steinschneider tendered a check
+to the plaintiff in the sum of $249,648.81, allegedly in satisfaction of the loan. The
+plaintiff rejected and returned the check and demanded a deed pursuant to the agreement.
+However, title to the parcel was never conveyed to the plaintiff. The plaintiff commenced
+this action alleging two causes of action. In the first cause of action, the plaintiff sought
+specific performance on the option to purchase the parcel. The second cause of action
+alleged breach of contract and sought judgment in the amount loaned, $216,250, together
+with interest. After trial, the jury returned a verdict, inter alia, finding that the debtors had
+breached the agreement between the parties by failing to repay the principal sum of the
+loan within one year after the date of the promissory note, and that the plaintiff was
+entitled to an award of the principal amount of the loan plus interest at a rate of 10% per
+annum from March 31, 2001, to the date of the verdict.
+
+For a reviewing court to determine that a jury verdict is not supported by legally
+sufficient evidence, it must conclude that there is "simply no valid line of reasoning and
+permissible inferences" by which the jury could have rationally reached its verdict "on
+the basis of the evidence presented at trial" (Cohen v Hallmark Cards, 45 NY2d
+493, 499 [1978]; see Szczerbiak v Pilat, 90 NY2d 553, 556 [1997]; Guclu v 900 Eighth Ave.
+Condominium, LLC, 81 AD3d 592 [2011]). In addition, a jury verdict should
+not be set aside as contrary to the weight of the evidence unless the jury could not have
+reached the verdict by any fair interpretation of the evidence (see Lolik v Big V
+Supermarkets, 86 NY2d 744, 746 [1995]; Chavanne v BZL Cleaning Solution, Inc., 84 AD3d 852
+[2011]; Piazza v Corporate
+Bldrs. Group, Inc., 73 AD3d 1006, 1006-1007 [2010]). Whether a jury verdict
+should be set aside as contrary to the weight of the evidence does not involve a question
+of law, but rather requires a discretionary balancing of many factors (see Cohen v
+Hallmark Cards, 45 NY2d at 499; Nicastro v Park, 113 AD2d 129, 133
+[1985]). " 'It is for the jury to make determinations as to the credibility of the witnesses,
+and great deference in this regard is accorded to the jury, which had the opportunity to
+see and hear the witnesses' " (Jean-Louis v City of New York, 86 AD3d 628, 629 [2011],
+quoting Exarhouleas v Green 
+317 Madison, LLC, 46 AD3d 854, 855 [2007]; see Salony v Mastellone, 72
+AD3d 1060, 1061 [2010]).
+
+Here, based on the evidence presented at trial, there is no valid line of reasoning or
+any permissible inferences which could possibly lead rational people to the conclusion
+that the plaintiff was entitled to interest at a rate of 10% per annum from March 31,
+2001, to the date of the verdict on the principal amount due on the subject promissory
+note. The agreement and promissory note at issue here, which were complete, clear, and
+unambiguous, did not provide for a predefault or postdefault interest rate, but only
+provided for interest at 10% per annum if Westwood properly exercised its option to
+cancel the agreement. There was no evidence at trial to demonstrate that Westwood
+exercised its option to cancel the agreement that would have required it to pay interest to
+the plaintiff on the principal amount due.
+
+Although the plaintiff was not entitled to recover interest based on the promissory
+note, the Supreme Court erred in failing to award the plaintiff statutory prejudgment
+interest pursuant to CPLR 5001 (a), which requires that such interest be recovered upon a
+sum awarded because of a breach of contract. Since the jury determined that the debtors
+breached their agreement with the plaintiff "by failing to repay the $216,250 within 12
+months of the date of the promissory note," the Supreme Court should have awarded the
+plaintiff prejudgment interest at the statutory rate of 9% per annum from March 26,
+2002, the date of the breach (see Kaiser v Fishman, 187 AD2d 623 [1992]).
+
+Contrary to the plaintiff's contention on appeal, the Supreme Court properly declined
+to enter a judgment against the defendant Dearman Park Homeowners Associates.
+Dearman was not a party to the agreement or promissory note pursuant to which the
+plaintiff seeks damages, and the plaintiff informed the court at trial, after opening
+statements and before testimony commenced, that he never had a claim against Dearman.
+Skelos, J.P., Hall, Cohen and Hinds-Radix, JJ., concur.
+
+

@@ -1,0 +1,79 @@
+
+	Kocourek v Booz Allen Hamilton Inc.
+	2014 NY Slip Op 01256 [114 AD3d 567]
+	February 20, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Paul Kocourek, Appellant,
+v
+Booz Allen Hamilton
+Inc. et al., Respondents.
+
+
+—[*1]
+
+Bingham McCutchen LLP, New York (Mark M. Elliott of counsel), for
+appellant.
+
+Latham & Watkins LLP, New York (Everett C. Johnson of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, New York County (Lawrence K. Marks, J.), entered April 9,
+2013, which granted plaintiff's motion for leave to reargue defendants' motion to dismiss
+the second amended complaint and upon reargument, adhered to the prior order, same
+court and Justice, entered September 17, 2012, granting defendants' motion for an order
+pursuant to CPLR 3211 (a) (5) dismissing the second amended complaint on the basis of
+a release, unanimously affirmed, with costs. Appeal from the September 17, 2012 order,
+unanimously dismissed, without costs, as academic.
+
+Plaintiff sues for breach of a written agreement for stock and other incentive benefits
+between himself and defendant Booz Allen Hamilton Inc., his former employer. The
+claims made here were also asserted by plaintiff in a related action that was brought in
+the United States District Court for the Southern District of New York (see Boudinot
+v Shrader, 2013 WL 1481226, 2013 US Dist LEXIS 51640 [SD NY, Apr. 10, 2013,
+No. 09 Civ 10163 (LAK)]). The defendants in both actions assert that plaintiff released
+them from his claims by way of a letter of transmittal that he executed on July 25, 2008.
+In this action, the motion court erred in concluding that the effect of the subject release
+was to be determined under state law as opposed to the Federal Employee Retirement
+Income Security Act (29 USC § 1001 et seq.) (ERISA). ERISA preempts
+state law to the extent plaintiff's breach of contract claims seek to remedy the denial of
+benefits under an ERISA-regulated pension plan (Aetna Health Inc. v Davila,
+542 US 200, 204 [2004]).
+
+The motion court correctly found that by executing the letter of transmittal plaintiff
+voluntarily and conclusively released the claims set forth in the second amended
+complaint. One day after the motion court's second order was entered, the district court
+granted the defendants' motion for summary judgment in the federal action
+(Boudinot, 2013 WL 1481226, *1, 2013 US Dist LEXIS 51640, *2). Although
+we affirm, we reject defendants' argument that the district court's order has a collateral
+estoppel effect. Collateral estoppel may not be invoked for the first time on appeal (Sandiford v City of New York
+Dept. of Educ., 94 AD3d 593, 595 [1st Dept 2012], affd 22 NY3d 914
+[2013]).
+[*2]
+We are not persuaded by plaintiff's argument that
+defendants have waived the affirmative defense of release. Where applicable, CPLR
+3211 (e) provides that a defense based on a ground set forth in CPLR 3211 (a) (5), i.e.,
+release, is waived unless raised by way of a CPLR 3211 (a) motion or in a responsive
+pleading. No waiver has occurred by virtue of the fact that defendants have moved for a
+dismissal of the second amended complaint pursuant to CPLR 3211 (a) (5). Even if they
+had not done so, the defense could have been raised in defendants' answer to the second
+amended complaint (see CPLR 3025 [d]; 3211 [f]). Finally, the "single motion
+rule" (CPLR 3211 [e]) does not bar defendants' motion because the cause of action based
+on a written agreement, now asserted in the second amended complaint, was not set forth
+in plaintiff's prior complaints (see e.g. Barbarito v Zahavi, 107 AD3d 416, 420 [1st Dept
+2013]).
+
+We have considered plaintiff's remaining contentions and find them unavailing.
+Concur—Tom, J.P., Friedman, DeGrasse, Feinman and Gische, JJ.
+
+

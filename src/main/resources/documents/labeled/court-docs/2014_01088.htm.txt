@@ -1,0 +1,122 @@
+
+	Ingutti v Rochester Gen. Hosp.
+	2014 NY Slip Op 01088 [114 AD3d 1302]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Frederick Ingutti et al., Respondents,
+v
+Rochester
+General Hospital, Appellant.
+
+
+—[*1]
+
+
+Osborn, Reed & Burke, LLP, Rochester (Jennifer M. Schwartzott of counsel),
+for defendant-appellant.
+
+McConville, Considine, Cooman & Morin, P.C., Rochester (Peter J. Weishaar of
+counsel), for plaintiffs-respondents.
+
+
+
+Appeal from an order of the Supreme Court, Monroe County (Thomas M. Van
+Strydonck, J.), entered September 18, 2012. The order, among other things, denied the
+motion of defendant for partial summary judgment seeking dismissal of the first cause of
+action.
+
+It is hereby ordered that the order insofar as appealed from is reversed on the law
+without costs, the motion is granted and the first cause of action is dismissed.
+
+Memorandum: Plaintiffs commenced this negligence and medical malpractice action
+seeking damages for injuries sustained by Frederick Ingutti (plaintiff) when he left
+defendant hospital against medical advice and was found approximately two hours later
+by the police, disoriented and with frostbitten fingers that required partial amputation.
+We conclude that Supreme Court erred in denying defendant's motion for partial
+summary judgment seeking dismissal of the first cause of action. In that cause of action,
+plaintiffs alleged that defendant was negligent in failing to prevent plaintiff from leaving
+the hospital and in failing to ensure plaintiff's safety when he left the hospital inasmuch
+as defendant's staff did not contact plaintiff's wife or make arrangements for someone to
+pick him up. We agree with defendant that, pursuant to Kowalski v St. Francis Hosp. &
+Health Ctrs. (21 NY3d 480, 484-485 [2013]), which was decided after the court
+rendered its decision (see generally Gurnee v Aetna Life & Cas. Co., 55 NY2d
+184, 191 [1982], rearg denied 56 NY2d 567 [1982], cert denied 459 US
+837 [1982]; Matter of Elsa R.
+[Gloria R.], 101 AD3d 1688, 1688-1689 [2012], lv denied 20 NY3d
+862 [2013]; Klepper v Klepper, 120 AD2d 154, 157 [1986]), it did not have a
+duty to prevent plaintiff from leaving the hospital against medical advice. We further
+agree with defendant that it did not have the concomitant duty to ensure plaintiff's safe
+return home (see Kowalski, 21 NY3d at 484-485).
+
+We disagree with our dissenting colleagues that Kowalski does not apply to
+the facts of this case because plaintiff herein was admitted to the hospital, whereas the
+plaintiff in Kowalski was not. Indeed, we note that the Court began its analysis
+by stating that "[t]here are surely few principles more basic than that the members of a
+free society may, with limited exceptions, come and go as they please" (id. at
+485). The Court also stated that "[t]o restrain plaintiff on these facts would have exposed
+defendants to liability for false imprisonment" (id. at 486). We conclude that
+those statements also apply to the facts here. Although plaintiff had been admitted to the
+hospital for medical treatment, there is no statute or principle of common law that would
+permit the hospital to force plaintiff to remain in the hospital when he decided to leave
+(see id. at 486). We further conclude that the dissent's reliance on Horton v
+Niagara Falls Mem. Med. Ctr. (51 AD2d 152, 154 [1976], lv denied 39
+NY2d 709 [1976]) and Papa v Brunswick Gen. Hosp. (132 AD2d 601, 603
+[1987]) is misplaced inasmuch as the issue in those cases was the scope of a hospital's
+duty to a patient while the patient was in its care in the hospital. Those cases did
+not hold that the hospital had a duty to prevent the patient from leaving the hospital and,
+under Kowalski, there is no such [*2]duty.
+
+All concur except Sconiers and Whalen, JJ., who dissent and vote to affirm in the
+following memorandum.
+
+Sconiers and Whalen, JJ. (dissenting). We respectfully dissent because we cannot
+agree with the majority's conclusion that Kowalski v St. Francis Hosp. & Health Ctrs. (21 NY3d
+480, 484-485 [2013]) compels the award of partial summary judgment dismissing
+the first of cause of action, for negligence, under the circumstances of this case. Rather,
+we would conclude that Supreme Court properly denied defendant's motion for partial
+summary judgment seeking dismissal of the first cause of action.
+
+In Kowalski, the Court of Appeals held that defendants did not have a duty
+to prevent the plaintiff from leaving the defendant hospital's emergency room because
+Mental Hygiene Law § 22.09 prohibits the involuntary retention of people who
+come in voluntarily (see id. at 485-486), and "there can be no duty to do that
+which the law forbids" (id. at 486). Here, however, Frederick Ingutti (plaintiff)
+had been admitted to the hospital and was no longer in the emergency room, thus
+rendering Mental Hygiene Law § 22.09 inapplicable (see 14 NYCRR
+304.3 [c]). Notably, the Court in Kowalski limited its holding to "the facts of this
+case" (at 483).
+
+Contrary to the view of the majority, we conclude that, because plaintiff was
+admitted to the hospital, defendant had the duty "to exercise reasonable care and
+diligence in safeguarding [plaintiff], measured by the capacity of [plaintiff] to provide
+for his own safety" (Horton v Niagara Falls Mem. Med. Ctr., 51 AD2d 152, 154
+[1976], lv denied 39 NY2d 709 [1976]; see Papa v Brunswick Gen.
+Hosp., 132 AD2d 601, 603 [1987]). We conclude that there are issues of fact
+whether defendant failed to meet that duty. Plaintiff was admitted to the hospital for
+acute pancreatitis, acute alcohol intoxication, alcohol withdrawal, and delirium tremors
+(DTs). Plaintiff's wife informed the hospital staff that plaintiff had a history of altered
+mental status during withdrawal. Indeed, during a stay at the same hospital a year and a
+half earlier, plaintiff similarly experienced DTs and severe confusion. As a result of his
+present condition, plaintiff's wife thought that plaintiff might attempt to discharge
+himself and leave the facility. Plaintiff's wife therefore requested that hospital staff
+contact her if plaintiff tried to leave, and a nurse manager assured her that she would
+watch plaintiff and indicate on his chart that he was an escape risk. Although plaintiff
+filled out a release indicating that he was leaving the hospital against medical advice at
+11:00 p.m. on February 6, 2007, he wrote the date as "5-07" and the time as 2:00 p.m.,
+thereby suggesting that he did not know the date or time of day. In addition there was a
+notation in plaintiff's medical chart that he was "confused with direction." In light of
+those facts, we cannot conclude that defendant met its burden of establishing that it was
+not negligent as a matter of law when it failed to prevent plaintiff from leaving the
+hospital and failed to ensure plaintiff's safety when he left the hospital.
+Present—Centra, J.P., Peradotto, Carni, Sconiers and Whalen, JJ.
+
+

@@ -1,0 +1,136 @@
+
+	Matter of Stevenson v Yellow Roadway Corp.
+	2014 NY Slip Op 01228 [114 AD3d 1057]
+	February 20, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of the Claim of Jean Stevenson,
+Respondent,
+v
+Yellow Roadway Corporation et al., Appellants. Workers'
+Compensation Board, Respondent. (And Another Related
+Claim.)
+
+
+—[*1]
+
+
+Stewart, Greenblatt, Manning & Baez, Syosset (John K. Hamberger of counsel),
+for appellants.
+
+Denise Gold, PC, Hewlett (Denise Gold of counsel), for Jean Stevenson, respondent.
+
+Eric T. Schneiderman, Attorney General, New York City (Iris A. Steel of counsel),
+for Workers' Compensation Board, respondent.
+
+
+
+Stein, J. Appeal from a decision of the Workers' Compensation Board, filed May 4,
+2012, which ruled that decedent's death was causally related to his employment.
+
+On March 17, 2010, decedent, a tractor trailer operator employed by Yellow
+Roadway Corporation, crashed his tractor trailer into a toll booth and sustained critical
+injuries. At some point either before or after the accident, decedent suffered a massive
+stroke and died two days later. Claimant, his widow, subsequently filed a claim for
+workers' compensation death benefits, as well as a claim on his behalf. After a notice of
+indexing was mailed to the employer and the employer's workers' compensation carrier
+(hereinafter collectively referred to as the employer), the employer filed a C-7 form
+controverting the claim on the basis of, among other things, whether it was premised on
+an accident arising out of and in the course of employment. Following a hearing, a
+Workers' Compensation Law Judge (hereinafter WCLJ) found that the [*2]employer had not timely controverted the claim and was,
+therefore, barred from challenging, among other things, the causal relation between
+decedent's injury and death and his employment. Nonetheless, the WCLJ concluded that
+the case was not ripe for adjudication based upon claimant's failure to produce prima
+facie medical evidence of a causally related death. A majority of the Workers'
+Compensation Board panel affirmed the WCLJ's decision. Upon review, the full Board
+agreed that the employer was barred from raising defenses to the claim and, relying upon
+the presumption of compensability set forth in Workers' Compensation Law § 21
+(1), established the claim for a causally related death. The employer now appeals and we
+affirm.
+
+Initially, we reject the employer's assertion that claimant failed to meet her burden of
+establishing a casually related death. "Pursuant to Workers' Compensation Law §
+21 (1), a presumption of compensability exists where, as here, an unwitnessed or
+unexplained injury occurs during the course of the affected worker's employment" (Matter of Richman v NYS Unified
+Ct. Sys., 91 AD3d 1014, 1015 [2012], lv denied 19 NY3d 811 [2012];
+see Matter of Brown v Clifton
+Recycling, 1 AD3d 735, 735 [2003]). As relevant here, the statutory
+presumption is applicable where either a stroke occurs during work (see Matter of Pengal v Chloe
+Foods Corp., 111 AD3d 1030, 1031 [2013]; Matter of Barrington v Hudson
+Val. Fruit Juice, 297 AD2d 886, 886-887 [2002]) or where the onset of stroke
+symptoms occurs during work (see Matter of Browne v New York City Tr. Auth., 66 AD3d
+1290, 1290 [2009]). If the presumption is applicable, a claimant is not required " 'to
+come forward, in the first instance, with prima facie medical evidence of a causal
+relationship between' [the] injury and [the] employment" (id. at 1290, quoting
+Matter of Barrington v Hudson Val. Fruit Juice, 297 AD2d at 886-887).
+
+Here, it is undisputed that decedent was working when his tractor
+trailer—without any apparent cause or explanation—struck the toll booth.
+Decedent was transported to the hospital emergency room, where he had, among other
+things, a noted decrease in mental status, was disoriented and gave inappropriate
+responses to hospital staff. He showed minimal movements of his right lower extremities,
+required intubation for airway control and had episodic cardiac arrhythmia. A CAT scan
+of his head performed the following day revealed a "massive left cerebral artery infarct"
+(stroke).[FN1]
+
+Inasmuch as decedent clearly had an accident while working, and it was either the stroke
+that caused the accident or the accident that caused the stroke, the Board properly applied
+the presumption that decedent's injury was causally related to his employment
+(see Workers' Compensation Law § 21 [1]; Matter of Browne v New
+York City Tr. Auth., 66 AD3d at 1290; Matter of Fleischer v McKenica
+Corp., 307 AD2d 597, 598 [2003], lv denied 2 NY3d 702 [2004]).
+
+Although an employer may ordinarily rebut the presumption of compensability with
+"substantial evidence to the contrary" (Matter of Pengal v Chloe Foods Corp.,
+111 AD3d at 1031; see Workers' Compensation Law § 21 [1]; Matter of Fatima v MTA Bridges
+& Tunnels, 106 AD3d 1327, 1327-1328 [2013]), the employer was unable to do
+so here. Pursuant to Workers' Compensation Law § 25 (2) (b), an employer must
+file a notice of controversy within 25 days of the mailing of the notice of indexing to the
+employer. Failure to timely file the notice of [*3]controversy precludes the employer from contesting, among
+other things, that the injury and/or death arose out of and in the course of a decedent's
+employment (see Workers' Compensation Law § 25 [2] [b]; Matter of Cappellino v Baumann &
+Sons Bus Co., 18 NY3d 890, 891-892 [2012]; Matter of McDonald-Besheme v
+Verizon Wireless, Inc., 24 AD3d 1068, 1069 [2005]). Here, it is undisputed that
+the employer did not timely file the C-7 notice of controversy, and "there was no
+showing of good cause or other reason to excuse the failure" (Matter of Cappellino v
+Baumann & Sons Bus Co., 18 NY3d at 892; see Matter of McDonald-Besheme v
+Verizon Wireless, Inc., 24 AD3d at 1069). Therefore, the Board properly precluded
+the employer from offering evidence disputing claimant's proof on the issue of
+causation[FN2]
+
+and established the claim for a causally related death (see Matter of Fleischer v
+McKenica Corp., 307 AD2d at 598).
+
+Peters, P.J., Lahtinen and Egan Jr., JJ., concur. Ordered that the decision is affirmed,
+without costs.
+
+
+Footnotes
+
+
+
+
+Footnote 1: The original death
+certificate listed the cause of death as "pending investigation" and the Board refused to
+consider the amended death certificate because it was not timely submitted.
+
+
+
+
+Footnote 2: The evidence submitted
+by the employer consisted of a physician's report that indicated—without any
+explanation—that decedent's accident was not the result of his cause of death. We
+agree with the Board that, even if the report was considered, it would have had "little
+probative value."
+
+
+
+

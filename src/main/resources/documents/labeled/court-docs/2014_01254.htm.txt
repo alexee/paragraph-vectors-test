@@ -1,0 +1,117 @@
+
+	Abad v New York City Health & Hosps. Corp.
+	2014 NY Slip Op 01254 [114 AD3d 564]
+	February 20, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Sariel Abad, an Infant, by His Mother and Natural
+Guardian, Yris Morales, Appellant,
+v
+New York City Health and Hospitals
+Corporation, Respondent.
+
+
+—[*1]
+
+Fitzgerald & Fitzgerald, P.C., Yonkers (Mitchell Gittin of counsel), for
+appellant.
+
+Michael A. Cardozo, Corporation Counsel, New York (Drake A. Colley of counsel),
+for respondent.
+
+
+
+Judgment, Supreme Court, Bronx County (Douglas E. McKeon, J.), entered
+November 18, 2010, dismissing the complaint, unanimously affirmed, without costs.
+Appeal from order, same court and Justice, entered October 26, 2010, which denied
+plaintiff's motion addressed to his notice of claim and granted defendant's cross motion
+to dismiss the complaint, unanimously dismissed, without costs, as subsumed in the
+appeal from the judgment.
+
+Plaintiff appeals from the motion court's denial of his motion under General
+Municipal Law § 50-e (5) for leave to serve a late notice of claim on defendant for
+alleged obstetrical malpractice more than seven years after the claim accrued upon his
+discharge from defendant's hospital on September 13, 2002, six days after his birth.
+Plaintiff also appeals from the court's grant of defendant's cross motion for an order
+dismissing the complaint.
+
+Under General Municipal Law § 50-e, the 90-day period for plaintiff to serve
+defendant with a notice of claim expired on December 14, 2002. In June 2004, plaintiff,
+then aged 21½ months, was diagnosed with pervasive developmental disorders
+(PDD), but it was not until May 2005 that plaintiff's attorneys served a purported notice
+of claim on defendant alleging that plaintiff's injury was caused by defendant's
+malpractice. In January 2006, plaintiff commenced this action, but then waited until
+October 2009 to move for an order deeming the 2005 notice timely served nunc pro tunc,
+or, alternatively granting leave to file another late notice of claim.
+
+We find that the motion court providently exercised its discretion in denying
+plaintiff's application. Section 50-e (5) of the General Municipal Law confers a court
+with broad discretion whether to grant leave to serve late notice (see Diallo v City of
+New York, 224 AD2d 339, 340 [1st Dept 1996]), and on appeal the court's
+determination will not be disturbed absent a clear abuse of that discretion (Kirtley v Albany County Airport
+Auth., 67 AD3d 1317, 1318 [3d Dept 2009]). In determining whether to grant
+leave, the court is required under General Municipal Law § 50-e (5) to consider
+whether the public corporation had actual knowledge of the facts [*2]constituting the claim within 90 days of its accrual or
+shortly thereafter. Under the statute, the court must take into account all other relevant
+facts and circumstances, including the plaintiff's infancy, whether a reasonable excuse for
+the late notice was offered, and whether the delay substantially prejudiced the defendant's
+defense on the merits (see General Municipal Law § 50-e [5]; Williams v Nassau County Med.
+Ctr., 6 NY3d 531 [2006]).
+
+Here, the motion court properly found that plaintiff's nearly seven-year delay in
+seeking leave to serve a notice of claim prejudiced defendant and plaintiff had failed to
+show otherwise (see Matter of
+Catuosco v City of New York, 62 AD3d 995, 997 [2d Dept 2009]). Defendant
+was prejudiced, given that neither the contemporaneous hospital records nor any
+subsequent event served to notify defendant of the facts constituting the claim because
+the records did not link defendant's actions with plaintiff's injury, which was diagnosed
+nearly two years after defendant last treated plaintiff. In connection with a malpractice
+claim against a municipal hospital, for the medical records to provide notice of a
+plaintiff's claim, "the essential facts underlying the claim, including that the plaintiff
+was injured, must be documented in the defendant's own medical record" (Cartagena v New York City Health
+& Hosps. Corp., 93 AD3d 187, 188 [1st Dept 2012] [emphasis added]).
+
+The court properly found that nothing in the hospital records would have alerted
+defendant to any claim of malpractice during the delivery or of any lasting injury.
+Although plaintiff's expert, Dr. Bruce Halbridge, a Texas practitioner, opined that the
+unproductive labor that plaintiff's mother underwent before a cesarean section reduced
+the oxygen reaching the fetus, nothing in the chart supports a hypoxic event. In fact, fetal
+rate patters were classified as "reassuring" at all times. Plaintiff's Apgar scores both at his
+birth and five minutes later were recorded as 
+8 on a scale of 10, which score falls within the normal range (see e.g. Williams, 6
+NY3d at 536-537 [affirming denial of leave to file late notice where hospital records
+provided "scant" notice of lasting harm to infant who, after difficult delivery, scored
+eight one minute after birth and nine after five minutes]; compare with Medley v
+Cichon, 305 AD2d 643, 644 [2d Dept 2003] [hospital had notice of injury where
+infant had zero Apgar score and had to be resuscitated at birth]).
+
+Records of plaintiff's postnatal treatment would not have alerted defendant to
+plaintiff's claimed injuries. When the hospital transferred plaintiff to the neonatal
+intensive care unit because of placental abruption and anemia, he responded favorably to
+oxygen and a blood transfusion. Upon his discharge on September 13, he was clinically
+stable and all problems had been resolved.
+
+The motion court acknowledged that plaintiff's infancy favored his application, but
+that factor was outweighed by plaintiff's lack of a reasonable excuse for waiting seven
+years before he applied for late service, coupled with defendant's lack of knowledge of
+the claim. While plaintiff's mother claimed that she was ignorant of the law, her counsel,
+who had been aware of this case since at least May 2005, did not offer any excuse for the
+delay in commencing this action in 2006 and moving for leave in 2009. The court also
+noted that the purported notice of claim that plaintiff's counsel had filed in May 2005
+was a legal nullity because it had been served [*3]without
+leave of the court (see Croce v
+City of New York, 69 AD3d 488 [1st Dept 2010]).
+
+Accordingly, we affirm the motion court's denial of leave to file a late notice and the
+dismissal of the complaint. Concur—Friedman, J.P., Renwick, Freedman and
+Feinman, JJ.
+
+

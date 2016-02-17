@@ -1,0 +1,180 @@
+
+	People v Hicks
+	2014 NY Slip Op 01376 [114 AD3d 599]
+	February 27, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York,
+Appellant,
+v
+Tyrone Hicks, Respondent.
+
+
+—[*1]
+
+
+Robert T. Johnson, District Attorney, Bronx (Stanley R. Kaplan of counsel), for
+appellant.
+
+New York Law School Legal Services Inc., New York (Adele Bernhard of counsel),
+for respondent.
+
+Willkie Farr & Gallagher LLP, New York (James C. Dugan of counsel), and for
+amicus curiae.
+
+
+
+Order, Supreme Court, Bronx County (Darcel D. Clark, J.), entered October 26,
+2012, which granted defendant's motion to vacate a judgment of conviction and directed
+a new trial on the ground of newly discovered evidence, unanimously affirmed.
+
+On June 15, 2000, a judgment was entered in the Supreme Court, Bronx County,
+convicting defendant after a jury trial of attempted rape in the first degree and attempted
+sodomy in the first degree. The conviction was based upon the brutal and violent sexual
+attack of a female victim that occurred in the early hours of February 23, 1998, in a dark
+alleyway. The victim testified that she struggled, resisted the attack as much as she could
+and continually fought her attacker. She further testified that the attacker had his hand on
+her throat during the assault. The assault was brought to an end only when someone from
+an apartment above the alley yelled, causing the attacker to flee.
+
+The victim immediately sought help and shortly thereafter the police arrived at the
+scene. She was taken to Jacobi Hospital for examination and treatment. A sexual assault
+evidence kit was collected which included material from the victim's fingernails. The
+victim provided descriptions of her assailant to police officers and a composite sketch
+was prepared. Approximately three weeks later, on March 18, 1998, the victim identified
+defendant in a police lineup. Thereafter, defendant was arrested.
+
+At trial, the victim's eyewitness identification provided the sole evidence linking
+defendant to the crime. The People presented no physical evidence linking defendant to
+the crime, including no evidence that defendant's DNA was present at the crime scene.
+The defense raised issues about the reliability of the victim's identification and pointed
+the jury to discrepancies in the several descriptions she gave of her attacker during the
+investigation. The defense also produced an alibi witness, defendant's son-in-law, who
+testified that defendant was [*2]at home with the witness
+when the attack occurred. The jury returned a guilty verdict. In affirming the conviction
+(People v Hicks, 11 AD3d
+261 [1st Dept 2004]), this Court found no reason to disturb the jury's determination
+on issues of credibility and identification. The Court of Appeals affirmed our order (People v Hicks, 6 NY3d
+737 [2005]).
+
+In 2009, the Office of the Medical Examiner, with the consent of the Bronx District
+Attorney, tested and compared the DNA material from the victim's fingernails that had
+been collected and retained in the sexual assault evidence kit shortly after the crime, with
+the defendant's DNA. On October 20, 2010, the Medical Examiner issued a report
+concluding that there was male genetic material recovered from testing the fingernail
+scrapings, but that the genetic material did not match defendant's DNA.
+
+The motion court granted defendant's motion pursuant to CPL 440.10 to vacate the
+judgment of conviction and for a new trial based upon the DNA evidence.[FN1]
+
+The People appeal. We now affirm the order of the trial court.
+
+Although at the time he made his motion, defendant was required to show under CPL
+440.10 (1) (g) that "[n]ew evidence has been discovered . . . which could
+not have been produced by [him] at the trial even with due diligence on his part and
+. . . that had such evidence been received at the trial the verdict would have
+been more favorable to the defendant," the law has since been amended. Pursuant to CPL
+440.10 (1) (g-1), which became effective October 1, 2012, the court may grant a
+defendant's motion to set aside the judgment when forensic DNA testing is performed
+after the entry of judgment upon a conviction and "the court has determined that there
+exists a reasonable probability that the verdict would have been more favorable to the
+defendant." Unlike a motion under CPL 440.10 (1) (g), a defendant relying on the results
+of DNA testing no longer has to show that the results of such testing is newly discovered
+evidence in order to seek vacatur of a judgment of conviction. The defendant only has to
+show that there is a reasonable probability that he would have obtained a more favorable
+verdict. The newly amended statute, permitting relief at any time after the entry of
+judgment, applies to this case.[FN2]
+
+Thus, the People's arguments regarding the sufficiency of defendant's claim that the
+DNA evidence was newly discovered are moot.
+
+The People argue that, even though the DNA material from the victim's fingernails
+was from some male other than defendant, because there is no evidence that the victim
+ever scratched or came into contact with her attacker's skin, the DNA evidence is not
+exculpatory and provides no reasonable probability that defendant would have obtained a
+more favorable result at trial. They argue that, at the very least, the facts of this case
+required the court to hold a testimonial hearing to determine whether the DNA material
+was from the victim's attacker or some other source.
+
+The standard for reviewing decisions on motions decided under CPL 440.10 (1)
+(g-1) is abuse of discretion (People v Jones, 109 AD3d 402, 405 [1st Dept 2013]). This
+standard is the [*3]same for all CPL 440.10 motion
+decisions, except in non-capital cases before the Court of Appeals (People v Samandarov, 13
+NY3d 433, 436 [2009]; People v Crimmins, 38 NY2d 407, 409 [1975]). We
+find that the court providently exercised its discretion in vacating the judgment of
+conviction and ordering a new trial in this case.
+
+We reject the People's contention that, before deciding the motion, the court was
+required to hold a hearing to resolve factual disputes regarding the source of the DNA
+under the victim's fingernails. A hearing to develop additional facts is not invariably
+necessary to decide a CPL 440.10 motion. Rather, CPL 440.30 contemplates that a court
+will make an initial determination on the written submissions regarding whether the
+motion can be decided without a hearing (Jones, 109 AD3d at 403). In this case
+the People did not request a hearing. Even if they had, the court was well within its
+discretion in resolving the motion without a hearing based upon the facts that had been
+presented at the underlying trial. The court concluded that the victim's trial testimony
+about her strenuous physical struggle with her attacker supported defendant's contention
+that the DNA material from the victim's fingernails likely came from her attacker. DNA
+from a victim's fingernails is a recognized forensic tool in identifying attackers,
+eliminating suspects and investigating crimes (see People v Bush, 90 AD3d 945 [2d Dept 2011]; People v Donahue, 81 AD3d
+1348, 1350 [4th Dept 2011], lv denied 16 NY3d 894 [2011]).
+
+Although there was no testimony that the victim's fingernails came directly into
+contact with her attacker's skin, it is still reasonable under the facts of this case to
+conclude that when the victim vigorously fought her attacker she collected his DNA
+under her fingernails. Other explanations posited by the People regarding why DNA may
+not have been that of the attacker did not require a testimonial hearing conclusively
+ruling them out. While a defendant needs to show more than a mere possibility that the
+verdict would have been more favorable to him (see People v Rodriguez, 193
+AD2d 363, 365 [1st Dept 1993], lv denied 81 NY2d 1079 [1993]), he does not
+have to establish a virtual certainty that there would have been no conviction without the
+DNA evidence (see People v
+Tankleff, 49 AD3d 160 [2d Dept 2007]).
+
+Here the DNA evidence is material and exculpatory because it supports identifying
+someone other than defendant as the attacker. In concluding that there was a reasonable
+probability that the jury would have rendered a more favorable verdict for the defendant,
+the court not only considered the DNA evidence but also that the underlying conviction
+was based solely on the resolution of a close and vigorously contested factual question
+regarding the attacker's identity. The court considered that the conviction was based on
+an arguably conflicted and uncorroborated eyewitness identification by the victim. On
+balance the court correctly exercised its discretion in finding that a new trial was
+warranted. Our recent decision in People v Jones (109 AD3d 402 [1st Dept 2013]), where
+despite new DNA evidence, we upheld the denial of a CPL 440.10 motion based on the
+strength of the eyewitness identification, is distinguishable. Unlike the eyewitness
+identification in People v Jones, the victim's identification in this case was not
+unusually strong or reliable. She had no opportunity to observe her attacker in a
+non-stressful [*4]situation before the attack. Her various
+descriptions of her attacker in the course of the investigation contained discrepancies and
+there was an alibi witness placing defendant someplace else at the time of the attack.
+Concur—Tom, J.P., Saxe, Moskowitz and Gische, JJ.
+
+
+Footnotes
+
+
+
+
+Footnote 1: Defendant also moved
+to set aside the verdict based upon the People's failure to exchange Brady
+materials consisting of a letter. The trial court never ruled on the issue, finding the
+DNA evidence was in itself sufficient to warrant vacating the conviction and holding a
+new trial.
+
+
+
+
+Footnote 2: The People conceded
+this point at oral argument.
+
+
+
+

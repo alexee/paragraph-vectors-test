@@ -1,0 +1,122 @@
+
+	Willer v Kleinman
+	2014 NY Slip Op 01164 [114 AD3d 850]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Justin Willer et al., Appellants,
+v
+Joseph Kleinman
+et al., Respondents.
+
+
+—[*1]
+
+
+Berkman Law Office, LLC, Brooklyn, N.Y. (David S. Steigbigel, Robert J.
+Tolchin, and Aalok Karambelkar of counsel), for appellants.
+
+Kalmon Glovin, Brooklyn, N.Y. (S. Herman Klarsfeld of counsel), for
+respondents.
+
+
+
+In an action to recover damages for breach of contract, the plaintiffs appeal, as
+limited by their brief, from so much of an order of the Supreme Court, Kings County
+(Pfau, J.), dated October 10, 2012, as granted that branch of the defendants' motion
+which was to compel the plaintiff Justin Willer and the defendant Joseph Kleinman to
+proceed with arbitration of their claims.
+
+Ordered that the order is reversed insofar as appealed from, on the law, with costs,
+and that branch of the defendants' motion which was to compel the plaintiff Justin Willer
+and the defendant Joseph Kleinman to proceed with arbitration of their claims is denied.
+
+The plaintiffs, Justin Willer and Nadia Willer, are the owners of residential property
+in Brooklyn. In 2009, Justin Willer entered into a contract with the defendants to
+renovate the subject property. The parties' written contract was between Justin Willer and
+Joseph Kleinman, and made no mention of arbitration.
+
+In a summons dated July 27, 2011, a rabbinical court summoned Kleinman to appear
+before it on August 4, 2011, at the request of Justin Willer, to arbitrate a claim for
+$225,000 in damages allegedly incurred as a result of "fraud, overcharging, damages to
+property, repairs." Kleinman claimed that he appeared before the rabbinical court on
+August 4, 2011, and agreed to arbitrate the dispute. However, the parties did not proceed
+to arbitration, and approximately eight months later, the plaintiffs commenced this action
+to recover damages for breach of contract.
+
+The defendants answered, raising as an affirmative defense that Justin Willer and
+Kleinman agreed to arbitrate. The defendants also docketed a mechanic's lien against the
+property for $50,581.19, which they claimed was due and owing for work performed,
+and counterclaimed for that amount. Along with their answer, they submitted their first
+set of interrogatories, which the plaintiffs answered.
+
+Thereafter, the defendants moved to compel the plaintiffs to proceed to arbitration,
+and for a protective order, inter alia, striking the plaintiffs' discovery demands. In an
+affidavit in [*2]support of the motion, Kleinman stated
+that he appeared before the rabbinical court on August 4, 2011, and "agreed to arbitrate
+the disputes and all of the issues between the parties."
+
+In opposition, the plaintiffs' attorney submitted an affirmation noting that there was
+no written agreement to arbitrate. The plaintiffs' attorney further claimed that the
+defendants waived arbitration by counterclaiming in the instant action for additional
+relief of $50,581.19, for work performed, and by serving demands for discovery.
+
+In the order appealed from, the Supreme Court granted that branch of the defendants'
+motion which was to compel Justin Willer and Kleinman to proceed with arbitration of
+their claims, and directed that the balance of the action—to wit, Nadia Willer's
+claims against the defendants and the defendants' counterclaims against her—shall
+proceed. The plaintiffs appeal.
+
+Although there was no written agreement to arbitrate in this case, where one party
+demands arbitration, and the other party accepts the demand, an oral agreement to
+arbitrate may be formed (see Tal
+Tours [1996], Inc. v Goldstein, 34 AD3d 786 [2006]; Corbetta Constr. Co. v
+Driscoll Co., 17 AD2d 176, 179 [1962]). Oral agreements to arbitrate are not
+covered by CPLR article 75, and are referred to as "common-law arbitration" agreements
+(Polednak v Country-Wide Ins. Co., 153 AD2d 930, 931 [1989]; Matter of
+Hellman [Wolbrom], 31 AD2d 477, 481 [1969]). Here, it is undisputed that Justin
+Willer invited Kleinman to proceed to arbitration, and Kleinman accepted that invitation,
+forming an oral agreement to arbitrate, which was enforceable (see Tal Tours [1996], Inc. v
+Goldstein, 34 AD3d 786 [2006]).
+
+However, the defendants, by their conduct in this lawsuit, waived arbitration. As this
+Court explained in Reynolds & Reynolds Co., Automotive Sys. Div. v Goldsmith
+Motor Corp. (251 AD2d 312, 313 [1998]),"[t]here is no inflexible or mechanical
+rule as to what constitutes a waiver of the right to arbitrate. Rather, determination of the
+issue depends on the facts and circumstances of each particular case . . .
+Among the factors to be considered are the extent of the party's participation in litigation
+and conduct inconsistent with the assertion of a right to arbitrate, the delay in seeking
+arbitration, and whether the other party has been prejudiced" (citations omitted).
+
+While a party who commences an action waives arbitration, the same cannot be said
+for a defendant (see De Sapio v Kohlmeyer, 35 NY2d 402, 405 [1974]). A
+defendant who submits an answer, or submits a pre-answer motion to dismiss the action,
+does not waive arbitration, especially if the arbitrability of the controversy is asserted as a
+ground to dismiss the action (see Flynn v Labor Ready, 6 AD3d 492 [2004]; Spatz v
+Ridge Lea Assoc., 309 AD2d 1248 [2003]; Ruttura & Sons Constr. Co. v
+Petrocelli Constr., 257 AD2d 614 [1999]). However, in the instant case, the
+defendants asserted counterclaims related to issues in the main action, against both
+plaintiffs, including Nadia Willer, who is united in interest with Justin Willer, but is not a
+party to any arbitration agreement (see Dembitzer v Chera, 305 AD2d 531, 532
+[2003]). Further, the defendants sought and obtained discovery (see De Sapio v
+Kohlmeyer, 35 NY2d 402, 405 [1974]). Although it is not clear from the record why
+the parties never proceeded to arbitration in August 2001, after Kleinman agreed to do
+so, there is no indication that Kleinman took any steps to expeditiously proceed to
+arbitration. The delay in seeking to proceed to arbitration is another factor to consider
+(see Reynolds & Reynolds Co., Automotive Sys. Div. v Goldsmith Motor Corp.,
+251 AD2d at 313).
+
+Under the totality of the circumstances, the defendants waived arbitration.
+Accordingly, that branch of their motion which was to compel Justin Willer and
+Kleinman to proceed with arbitration of their claims should have been denied. Skelos,
+J.P., Lott, Cohen and Hinds-Radix, JJ., concur.
+
+

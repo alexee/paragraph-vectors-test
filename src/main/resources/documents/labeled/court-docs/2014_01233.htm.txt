@@ -1,0 +1,160 @@
+
+	Yauchler v Serth
+	2014 NY Slip Op 01233 [114 AD3d 1069]
+	February 20, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Gene Yauchler, Appellant, v Joseph Serth,
+Respondent.
+
+
+—[*1]
+
+Law Office of Lance R. Hartwich, PLLC, Schenectady (Lance R. Hartwich of
+counsel), for appellant.
+
+Joseph Serth, Pattersonville, respondent pro se.
+
+
+
+McCarthy, J. Appeal from a judgment of the Supreme Court (Reilly Jr., J), entered
+August 2, 2012 in Schenectady County, which, among other things, granted defendant's
+cross motion for summary judgment dismissing the complaint.
+
+In October 2005, defendant sold plaintiff a parcel of lakefront property. In the deed,
+defendant reserved to himself certain rights to the use and "stewardship" of a boat launch
+area and agreed to assume certain responsibilities related to those rights. Plaintiff
+commenced this action pursuant to RPAPL article 15 seeking a declaration that
+defendant had forfeited his rights as to the boat launch area by failing to fulfill his
+obligations under the deed. Plaintiff moved for summary judgment and defendant
+cross-moved for summary judgment dismissing the complaint. Supreme Court denied
+plaintiff's motion and granted defendant's cross motion. Plaintiff appeals.
+
+Initially, defendant's affirmation dated December 23, 2011 and its attachments
+should not be considered on the motions.[FN*]
+
+It is unclear whether Supreme Court considered these papers as, contrary to statute, the
+order does not "recite the papers used on the motion[s]" (CPLR 2219[*2][a]). In any event, defendant could not validly submit an
+unsworn affirmation, as he is a party to this action and is not an attorney (see
+CPLR 2106). The annexed documents are not certified (see CPLR 2105; see
+also CPLR 5532) and, as we cannot rely on defendant's affirmation, they lack
+context and foundation. Accordingly, we will not consider any of the materials contained
+in the supplemental record, as none of them was properly before Supreme Court (see
+Matter of Theodore LL. v Phelan, 254 AD2d 605, 605 n 2 [1998]).
+
+Supreme Court erred in dismissing the complaint in its entirety, as questions of fact
+exist regarding whether defendant violated certain terms of the deed. Plaintiff claims that
+defendant materially breached the terms of the deed by: (1) failing to provide proof of
+adequate insurance on the boat launch; (2) failing within the year preceding
+commencement of the instant action to notify plaintiff of the names of all persons who
+possess keys to the boat launch gate; (3) failing within the year preceding
+commencement of the action to supply plaintiff with the names and telephone numbers
+of all persons whom defendant has allowed to access the lake via the boat launch; (4)
+failing to properly maintain the boat launch, causing or permitting it to become strewn
+with trash; and (5) wrongfully interfering with plaintiff's use and quiet enjoyment of his
+property by changing the lock on the boat launch gate and refusing to supply plaintiff
+with a key or combination to the lock. In support of his motion for summary judgment,
+plaintiff submitted, among other things, his sworn affidavit and verified complaint
+alleging the aforementioned violations of the deed, and a copy of the deed, which
+provides, in pertinent part, that: "[Defendant] will construct a gate and maintain the boat
+launch at his own cost and expense. There will be a minimum of [$1 million] of
+insurance on the boat launch at all times provided by [defendant]. The launch will be
+closed to the public at all times except for the persons who are residents of Mariaville.
+They can get a key with a signed blue tag from [defendant]. [Defendant] will annually
+provide the names and phone numbers of all people using the boat launch to [plaintiff],
+and update it periodically every time five (5) individuals are added to the list of users.
+[Defendant] will be allowed 3 non-residents to use the boat launch only if their names
+and phone numbers are provided ahead of time to [plaintiff]. [Defendant] must show
+proof of insurance yearly to [plaintiff]. If [defendant] violates any of the terms of this
+agreement, [defendant] will then forfeit his stewardship of the boat launch. Violations
+must be determined by a court of competent jurisdiction. [Plaintiff] will have a key or
+access to the boat launch."
+
+Defendant submitted his sworn affidavit denying plaintiff's allegations. Defendant
+also submitted a copy of his September 2010 letter to plaintiff, which enclosed a list of
+people who had keys to the boat launch at the time and proof of insurance coverage from
+April 2010 through April 2011, as well as the certified mail receipt showing that
+plaintiff's wife signed for the correspondence in October 2010. Although plaintiff
+contends that he was not provided with proof of current insurance, he failed to establish
+that defendant was in breach of the terms of the deed, which only requires defendant to
+"show proof of insurance yearly" to plaintiff, without specification as to a date by which
+this must be accomplished. The record shows that, since 2005, defendant has maintained
+yearly insurance on the property, with plaintiff listed as a certificate holder on the policy,
+and has provided plaintiff with proof of such insurance by letter at least once each year.
+The letters also included lists of people who had keys to the boat launch at the time.
+Based upon this evidence, defendant established his entitlement to summary judgment as
+to plaintiff's first two allegations and plaintiff failed to offer any evidence sufficient to
+require a trial of any issue of fact as to these two claimed breaches of the deed (see
+Zuckerman v City of New York, 49 NY2d 557, 562 [1980]).
+
+As for plaintiff's third allegation, the deed requires that defendant "annually provide
+the [*3]names and phone numbers of all people using the
+boat launch to [plaintiff]." Defendant did not offer proof that the people who had keys
+were the only people permitted to use the boat launch. Thus, it is unclear if defendant
+complied with this term of the deed, making summary judgment inappropriate as to that
+allegation.
+
+Regarding plaintiff's fourth allegation, that defendant has failed to properly maintain
+the boat launch, plaintiff averred that defendant permitted the property to become strewn
+with trash. On the other hand, defendant averred that he saw plaintiff's relatives dumping
+trash on the boat launch. In addition to this factual disagreement, the meaning of the term
+"maintain" is not precisely defined in the deed and there is a reasonable basis for
+difference of opinion, namely, whether this term includes removal of garbage. In light of
+the factual dispute and the ambiguity of this provision in the contract, the related
+allegation was not ripe for summary judgment (see Pozament Corp. v AES Westover, LLC, 27 AD3d
+1000, 1001 [2006]; Besicorp Group v Enowitz, 235 AD2d 761, 763 [1997]).
+
+Plaintiff's fifth and primary contention is that defendant interfered with plaintiff's use
+and quiet enjoyment of his property by replacing plaintiff's lock on the boat launch gate
+with defendant's lock and refusing to provide plaintiff with a key or the combination to
+the lock. The parties seem to acknowledge that each has cut off locks placed on the gate
+by the other party. Although it is not included in the paragraph concerning the boat
+launch, the deed does contain a covenant of quiet enjoyment. Based on the placement of
+that covenant, it is unclear whether the parties intended that a violation of that term
+would result in defendant's forfeiture of his stewardship of the boat launch. Aside from
+the ambiguity regarding that term in the deed, defendant argues that since he has
+stewardship of the boat launch, his lock should be on the gate. Defendant explained that
+he switched to a combination lock because plaintiff was handing out keys to random
+people who did not have a right to use the boat launch; defendant agreed to give plaintiff
+the combination whenever requested, but defendant planned to replace the lock every
+time he gave the combination to plaintiff. The heart of the matter appears to be the level
+of access that plaintiff should have to the boat launch and whether plaintiff should have
+unfettered access or should have to request access from defendant each time he wants to
+use the boat launch that is on plaintiff's own property. While the deed provides that
+defendant will manage third-party access to the boat launch, the parties did not define the
+term "stewardship" in the deed nor did they indicate the level of control that this right
+granted to defendant— i.e., whether the deed granted defendant control that is
+superior to that of plaintiff. Summary judgment would be premature, as evidence
+regarding the parties' intent is needed to resolve these ambiguities regarding material
+terms in the deed (see Besicorp Group v Enowitz, 235 AD2d at 763;
+Collegetown of Ithaca v Friedman, 110 AD2d 955, 956 [1985]).
+
+Peters, P.J., Stein and Garry, JJ., concur. Ordered that the judgment is modified, on
+the law, without costs, by reversing so much thereof as granted defendant's cross motion
+for summary judgment in its entirety; cross motion denied except as to the allegations
+that defendant breached the agreement by failing to provide proof of insurance and
+information regarding who had keys to the boat launch gate; and, as so modified,
+affirmed.
+
+
+Footnotes
+
+
+
+
+Footnote *: This Court granted
+defendant's motion to include these documents as part of the record on appeal, but
+permitted argument and reserved decision on whether these papers should have been
+accepted by Supreme Court (2013 NY Slip Op 83876[U]).
+
+
+
+

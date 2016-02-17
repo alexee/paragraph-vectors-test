@@ -1,0 +1,222 @@
+
+	Gumbs v Flushing Town Ctr. III, L.P.
+	2014 NY Slip Op 01267 [114 AD3d 573]
+	February 25, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	James Gumbs et al., Respondents,
+v
+Flushing
+Town Center III, L.P., et al., Appellants, et al., Defendant.
+
+
+—[*1]
+
+
+McGaw, Alventosa & Zajac, Jericho (Dawn C. DeSimone of counsel), for
+appellants.
+
+Fortunato & Fortunato, PLLC, Brooklyn (Annamarie Fortunato of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, Bronx County (Laura Douglas, J.), entered on or about
+February 1, 2013, which, to the extent appealed from as limited by the briefs, denied
+defendants' motion pursuant to CPLR 3126 to strike the complaint upon plaintiffs' failure
+to provide requested HIPAA-compliant authorizations for the release of medical records,
+affirmed, without costs.
+
+This action was brought to recover damages for a torn rotator cuff, a fractured ankle
+and other orthopedic injuries sustained by plaintiff James Gumbs. This appeal involves
+defendants' discovery notice for the production of authorizations for the release of the
+records of Gumbs's cardiologist as well as his primary care physician. Defendants moved
+for an order striking the complaint upon plaintiffs' refusal to provide the authorizations.
+Counsel's affirmation was accompanied by copies of the pleadings, bills of particulars,
+defendants' discovery notice and plaintiffs' response. The motion was made solely on the
+bare-bones assertion that "[p]laintiff certainly has placed his medical condition in issue
+and has also placed his ability to work in the future at issue as well as his life
+expectancy." Plaintiffs opposed the motion on grounds that included the
+physician-patient privilege. The court below denied the motion, finding that defendants
+have not shown that the records they seek are related to the claimed injuries. We affirm.
+
+Discovery determinations rest with the sound discretion of the motion court
+(Andon v 302-304 Mott St. Assoc., 94 NY2d 740, 745 [2000]). This Court is
+nonetheless vested with a corresponding power to substitute its own discretion for that of
+the motion court (id.). Notwithstanding our own discretion, "deference is
+afforded to the trial court's discretionary determinations regarding disclosure" (Don
+Buchwald & Assoc. v Marber-Rich, 305 AD2d 338, 338 [1st Dept 2003] [internal
+quotation marks omitted]). Unlike the dissent, we find no abuse of the court's discretion
+given the paucity of support for the motion in the first instance. Specifically, defendants'
+argument regarding the relevance of Gumbs's medical history as set forth in his
+deposition was improperly made for the first time in their reply papers (see e.g. [*2]Ambac Assur. Corp. v DLJ Mtge. Capital, Inc., 92
+AD3d 451, 452 [1st Dept 2012]). The purpose of reply papers "is to address
+arguments made in opposition to the position taken by the movant and not to permit the
+movant to introduce new arguments in support of the motion" (id. [internal
+quotation marks omitted]). This impropriety deprived plaintiffs of an opportunity to
+respond to the argument. Accordingly, the denial of defendants' motion was reasonable
+and supported by law.
+
+We, otherwise, find no occasion to substitute our own discretion for that of the
+motion court. Gumbs's waiver of his physician-patient privilege is limited in scope to
+"those conditions affirmatively placed in controversy" (Felix v Lawrence Hosp. Ctr.,
+100 AD3d 470, 471 [1st Dept 2012]). Gumbs did not place his entire medical
+condition in controversy by suing to recover damages for orthopedic injuries (see e.g. Schiavone v Keyspan
+Energy Delivery NYC, 89 AD3d 916, 916-917 [2d Dept 2011]).
+Concur—Mazzarelli, J.P., Sweeny and DeGrasse, JJ.
+
+Freedman and Gische, JJ., dissent in a memorandum by Gische, J., as follows: I
+respectfully dissent and would reverse the order denying defendants' motion and would
+direct the production of the requested discovery because plaintiff, by claiming that his
+enumerated injuries have resulted in his permanent inability to work and permanent or
+long lasting loss of enjoyment of life, has placed his general health and medical history at
+issue.
+
+James Gumbs was supervising work at a construction site when the accident
+occurred. He claims to have sustained a fractured ankle, bilateral shoulder injuries and a
+knee injury, all requiring surgeries to correct. In his complaint he seeks damages for both
+past and future loss of earnings. In his various supplemental bills of particulars, plaintiff
+claims that his injuries are permanent. In addition to compensation for pain, deformity,
+disability, stiffness, tenderness, tingling sensation, weakness and limitation, he seeks
+further damages for anxiety, depression and the loss of enjoyment of life, including an
+inability to enjoy the normal fruits of his "social, economic and educational" activities.
+His wife has asserted a derivative claim for both past and future loss of services and
+consortium.
+
+Plaintiff was deposed and testified that he was prescribed Percocet for pain
+associated with the injuries caused by the accident. Upon further inquiry, he divulged
+that he was first prescribed Percocet in 1999 in connection with a gunshot wound he
+suffered at that time. The wound was to his abdomen. Although he did not lose any
+organs as a result of the wound, he did undergo "multiple surgeries," including surgeries
+to his small and large intestines. Percocet was prescribed by his personal physician (Dr.
+Fields) who still treats him and continues to issue refills for that prescription. According
+to plaintiff, he takes Percocet for pain associated with that old injury as needed, which is
+approximately once a month.
+
+Plaintiff also testified at his deposition that doctors discovered a heart condition
+when he went for routine preoperative screening in 2010 to correct the ankle and
+shoulder injuries that are the subject of this lawsuit. He is not claiming that the heart
+condition is related to the accident. The condition appears to have been preexisting, but
+undiagnosed. Plaintiff stated that he sees Dr. Tims, his cardiologist, every four-to-six
+months to monitor this condition, which plaintiff describes as his having a "blood vessel
+[that is] weak" or a weak heart muscle. Plaintiff also stated that Dr. Tims prescribed
+medication to "strengthen up the muscle" and another medicine to lower his cholesterol.
+Plaintiff did not know the name of the heart strengthening medicine he [*3]is taking, how severe this cardiac problem is or whether he
+also suffers from high blood pressure.
+
+Plaintiff, now age 60, was asked questions about whether he had any retirement
+plans. He answered that until he was injured in this accident, he had no intention of
+retiring and had expected to work until he "[felt] like quitting" because he was "very
+active." Before this supervisory position, plaintiff had worked as a laborer. He had held
+this supervisory position for only a few months.
+
+Following the deposition, defendants served a notice on plaintiff to produce, among
+other things, authorizations for his pharmaceutical/prescription records and
+authorizations for Dr. Tims', Dr. Fields' and "St. Roosevelt Hospital's" medical records.
+Although plaintiff provided authorizations for his pharmaceutical records, and he agrees
+that he waived the physician-patient privilege regarding treatment he received for his
+ankle and shoulder injuries, he claims that defendants' demands for his cardiologist's
+records and the records of his primary physician go beyond the scope of permissible
+discovery because they are totally unrelated to the injuries he sued on. Defendants
+brought a motion to strike the complaint for failure to provide discovery, attaching copies
+of plaintiff's verified complaint and bills of particulars dated January 4, 2011, May 31,
+2011, August 24, 2011 and December 6, 2011, each of which alleges permanent physical
+disabilities as well as his "loss of enjoyment of life" claims.
+
+I disagree that the motion was defective because it did not, at the outset, include a
+copy of plaintiff's deposition transcript. Defendants' motion squarely put before the court
+plaintiff's verified complaint and supplemental bills of particulars which expressly
+specified that plaintiff's demand for monetary damages included loss of future earnings
+and loss of enjoyment of life based upon the permanency of his injuries. These sworn
+statements were sufficient to show that plaintiff had put his overall physical condition at
+issue in this action. The absence of the deposition transcript detailing plaintiff's general
+physical condition until defendants' reply papers did not warrant denial of defendants'
+motion.
+
+I also disagree with the majority to the extent it concludes that the medical records
+sought by defendants are not discoverable because plaintiff claims to have suffered
+ankle, knee and shoulder injuries and the requested records do not pertain to those
+specific injuries. I believe the medical records sought by defendants directly relate to
+plaintiff's sweeping, broad and encompassing claims of permanent disability and loss of
+enjoyment of life, and it was an abuse of discretion for the trial court to fail to consider
+these categories of damages in fashioning the scope of discovery.
+
+CPLR article 31 provides that there shall be "full disclosure of all matter material and
+necessary in the prosecution or defense of an action, regardless of the burden of proof"
+(CPLR 3101 [a]). Whether something is "material and necessary" under CPLR 3101 (a)
+is "to be interpreted liberally to require disclosure, upon request, of any facts bearing on
+the controversy which will assist preparation for trial by sharpening the issues and
+reducing delay and prolixity" (Allen v Crowell-Collier Publ. Co., 21 NY2d 403,
+406 [1968]). Where a plaintiff has brought a personal injury action, that person has
+"affirmatively placed his or her mental or physical condition in issue" (see Arons v Jutkowitz, 9
+NY3d 393, 409 [2007] [internal citations omitted]).
+
+When a plaintiff seeks future lost earnings, he or she squarely puts his or her prior
+medical history at issue because his or her overall health directly bears on the question of
+how many years the plaintiff realistically could have continued to work had no accident
+occurred (see Tuitt v Otis El. Co., 175 AD2d 72 [1st Dept 1991]; Barlatier v
+Rollins Leasing Corp., 292 AD2d 480 [2d Dept 2002]). Although plaintiff, who was
+55 when the accident occurred, claims he had [*4]no
+plans to retire before the accident happened, his prior medical history is relevant to the
+issue of how long he could have actually worked, had there been no accident (see Goetchius v Spavento, 84
+AD3d 1712 [4th Dept 2011]). The heart condition and injury to plaintiff's internal
+organs as a result of his gunshot wound are not so obviously remote to his life/work-life
+expectancy to warrant their non-disclosure (compare Tomaino v 209 E. 84 St. Corp., 68 AD3d 527 [1st
+Dept 2009] [pre-accident finger fracture records sought on the grounds they could shed
+light on the plaintiff's heart condition]).
+
+Likewise, when a plaintiff also seeks damages for the permanent loss of his or her
+ability to enjoy life, the jury must take into consideration the period of time that the
+plaintiff can be expected to live (PJI 2:281). Although statistical life expectancy tables
+are useful, juries are routinely instructed that the tables are not binding and they may also
+consider evidence of a plaintiff's actual health condition, habits and activities in making
+this evaluation (PJI 2:281). Consequently, such evidence should be discoverable.
+Plaintiff's medical records shed light on whether he suffered from other conditions,
+having nothing to do with this accident, which may have impacted upon his ability to
+enjoy life and/or life expectancy (see Deleon v Keystone Frgt. Corp., 104 AD3d 541 [1st
+Dept 2013]; Diamond v Ross
+Orthopedic Group, P.C., 41 AD3d 768, 769 [2d Dept 2007]; see also Weber v Ryder TRS,
+Inc., 49 AD3d 865 [2d Dept 2008]).
+
+Plaintiff's argument, which the motion court accepted and this Court now affirms,
+that the requested medical records must be relevant and directly correlate to a specific
+physical condition he has put at issue, meaning his ankle, knee and shoulder injuries, is
+too narrow an interpretation of this case where plaintiff is seeking broad categories of
+damages.
+
+Plaintiff contends that his use of the phrase "loss of enjoyment of life" is little more
+than boilerplate language which he will withdraw, if this Court decides that defendants
+are entitled to discovery of his medical records. Although plaintiff is free to withdraw
+this element of damages, he has not yet done so. In any event, in my opinion, the
+information would still be discoverable in connection with his claims of permanency.
+
+The cases relied upon by plaintiff are distinguishable because the discovery was
+sought on matters not directly at issue in those actions. In Felix v Lawrence Hosp. Ctr.
+(100 AD3d 470 [1st Dept 2012]), we denied discovery because the defendants
+sought the subsequent obstetrical records of a plaintiff whose only subsequent claim for
+damages related to emotional and psychological, not physical, injuries. Elmore v 2720 Concourse Assoc.,
+L.P. (50 AD3d 493 [1st Dept 2008]) involved discovery demands for a mother's
+records regarding her psychiatric history, although she had not put that history at issue in
+the action. In Abdur-Rahman v
+Pollari (107 AD3d 452 [1st Dept 2013]), we denied discovery regarding the
+plaintiff's HIV status because of the statutory prohibition against the disclosure of such
+medical records, absent the showing of a "compelling need" for them which cannot be
+established by simply showing the information is "material and necessary" within the
+purview of CPLR 3101 (a) (id. at 454-455).
+
+Here, plaintiff has directly put his general health condition at issue by claiming he
+suffers a number of physical, emotional and psychological injuries caused by defendants'
+negligence. There is no statutory prohibition preventing the production of his medical
+records, and he has [*5]otherwise waived any
+physician-patient privilege regarding the record of Dr. Fields, Dr. Tims and "St.
+Roosevelt Hospital" based upon the sweeping nature of the damages sought.
+
+

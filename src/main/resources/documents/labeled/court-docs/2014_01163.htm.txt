@@ -1,0 +1,135 @@
+
+	Utica Mut. Ins. Co. v Cardet Constr. Co., Inc.
+	2014 NY Slip Op 01163 [114 AD3d 847]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Utica Mutual Insurance Company,
+Appellant,
+v
+Cardet Construction Co., Inc., et al.,
+Respondents.
+
+
+—[*1]
+
+
+Westermann Sheehy Keenan Samaan & Aydelott, LLP, Uniondale, N.Y.
+(Michael F. Kuzow of counsel), for appellant.
+
+Naidich Wurman Birnbaum & Maday, LLP, Great Neck, N.Y. (Robert P. Johnson of
+counsel), for respondents.
+
+
+
+In an action, inter alia, to recover damages for breach of an indemnification
+agreement, the plaintiff appeals, as limited by its brief, from so much of an order of the
+Supreme Court, Suffolk County (Pines, J.), dated April 11, 2012, as denied those
+branches of its motion which were for summary judgment on the first cause of action of
+the amended complaint, which sought specific performance of the collateral security
+provision of the subject indemnification agreement, summary judgment on so much of
+the third cause of action of the amended complaint as sought indemnification in the sum
+of $115,212.74 for attorney fees and expenses the plaintiff allegedly incurred by reason
+of its suretyship of the defendant Cardet Construction Co., Inc., and summary judgment
+dismissing the defendants' affirmative defenses.
+
+Ordered that the order is reversed insofar as appealed from, on the law, with costs,
+and those branches of the plaintiff's motion which were for summary judgment on the
+first cause of action of the amended complaint, summary judgment on so much of the
+third cause of action of the amended complaint as sought indemnification in the sum of
+$115,212.74, and summary judgment dismissing the defendants' affirmative defenses are
+granted.
+
+The defendant Cardet Construction Co., Inc. (hereinafter Cardet), entered into a
+contract with American Airlines, Inc. (hereinafter American), to perform construction
+and improvement of the new Admirals Club and Flagship Lounge at John F. Kennedy
+International Airport (hereinafter the construction contract). The plaintiff, Utica Mutual
+Insurance Company (hereinafter Utica), as surety, issued a performance bond and a labor
+and material payment bond, each in the sum of $2,500,000, naming Cardet as principal
+and American as obligee. The defendants executed an indemnification agreement in
+favor of Utica in connection with the bonds. Pursuant to the indemnification agreement,
+the defendants agreed to "indemnify and save [Utica] harmless from and against every
+claim, demand, liability, cost, charge, suit, judgment and expense which [Utica] may pay
+or incur in consequence of having executed . . . [the] bonds
+. . . including fees of attorneys, whether on salary, retainer or otherwise, and
+the expense of procuring, or attempting to procure, release from liability, or in bringing
+suit to enforce the obligation of any of the indemnitors under [*2]this [a]greement." The indemnification agreement also
+included a provision requiring the defendants to post collateral security, immediately
+upon demand by Utica, to cover any claim, suit, or judgment under the bonds.
+
+In a letter dated August 4, 2008, American declared that Cardet was in default under
+the construction contract. American did not seek to have Utica complete the balance of
+the remaining work, claiming that Utica would not be able to ensure completion of the
+work in a timely manner as required by the construction contract.
+
+Cardet commenced an action against American (hereinafter the underlying action)
+alleging breach of contract and seeking damages in excess of $1 million. Subsequently,
+American asserted a counterclaim against Cardet and Utica, as surety, seeking damages
+in excess of $1 million. Utica retained counsel to defend against American's counterclaim
+in the underlying action. Pursuant to the indemnification agreement, Utica demanded
+indemnification from the defendants for the attorney fees and expenses it incurred in the
+underlying action, and demanded that the defendants post a collateral security deposit to
+cover American's claims under the bonds. After the defendants refused to comply with
+these demands, Utica commenced this action.
+
+In the order appealed from, the Supreme Court denied those branches of Utica's
+motion which were for summary judgment on the first cause of action of the amended
+complaint, which sought specific performance of the collateral security provision of the
+indemnification agreement, summary judgment on so much of the third cause of action of
+the amended complaint as sought indemnification in the sum of $115,212.74 for attorney
+fees and expenses Utica allegedly incurred by reason of its suretyship of Cardet, and
+summary judgment dismissing the defendants' affirmative defenses.
+
+Utica demonstrated its prima facie entitlement to judgment as a matter of law on the
+first cause of action of the amended complaint by submitting the indemnification
+agreement, the performance bond, and proof that American had asserted a counterclaim
+in excess of $1 million against Utica, as surety, in the underlying action (see Safeco
+Ins. Co. of Am. v Hirani/MES, JV, 480 Fed Appx 606, 608 [2d Cir 2012]; Colonial Sur. Co. v Genesee Val.
+Nurseries, 5 AD3d 1024, 1025 [2004]; BIB Constr. Co. v Fireman's Ins. Co.
+of Newark, N.J., 214 AD2d 521, 523 [1995]). In opposition, the defendants failed to
+raise a triable issue of fact. In light of the amount sought in American's counterclaim, the
+$251,688.80 collateral security deposit demanded by Utica is reasonable (cf. Colonial Sur. Co. v Eastland
+Constr., Inc., 77 AD3d 581, 582 [2010]; American Motorists Ins. Co. v
+Trans Intl. Corp., 265 AD2d 280, 281 [1999]; American Motorists Ins. Co. v
+Napco Sec. Sys., 244 AD2d 197 [1997]; BIB Constr. Co. v Fireman's Ins. Co. of
+Newark, N.J., 214 AD2d at 523).
+
+Contrary to the defendants' contention, pursuant to the terms of the indemnification
+agreement, Utica demonstrated its entitlement to judgment as a matter of law on so much
+of the third cause of action of the amended complaint as sought indemnification in the
+sum of $115,212.74. Utica met its prima facie burden by submitting the indemnification
+agreement, the performance bond, and itemized statements of attorney fees and expenses
+(see John Deere Ins. Co. v
+GBE/Alasia Corp., 57 AD3d 620, 621 [2008]; Lee v T.F. DeMilo Corp., 29
+AD3d 867, 868 [2006]; Frontier Ins. Co. v Renewal Arts Contr. Corp., 12 AD3d
+891, 892 [2004]; Lavorato v Bethlehem Steel Corp., 91 AD2d 1184, 1185
+[1983]; cf. Travelers Cas. &
+Sur. Co. of Am. v Stransky, 93 AD3d 781 [2012]). In opposition, the defendants
+failed to raise a triable issue of fact regarding the reasonableness of the attorney fees and
+expenses (cf. American Motorists Ins. Co. v Trans Intl. Corp., 265 AD2d at 281;
+American Motorists Ins. Co. v Napco Sec. Sys. 244 AD2d 197 [1997]), or
+Utica's good faith in incurring such fees and expenses (cf. WBP Cent. Assoc., LLC v
+DeCola, 91 AD3d 861, 863 [2012]; Peerless Ins. Co. v Talia Constr.
+Co., 272 AD2d 919 [2000]; BIB Constr. Co. v Fireman's Ins. Co. of Newark,
+N.J., 214 AD2d at 524).
+
+For these same reasons, the Supreme Court should have granted that branch of
+Utica's motion which was for summary judgment dismissing the defendants' affirmative
+defenses, which asserted, among other things, that Utica did not issue any bonds on the
+defendants' behalf.
+
+Accordingly, the Supreme Court should have granted those branches of Utica's [*3]motion which were for summary judgment on the first
+cause of action of the amended complaint, summary judgment on so much of the third
+cause of action of the amended complaint as sought indemnification in the sum of
+$115,212.74, and summary judgment dismissing the defendants' affirmative defenses.
+Dillon, J.P., Leventhal, Hall and Cohen, JJ., concur.
+
+

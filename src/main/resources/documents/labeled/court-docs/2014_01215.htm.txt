@@ -1,0 +1,143 @@
+
+	People v Henry
+	2014 NY Slip Op 01215 [114 AD3d 1025]
+	February 20, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York, Appellant, v Richard
+Henry, Respondent.
+
+
+—[*1]
+
+
+
+P. David Soares, District Attorney, Albany (Steven M. Sharp of counsel), for
+appellant.
+
+James P. Milstein, Public Defender, Albany (Christopher J. Ritchey of counsel), for
+respondent.
+
+
+
+Stein, J. Appeal from an order of the County Court of Albany County (Lynch, J.),
+entered November 7, 2013, which, among other things, granted defendant's motion to
+suppress his statements.
+
+In September 2011, New York State Police Investigator Peter Kozel became aware
+of a report that suspected images of child pornography were being accessed through the
+Internet. An investigation into the report led Kozel to an IP address with a subscriber's
+name and address in the City of Cohoes, Albany County, as well as an Internet domain
+name belonging to defendant. As a result, Kozel and another investigator went to
+defendant's workplace and asked to speak with him. While there, defendant and the
+investigators initially spoke in an office. However, because the office was not private or
+secure, Kozel asked defendant if he was willing to accompany them to the police station.
+Defendant agreed and the investigators transported him to the police station, where they
+resumed their questioning in an interview room. Kozel first asked defendant where he
+lived and then inquired about his Internet service. After defendant confirmed that his
+residence matched the Cohoes address in the report and indicated that he accessed the
+[*2]Internet through his landlord's account,[FN1]
+
+Kozel read defendant his Miranda rights. Defendant then waived his rights and
+proceeded to make various incriminating statements, which were reduced to writing. A
+search warrant for defendant's residence was issued and executed and a number of
+computers and CDs were seized.
+
+Defendant was subsequently charged by indictment with 34 counts of possessing a
+sexual performance by a child. Defendant filed an omnibus motion seeking, among other
+things, to suppress his statements to the police. Following a Huntley hearing,
+County Court determined that defendant was in custody when questioned by Kozel at the
+police station and suppressed his non-Mirandized statement regarding his Internet
+service. County Court also suppressed his subsequent statements as fruit of the poisonous
+tree. The People now appeal.
+
+As a rule, Miranda warnings are required once a suspect has been taken into
+custody (see People v Doll,
+21 NY3d 665, 670 [2013]; People v Kenyon, 108 AD3d 933, 935 [2013], lv
+denied 21 NY3d 1075 [2013]). The standard for determining if a suspect was in
+custody "is whether a reasonable person innocent of any wrongdoing would have
+believed that he or she was not free to leave" (People v Paulman, 5 NY3d 122, 129 [2005]; see People v Engelhardt, 94
+AD3d 1238, 1240-1241 [2012], lv denied 19 NY3d 960 [2012]; People v Underdue, 89 AD3d
+1132, 1133-1134 [2011], lv denied 19 NY3d 969 [2012]; People v Hook, 80 AD3d
+881, 882 [2011], lv denied 17 NY3d 806 [2011]; People v Brown, 77 AD3d
+1186, 1186 [2010]). Whether an individual was in custody is a mixed question of
+law and fact (see People v Paulman, 5 NY3d at 129), which is dependent on the
+circumstances existing when the challenged statements were made, considering such
+factors as "the location, length and atmosphere of the questioning, whether police
+significantly restricted defendant's freedom of action, the degree of defendant's
+cooperation, and whether the questioning was accusatory or investigatory" (People v Pagan, 97 AD3d
+963, 966 [2012], lv denied 20 NY3d 934 [2012]; see People v Yukl,
+25 NY2d 585, 589 [1969], cert denied 400 US 851 [1970]; People v Vieou, 107 AD3d
+1052, 1053 [2013]; People
+v McCoy, 89 AD3d 1218, 1219 [2011], lv denied 18 NY3d 960
+[2012]).
+
+In our view, the evidence adduced at the Huntley hearing did not support
+County Court's conclusion that defendant's pre-Miranda statements were the
+result of a custodial interrogation and, therefore, defendant's motion to suppress the
+statements should have been denied (see People v McClaney, 135 AD2d 901,
+903 [1987]). Kozel testified at the hearing that he and his partner went to defendant's
+place of employment in plain clothes and spoke briefly to defendant. However, because
+the room where they spoke was not private or secure, Kozel asked defendant if he was
+willing to go to the police station to be questioned "regarding [I]nternet
+usage."[FN2]
+
+County Court credited Kozel's testimony and concluded that defendant willingly
+accompanied the investigators and that, at that time, "[d]efendant was not in custody, was
+not cuffed, and was not placed under arrest."
+[*3]
+The testimony further revealed that defendant
+was brought to a room at the police station where he was interviewed for a total of no
+more than 30 minutes. During the brief period that preceded the Miranda
+warnings, defendant was not handcuffed or restrained in any manner and the
+investigators did not do anything to convey that defendant was not free to leave (see People v Andrango, 106
+AD3d 461, 461 [2013], lv denied 21 NY3d 1040 [2013]; People v Strong, 27 AD3d
+1010, 1012 [2006], lv denied 7 NY3d 763 [2006]). Moreover, the two
+questions that preceded the Miranda warnings—the first asked defendant
+for his address and the second inquired into defendant's Internet service—were
+investigatory, as opposed to accusatory. Considering the totality of the circumstances,
+and in light of County Court's determinations that Kozel was "frank, candid, and
+trustworthy and [that] his testimony had the general force and flavor of credibility," we
+find that the People met their burden of establishing beyond a reasonable doubt that
+defendant's pre-Miranda statements were not the product of a custodial
+interrogation (see People v McCoy, 89 AD3d at 1220; People v
+Underdue, 89 AD3d at 1133; People v Pouliot, 64 AD3d 1043, 1046 [2009], lv
+denied 13 NY3d 838 [2009]; People v Dillhunt, 41 AD3d 216, 216-217 [2007], lv
+denied 10 NY3d 764 [2008]; People v Strong, 27 AD3d at 1012-1013). As a
+result, neither defendant's pre-Miranda statement nor the statements he made
+after he voluntarily waived his Miranda rights should have been suppressed
+(see People v Underdue, 89 AD3d at 1133).
+
+Peters, P.J., McCarthy and Garry, JJ., concur. Ordered that the order is modified, on
+the law, by reversing so much thereof as granted defendant's motion to suppress his
+statements; motion denied to that extent; and, as so modified, affirmed.
+
+
+Footnotes
+
+
+
+
+Footnote 1: Defendant's landlord
+was the IP subscriber linked to the images.
+
+
+
+
+Footnote 2: We disagree with
+defendant's assertion that, by making this statement, the investigators conveyed to
+defendant that he was the suspect of a crime (see Stansbury v California, 511 US
+318, 325 [1994]). We also note that this communication took place at a time when
+defendant concedes he was not in custody.
+
+
+
+

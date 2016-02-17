@@ -1,0 +1,99 @@
+
+	Keene v Marketplace
+	2014 NY Slip Op 01094 [114 AD3d 1313]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Taushieya Keene, Appellant,
+v
+The Marketplace et
+al., Respondents.
+
+
+—[*1]
+
+
+Parisi & Bellavia, LLP, Rochester (Timothy C. Bellavia of counsel), for
+plaintiff-appellant.
+
+Webster Szanyi LLP, Buffalo (Jeremy A. Colby of counsel), for
+defendants-respondents.
+
+
+
+Appeal from an order of the Supreme Court, Monroe County (Thomas A. Stander,
+J.), entered February 13, 2013 in a personal injury action. The order denied the motion of
+plaintiff for partial summary judgment on the issue of liability and granted the motion of
+defendants for summary judgment dismissing the complaint.
+
+It is hereby ordered that the order so appealed from is unanimously modified on the
+law by denying that part of the motion of defendants The Marketplace and Wilmorite
+Management Group, LLC with respect to the first cause of action and reinstating the
+complaint to that extent and as modified the order is affirmed without costs.
+
+Memorandum: Plaintiff commenced this action seeking damages for injuries she
+sustained when a mirror fell from a wall in vacant retail space in the Marketplace Mall,
+where plaintiff was working at a blood drive. Defendant The Marketplace owned the
+property, and defendant Wilmorite Management Group, LLC managed the property
+(collectively, defendants). The retail space was previously occupied by a Bath & Body
+Works store (BBW), and mirrors had been installed along the walls in 1993 by a
+contractor employed by BBW. The retail space was "debranded" by BBW and
+turned over to The Marketplace in June 2006, and plaintiff was injured in August 2006.
+Plaintiff appeals from an order denying her motion seeking partial summary judgment on
+the issue of liability and granting defendants' motion seeking summary judgment
+dismissing the complaint.
+
+As a preliminary matter, we conclude that Supreme Court properly denied plaintiff's
+motion seeking partial summary judgment on the issue of liability inasmuch as she failed
+to establish her entitlement to judgment as a matter of law (see generally Zuckerman
+v City of New York, 49 NY2d 557, 562 [1980]). We further conclude that the court
+properly granted that part of defendant's motion seeking to dismiss the second cause of
+action alleging res ipsa loquitur inasmuch as res ipsa loquitur is an evidentiary doctrine,
+rather than a cause of action (see Abbott v Page Airways, 23 NY2d 502, 512
+[1969]; Herbst v Lakewood
+Shores Condominium Assn., 112 AD3d 1373, 1374 [2013]). To the extent that
+the second cause of action, as amplified by the bill of particulars, may be read to allege
+common-law negligence, we conclude that the court properly determined that defendants
+met their burden on their motion by establishing that they did not have exclusive control
+of the mirror, i.e., one of the necessary conditions for the applicability of the doctrine of
+res ipsa loquitur, and that plaintiff failed to raise an issue of fact (cf. Herbst, 112
+AD3d at 1374; see generally Zuckerman, 49 NY2d at 562).
+
+We agree with plaintiff, however, that the court erred in granting that part of
+defendants' motion with respect to the first cause of action, which alleges, inter alia, that
+defendants had constructive notice of the dangerous condition of the unsecured mirror.
+We therefore modify the order accordingly. It is well established that "[a] landowner is
+liable for a dangerous or defective [*2]condition on [its]
+property when the landowner 'created the condition or had actual or constructive notice
+of it and a reasonable time within which to remedy it' " (Anderson v Weinberg, 70
+AD3d 1438, 1439 [2010]). "To constitute constructive notice, a defect must be
+visible and apparent and it must exist for a sufficient length of time prior to the accident
+to permit defendant's employees to discover and remedy it" (Gordon v American
+Museum of Natural History, 67 NY2d 836, 837 [1986]). Here, defendants
+established that when the mirrors were installed in the retail space in 1993 they were
+secured with a substance called "mirror mastic," and that shelves and brackets were
+installed in front of the mirrors to prevent them from falling. Defendants' agents walked
+through the retail space after BBW vacated it and again prior to the blood drive and,
+although the shelves and brackets had been removed, they did not observe that any
+mirrors were not securely attached to the wall. We therefore conclude that defendants
+met their burden of establishing that they lacked constructive notice of a dangerous
+condition. We further conclude, however, that plaintiff raised an issue of fact in
+opposition to defendants' motion. Plaintiff submitted evidence establishing that the
+mirror that fell and struck her had duct tape across the top of it, and she also submitted
+the deposition testimony of her coworker, who testified that she had observed two other
+mirrors that were "leaning" and had folded masking tape affixed on the back. Viewing
+that evidence in the light most favorable to plaintiff (see Esposito v Wright, 28 AD3d 1142, 1143 [2006]), we
+conclude that there is an issue of fact whether defendants had constructive notice of the
+dangerous condition presented by the unsecured mirror (see generally
+Zuckerman, 49 NY2d at 562). Present—Scudder, P.J., Centra, Carni, Sconiers
+and Whalen, JJ.
+
+

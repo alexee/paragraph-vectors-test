@@ -1,0 +1,128 @@
+
+	Adobea v Junel
+	2014 NY Slip Op 01143 [114 AD3d 818]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Rebecca Adobea et al., Appellants,
+v
+Ahmed Junel
+et al., Respondents.
+
+
+—[*1]
+
+
+Sim & Record, LLP, Bayside, N.Y. (Sang J. Sim of counsel), for appellants.
+
+Baker, McEvoy, Morrissey & Moskovits, P.C. (Marjorie E. Bornes, Brooklyn, N.Y.,
+of counsel), for respondents.
+
+
+
+In an action to recover damages for personal injuries, etc., the plaintiffs appeal from
+an order of the Supreme Court, Queens County (Strauss, J.), entered April 9, 2013, which
+granted the defendants' motion for summary judgment dismissing the complaint.
+
+Ordered that the order is affirmed, with costs.
+
+The injured plaintiff, and her husband suing derivatively, commenced this action to
+recover damages for injuries she allegedly sustained in a motor vehicle accident. The
+injured plaintiff was a passenger in a cab driven by the defendant Junel Ahmed, sued
+here as Ahmed Junel, and owned by the defendant QLR Seven, Inc. Ahmed had been
+driving the cab in the right westbound lane of the Horace Harding Expressway in Queens
+when another vehicle, operated and owned by individuals who are not parties to this
+action, attempted to merge into that lane of travel from a parked position and came into
+contact with the defendants' vehicle. The accident occurred about 50 feet from the
+nearest intersection.
+
+The defendants moved for summary judgment dismissing the complaint, and the
+Supreme Court granted the defendants' motion. The plaintiffs appeal.
+
+A violation of the Vehicle and Traffic Law constitutes negligence as a matter of law
+(see Vainer v DiSalvo, 79
+AD3d 1023, 1024 [2010]; Jones v Radeker, 32 AD3d 494, 496 [2006]). "The driver
+with the right-of-way is entitled to anticipate that the other motorist will obey traffic laws
+which require him or her to yield" (Williams v Hayes, 103 AD3d 713, 714 [2013]; see Figueroa v Diaz, 107
+AD3d 754, 755 [2013]; Rahaman v Abodeledhman, 64 AD3d 552, 553 [2009]; see also Dimou v Iatauro, 72
+AD3d 732, 733-734 [2010]). Vehicle and Traffic Law § 1143 provides that
+"[t]he driver of a vehicle about to enter or cross a roadway from any place other than
+another roadway shall yield the right of way to all vehicles approaching on the roadway
+to be entered or crossed." Vehicle and Traffic Law § 1162 requires that "[n]o
+person shall move a vehicle which is stopped, standing, or parked unless and until such
+movement can be made with reasonable safety."
+
+" 'There can be more than one proximate cause of an accident' " (Lopez v Reyes-Flores, 52
+AD3d 785, 786 [2008], quoting Cox v Nunez, 23 AD3d 427, 427 [2005]). This is because
+each driver [*2]has a duty to exercise reasonable care
+under the circumstances to avoid an accident (see Lu Yuan Yang v Howsal Cab Corp., 106 AD3d 1055,
+1056 [2013]; Cajas-Romero v
+Ward, 106 AD3d 850, 851 [2013]; Shui-Kwan Lui v Serrone, 103 AD3d 620 [2013]). As a
+result, even where there is evidence that another driver involved in the accident was
+negligent as a matter of law due to a violation of the Vehicle and Traffic Law, "the
+proponent of a summary judgment motion has the burden of establishing freedom from
+comparative negligence as a matter of law" (Pollack v Margolin, 84 AD3d 1341, 1342 [2011]; see Regans v Baratta, 106
+AD3d 893, 894 [2013]; Shui-Kwan Lui v Serrone, 103 AD3d at 620; Gardella v Esposito Foods,
+Inc., 80 AD3d 660, 660 [2011]). Thus, a driver traveling with the right-of-way
+may nevertheless be found to have contributed to the happening of the accident if he or
+she did not use reasonable care to avoid the accident (see Todd v Godek, 71 AD3d 872 [2010]).
+
+Here, the defendants met their prima facie burden of demonstrating their entitlement
+to judgment as a matter of law. Ahmed's deposition testimony that the driver of the other
+vehicle suddenly, without signaling, attempted to merge from the parking lane into the
+lane in which Ahmed had been traveling, and that Ahmed saw that other vehicle only
+"for a second" before the impact occurred, established that the other driver violated
+Vehicle and Traffic Law §§ 1143 and 1162 so that the other driver was
+negligent as a matter of law (see Vainer v DiSalvo, 79 AD3d at 1024; Jones v
+Radeker, 32 AD3d at 496). Ahmed's deposition testimony also demonstrated that
+Ahmed was free from fault in the happening of the accident, and that the other driver's
+negligence was the sole proximate cause of the accident (see Barbato v Maloney, 94
+AD3d 1028, 1029 [2012]; Recinos v Priamo, 94 AD3d 848, 848 [2012]; Vainer v
+DiSalvo, 79 AD3d at 1024). "[A] driver with the right-of-way who has only seconds
+to react to a vehicle that has failed to yield is not comparatively negligent for failing to
+avoid the collision" (Vazquez v
+New York City Tr. Auth., 94 AD3d 870, 871 [2012]; see Figueroa v
+Diaz, 107 AD3d at 755; Vainer v DiSalvo, 79 AD3d at 1024; Yelder v Walters, 64 AD3d
+762, 764 [2009]; Jaramillo
+v Torres, 60 AD3d 734, 735 [2009]).
+
+In opposition, the plaintiffs failed to raise a triable issue of fact. The injured
+plaintiff's deposition testimony that Ahmed was speeding, by itself, was insufficient to
+raise a triable issue of fact. The injured plaintiff testified at her deposition that she was
+unaware of the rate of speed Ahmed was actually traveling, that she was unaware of the
+speed limit for that section of the Horace Harding Expressway, and that she was not
+paying attention before the impact occurred because she was busy playing with her
+children in the back seat. Under those circumstances, any conclusion that the rate of
+speed Ahmed was traveling contributed to the accident would be mere speculation (see Colandrea v Choku, 94
+AD3d 1034, 1036 [2012]; see e.g. Rahaman v Abodeledhman, 64 AD3d at
+553-554; Strocchia v City of
+New York, 70 AD3d 926, 927 [2010]; Batts v Page, 51 AD3d 833, 834 [2008]).
+
+Moreover, the police accident report submitted by the plaintiffs in opposition to the
+defendants' motion was inadmissible, as it was not certified as a business record
+(see CPLR 4518 [a]; Hazzard v Burrowes, 95 AD3d 829 [2012]; Hernandez v Tepan, 92 AD3d
+721, 722 [2012]; Cheul
+Soo Kang v Violante, 60 AD3d 991, 991 [2009]; Noakes v Rosa, 54 AD3d
+317 [2008]). Contrary to the plaintiffs' contention, the party admission exception to
+the hearsay rule did not apply because the statement from Ahmed which was recorded in
+the police accident report was not against his own interest, and the other statement
+recorded in the police accident report was not made by a party to this action (cf. Jackson v Trust, 103 AD3d
+851, 852 [2013]; Scott v
+Kass, 48 AD3d 785, 786 [2008]; Kemenyash v McGoey, 306 AD2d
+516, 516 [2003]; Guevara v Zaharakis, 303 AD2d 555 [2003]).
+
+The plaintiffs' remaining contentions are without merit.
+
+Accordingly, the Supreme Court properly granted the defendants' motion for
+summary judgment dismissing the complaint. Dillon, J.P., Dickerson, Austin and Sgroi,
+JJ., concur.
+
+

@@ -1,0 +1,76 @@
+
+	Garcia v New York-Presbyt. Hosp.
+	2014 NY Slip Op 01393 [114 AD3d 615]
+	February 27, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Christina Garcia et al., Appellants,
+v
+New
+York-Presbyterian Hospital, Also Known as University Hospital of Columbia and
+Cornell, et al., Respondents, et al., Defendant.
+
+
+—[*1]
+
+
+Reardon & Sclafani, P.C., Tarrytown (Michael V. Sclafani of counsel), for
+appellants.
+
+Martin Clearwater & Bell LLP, New York (Stewart G. Milch of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, New York County (Joan B. Lobis, J.), entered May 16, 2013,
+which denied plaintiffs' motion for leave to amend the pleadings to add a new party
+defendant and to file an amended summons and second amended complaint after the
+statute of limitations had run, unanimously affirmed, without costs.
+
+In this medical malpractice action, plaintiffs allege that the defendant doctors,
+employed by or affiliated with defendant New York-Presbyterian Hospital, were
+negligent in performing a laparoscopic cholecystectomy procedure and providing
+aftercare. After the statute of limitations had run, plaintiffs sought leave to amend the
+complaint to add a claim against another physician, a surgeon affiliated with the hospital,
+who made two notes in the injured plaintiff's medical chart after she underwent the
+procedure.
+
+While leave to amend the pleadings is ordinarily freely given (CPLR 3025 [b]), the
+court providently exercised its discretion in denying plaintiffs leave to amend for a
+second time to add a new party defendant, since the proposed amended pleading clearly
+lacks merit (see Eighth Ave.
+Garage Corp. v H.K.L. Realty Corp., 60 AD3d 404, 405 [1st Dept 2009], lv
+dismissed 12 NY3d 880 [2009]). Since the statute of limitations has run as to the
+proposed medical malpractice claim against the proposed additional defendant, plaintiffs
+bore the burden of demonstrating the applicability of the relation-back doctrine
+(Cintron v Lynn, 306 AD2d 118, 119-120 [1st Dept 2003]; CPLR 203 [c]).
+
+Plaintiffs argue that the hospital may be vicariously liable for treatment negligently
+rendered by the proposed defendant, even if he was not an employee of the hospital,
+because the injured plaintiff sought "treatment from the hospital, not from a particular
+physician" (Shafran v St. Vincent's Hosp. & Med. Ctr., 264 AD2d 553, 558 [1st
+Dept 1999]). However, that rationale for imposition of vicarious liability against the
+hospital is an insufficient basis for finding that the proposed defendant is so "united in
+interest" with the hospital that he can be charged with notice [*2]of the commencement of the action for purposes of the
+relation-back doctrine (Anderson v Montefiore Med. Ctr., 41 AD3d 105, 107-108
+[1st Dept 2007]). Even if the proposed additional defendant could be charged with such
+notice, plaintiffs failed to provide any basis for finding that the proposed defendant
+"knew or should have known" that the action would have been brought against him too,
+but for a mistake by the plaintiffs as to the identity of the proper parties (see Soto v Bronx-Lebanon Hosp.
+Ctr., 93 AD3d 481 [1st Dept 2012]; Alvarado v Beth Israel Med. Ctr., 60 AD3d 981 [2d Dept
+2009]; Cintron v Lynn, 306 AD2d at 119-120). To the contrary, under the
+circumstances, when plaintiffs first moved to add two other physicians as party
+defendants, and then allowed the statute to elapse without bringing suit against him, he
+could have concluded that there was no intent to sue him "at all 'and that the matter has
+been laid to rest as far as he is concerned' " (Buran v Coupal, 87 NY2d 173, 181
+[1995]). Concur—Tom, J.P., Friedman, Saxe, Richter and Clark, JJ.
+
+

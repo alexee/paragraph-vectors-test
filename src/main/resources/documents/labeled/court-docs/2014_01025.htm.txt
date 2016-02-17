@@ -1,0 +1,159 @@
+
+	People v Theodore
+	2014 NY Slip Op 01025 [114 AD3d 814]
+	February 13, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York,
+Respondent,
+v
+Rashid Theodore, Appellant.
+
+
+—[*1]
+
+
+John A. Scarpa, Jr., Kew Gardens, N.Y., for appellant.
+
+Richard A. Brown, District Attorney, Kew Gardens, N.Y. (John M. Castellano,
+Johnnette Traill, and Deborah E. Wassel of counsel), for respondent.
+
+
+
+Appeal by the defendant from a judgment of the Supreme Court, Queens County
+(Kron, J.), rendered August 7, 2013, convicting him of criminal possession of a weapon
+in the second degree (two counts) and criminal possession of marijuana in the fifth
+degree, upon his plea of guilty, and imposing sentence. The appeal brings up for review
+the denial, after a hearing (Paynter, J.), of that branch of the defendant's omnibus motion
+which was to suppress physical evidence.
+
+Ordered that the judgment is reversed, on the law, that branch of the defendant's
+omnibus motion which was to suppress physical evidence is granted, the indictment is
+dismissed, and the matter is remitted to the Supreme Court, Queens County, for further
+proceedings consistent with CPL 160.50.
+
+On September 29, 2011, Detective Gregory Anderson of the 113th Precinct of the
+New York City Police Department (hereinafter the NYPD) received a radio call directing
+him to respond to a residential fire at 123-06 Sutphin Boulevard in Jamaica, Queens. The
+dispatcher advised him that a child had placed the call to the 911 emergency operator,
+and had reported the location as 123-06 Rockaway Boulevard, but that the firefighters
+and the police officers from the 106th Precinct who responded to that location did not
+find a fire. Detective Anderson, along with an NYPD sergeant, responded to 123-06
+Sutphin Boulevard, and found neither a residence nor a fire, but only a vacant lot along
+the entire side of that block where even-numbered addresses would have been situated.
+Detective Anderson circled the block once or twice, looking for the closest house. Across
+the street from 123-06 Sutphin Boulevard were four houses, and Detective Anderson
+determined that 123-09 Sutphin Boulevard was the closest one. He did not see or smell
+any smoke or fire coming from 123-09 Sutphin Boulevard. Detective Anderson did not
+ring the doorbell at that house. Instead, he walked along a walkway on the left side of the
+house for about 30 feet before reaching the rear yard. He made a right turn and walked
+over to the rear yard. From there, Detective Anderson could see, at the other end of the
+yard, a car parked at the end of a driveway. The [*2]defendant was inside the car, and Detective Anderson
+approached him. As he neared the vehicle, Detective Anderson saw the defendant
+holding a cigar-shaped object that turned out to be a cigar with the tobacco removed and
+marijuana substituted in its place, commonly known as a "blunt." Detective Anderson
+directed the defendant to exit the vehicle. Once the defendant did so, Detective Anderson
+saw a firearm on the driver's seat. He seized the firearm, along with marijuana and
+marijuana grinding apparatus commonly known as a "crusher" that was also inside the
+vehicle.
+
+The defendant was charged with two counts of criminal possession of a weapon in
+the second degree and one count of criminal possession of marijuana in the fifth degree.
+The defendant moved, inter alia, to suppress the physical evidence, but, after a hearing,
+the Supreme Court denied that branch of the motion. The defendant later pleaded guilty
+to the entire indictment, and was sentenced.
+
+A search occurs, thereby triggering the protection of the Fourth Amendment to the
+United States Constitution and article I, section 12 of the New York Constitution, when
+the police invade an area where a person has a legitimate expectation of privacy (see
+People v Knapp, 52 NY2d 689, 694 [1981]; United States v Moran, 349 F
+Supp 2d 425, 467 [2005]). A legitimate expectation of privacy exists where a person has
+manifested a subjective expectation of privacy that society recognizes as reasonable
+(see Oliver v United States, 466 US 170, 177 [1984]; Katz v United
+States, 389 US 347, 361 [1967]; People v Ramirez-Portoreal, 88 NY2d 99,
+108 [1996]; People v Reynolds, 71 NY2d 552, 557 [1988]; see also Florida v
+Jardines, 569 US —, 133 S Ct 1409, 1417 [2013]). The curtilage of the
+home—the area immediately surrounding and associated with the home or the area
+that is related to the intimate activities of the home—is part of the home itself
+(see Florida v Jardines, 569 US at —, 133 S Ct at 1414; Oliver v
+United States, 466 US at 178, 180; People v Reynolds, 71 NY2d at 558;
+People v Reilly, 195 AD2d 95, 98 [1994]). The determination of whether an area
+falls within the home's curtilage may be made by reference to four factors: "the proximity
+of the area claimed to be curtilage to the home, whether the area is included within an
+enclosure surrounding the home, the nature of the uses to which the area is put, and the
+steps taken by the resident to protect the area from observation by people passing by"
+(United States v Dunn, 480 US 294, 301 [1987]).
+
+Consideration of these factors in connection with the evidence in this record,
+including two photographs of a portion of the subject premises, compels us to conclude
+that the defendant's rear yard was within the curtilage of the home. The rear yard was in
+close proximity to the home, shielded from view by those on the street, and within the
+natural and artificial barriers enclosing the home. This physical arrangement made
+manifest the defendant's expectation of privacy, and that expectation is one that society
+recognizes as reasonable (see People v Saurini, 201 AD2d 869 [1994];
+People v Abruzzi, 52 AD2d 499 [1976], affd 42 NY2d 813 [1977];
+United States v Wells, 648 F3d 671, 677 [2011]; United States v Howe,
+414 Fed Appx 579, 581 [2011]; Lundstrom v Romero, 616 F3d 1108,
+1128-1129 [2010]; United States v Romero-Bustamente, 337 F3d 1104, 1108
+[2003]; Daughenbaugh v City of Tiffin, 150 F3d 594, 601-602 [1998];
+Quintana v Commonwealth of Kentucky, 276 SW3d 753, 760 [Ky 2009];
+Kamins, 1-6 New York Search & Seizure § 6.03 [4]). Therefore, since Detective
+Anderson conducted a search without a warrant when he entered the defendant's rear
+yard, the People were required to demonstrate that his entry was justified under some
+exception to the warrant requirement (see People v Rodriguez, 77 AD3d 280, 282-283 [2010]).
+
+Under the emergency exception, the police may make a warrantless entry into a
+protected area if (1) they have reasonable grounds to believe that there was an emergency
+at hand and an immediate need for their assistance for the protection of life or property;
+(2) the search was not primarily motivated by an intent to arrest and seize evidence; (3)
+and there was some reasonable basis, approximating probable cause, to associate the
+emergency with the area or place to be searched (see People v Mitchell, 39 NY2d
+173, 177 [1976]; People v Rodriguez, 77 AD3d at 283; People v Desmarat, 38 AD3d
+913, 914-915 [2007]). The United States Supreme Court has determined that the
+second prong regarding the subjective intent of the police is no longer relevant under the
+Fourth Amendment (see Brigham City v Stuart, 547 US 398, 404-405 [2006]).
+However, we need not decide whether the second prong of Mitchell is still viable
+under the New York Constitution because we conclude that the People did not satisfy the
+third prong of Mitchell (see People v Doll, 21 NY3d 665, 671 n [2013]; People v Dallas, 8 NY3d
+890, 891 [2007]; People v Rodriguez, 77 AD3d at 284). There was no basis
+for believing [*3]that there was any "direct relationship"
+or "nexus" between the report of the fire and 123-09 Sutphin Boulevard (see People v
+Mitchell, 39 NY2d at 179; People v Alster, 28 AD3d 490, 491 [2006]). The child
+caller reported the location of the fire as 123-06 Rockaway Boulevard (see People v
+DePaula, 179 AD2d 424 [1992]). Although the location Detective Anderson
+responded to, 123-06 Sutphin Boulevard, had the same number as the address reported,
+the two street names were not similar (cf. United States v Huebner, 125 Fed
+Appx 767 [2005]). At that location, Detective Anderson did not find a fire or even a
+residence, only a vacant lot. Detective Anderson decided to continue his investigation
+across the street from the vacant lot at the defendant's home at 123-09 Sutphin Boulevard
+simply because it was closest in proximity to the vacant lot, but, again, he found no
+evidence of smoke or a fire. Under these circumstances, Detective Anderson did not have
+a reasonable basis to believe that there was a fire at 123-09 Sutphin Boulevard (see
+People v Andujar, 160 AD2d 403 [1990]; United States v Deemer, 354 F3d
+1130 [2004]).
+
+Since Detective Anderson did not have a lawful vantage point when he saw the
+defendant holding a "blunt," the People may not rely on the plain view doctrine to justify
+the seizure of the gun, marijuana, and the "crusher," since an essential predicate of the
+plain view doctrine is that the officer had the right to be in a position to have the view of
+the incriminating evidence (see Horton v California, 496 US 128, 136 [1990];
+People v Machovoe, 242 AD2d 898 [1997]; People v Abruzzi, 52 AD2d
+at 502; Katz and Shapiro, 1-15 New York Suppression Manual § 15.03).
+
+Accordingly, that branch of the defendant's omnibus motion which was to suppress
+physical evidence should have been granted. Since, without that evidence, the People
+would be unable to adduce legally sufficient evidence to prove the defendant's guilt of
+the crimes charged, the indictment should have been dismissed. Consequently, the matter
+must be remitted to the Supreme Court, Queens County, for further proceedings
+consistent with CPL 160.50. Dillon, J.P., Balkin, Chambers and Cohen, JJ., concur.
+
+
+

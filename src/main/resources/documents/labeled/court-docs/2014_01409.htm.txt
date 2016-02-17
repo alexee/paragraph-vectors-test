@@ -1,0 +1,66 @@
+
+	AREP Fifty-Seventh, LLC v PMGP Assoc., L.P.
+	2014 NY Slip Op 01409 [115 AD3d 402]
+	March 4, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 30, 2014
+
+
+
+
+
+
+	AREP Fifty-Seventh, LLC, Appellant,
+v
+PMGP
+Associates, L.P., et al., Respondents.
+
+
+—[*1]
+
+
+
+Quinn McCabe LLP, New York (Todd J. DeSimone of counsel), for appellant.
+
+Olshan Frome & Wolosky, New York (Alexander Ferrini, III of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, New York County (Donna M. Mills, J.), entered September
+20, 2012, which, insofar as appealed from as limited by the briefs, granted defendants'
+motion to dismiss the causes of action for tortious interference with contract and prima
+facie tort pursuant to CPLR 3211 (a) (7), unanimously affirmed, without costs.
+
+The motion court correctly dismissed the tortious interference with contract claim.
+To establish a claim of tortious interference with contract, "the plaintiff must show the
+existence of its valid contract with a third party, defendant's knowledge of that contract,
+defendant's intentional and improper procuring of a breach, and damages" (White Plains Coat & Apron Co.,
+Inc. v Cintas Corp., 8 NY3d 422, 426 [2007]). Although plaintiff alleges that its
+contractor was unable to construct a tower crane in accordance with its contract because
+of defendants' refusal to remove a sidewalk bridge that encroached five feet onto
+plaintiff's premises, plaintiff does not allege that defendant procured a breach of contract
+by plaintiff's contractor (see Lama Holding Co. v Smith Barney, 88 NY2d 413,
+424-425 [1996]). Contrary to plaintiff's contention, defendants may raise this argument
+on appeal even though it was not relied upon by the motion court (see Matter of
+American Dental Coop. v Attorney-General of State of N.Y., 127 AD2d 274, 279 n
+3 [1st Dept 1987]).
+
+The motion court also correctly dismissed plaintiff's prima facie tort claim. The
+requisite elements for a cause of action sounding in prima facie tort are (1) the intentional
+infliction of harm, (2) resulting in special damages, (3) without excuse or justification,
+(4) by an act or series of acts which are otherwise legal (see DeMicco Bros., Inc. v
+Consolidated Edison Co. of N.Y., Inc., 8 AD3d 99 [1st Dept 2004]). The
+"plaintiff[ ] [must] allege that disinterested malevolence was the sole motivation for the
+conduct of which [he or she] complain[s]" (Epifani v Johnson, 65 AD3d 224, 232 [2d Dept 2009]
+[internal quotation marks and citation omitted]). Here, plaintiff's argument that
+defendants were motivated by an intent to delay the construction of plaintiff's hotel
+which would compete with defendants' hotel business negates the requirement of acting
+[*2]with disinterested malevolence (see Benton v
+Kennedy-Van Saun Mfg. & Eng'g Corp., 2 AD2d 27, 29 [1st Dept 1956]; see
+also Burns Jackson Miller Summit & Spitzer v Lindner, 59 NY2d 314, 333 [1983]).
+Concur—Tom, J.P., Andrias, Saxe, DeGrasse and Richter, JJ.
+
+

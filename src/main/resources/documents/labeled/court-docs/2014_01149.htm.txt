@@ -1,0 +1,128 @@
+
+	Fuller v Collins
+	2014 NY Slip Op 01149 [114 AD3d 827]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Victoria Fuller, Respondent,
+v
+Gary Robert
+Collins, Appellant.
+
+
+—[*1]
+
+
+Callan, Koster, Brady & Brennan, LLP, New York, N.Y. (Arshia Hourizadeh of
+counsel), for appellant.
+
+Alan J. Rich, LLC, Brooklyn, N.Y., for respondent.
+
+
+
+In an action, inter alia, to recover damages for breach of contract, the defendant
+appeals, as limited by his brief, from so much of an order of the Supreme Court, Kings
+County (Schack, J.), dated June 4, 2012, as denied those branches of his motion which
+were to disqualify Alan J. Rich as the plaintiff's counsel and to dismiss the causes of
+action alleging a violation of the New York City Human Rights Law (Administrative
+Code of City of NY § 8-107), negligence, and breach of contract.
+
+Ordered that the order is modified, on the law and in the exercise of discretion, (1) by
+deleting the provision thereof denying that branch of the defendant's motion which was
+to dismiss the plaintiff's fifth cause of action and substituting therefor a provision
+granting that branch of the motion, and (2) by deleting the provision thereof denying that
+branch of the defendant's motion which was to disqualify Alan J. Rich as the plaintiff's
+counsel and substituting therefor a provision granting that branch of the motion; as so
+modified, the order is affirmed insofar as appealed from, without costs or disbursements.
+
+After the plaintiff's employment was terminated, she commenced an action in federal
+court alleging that she was discriminated against for taking a medical leave (see
+Victoria Fuller v Interview, Inc., 2009 WL 3241542, 2009 US Dist LEXIS 93157
+[SD NY 2009, No. 07-CV-5728 (RJS) (DF)] [hereinafter the federal action]). The
+plaintiff retained the defendant herein, a board certified forensic psychiatrist, as an expert
+in the federal action. The defendant subsequently resigned as the plaintiff's expert, and
+the plaintiff commenced the instant action against him, alleging that the defendant failed
+to provide an expert report as contemplated by the parties' retainer agreement. The
+complaint in the instant action alleged five causes of action: (1) breach of express
+contract; (2) breach of implied contract; (3) conversion; (4) negligence; and (5) violation
+of the New York City Human Rights Law (Administrative Code of City of NY §
+8-107; hereinafter the NYCHRL). The plaintiff alleged, inter alia, that the defendant
+interfered with her rights under the NYCHRL by failing to provide an expert report and
+resigning as her expert prior to the trial in the federal action, and thereby sabotaged her
+rights in the federal action.
+[*2]
+The defendant moved pursuant to CPLR 3211 (a)
+(1) and (7) to dismiss the complaint in its entirety and pursuant to rule 3.7 of the Rules of
+Professional Conduct (22 NYCRR 1200.0) to disqualify Alan J. Rich as the plaintiff's
+counsel. The Supreme Court denied those branches of the defendant's motion which were
+to dismiss the causes of action to recover damages for breach of contract, negligence, and
+a violation of the NYCHRL, and to disqualify the plaintiff's counsel.
+
+On a motion pursuant to CPLR 3211 (a) (7) to dismiss a pleading for failure to state
+a cause of action, the pleading must be liberally construed, the factual allegations must be
+deemed true, and the pleading party must be accorded the benefit of every possible
+inference (see Leon v Martinez, 84 NY2d 83, 87 [1994]; Kopelowitz & Co., Inc. v
+Mann, 83 AD3d 793, 797 [2011]; Panish v Panish, 24 AD3d 642, 643 [2005]). Applying this
+standard to the allegations set forth in the complaint, the Supreme Court properly
+determined that the complaint sufficiently stated a cause of action to recover damages for
+breach of contract (see CPLR 3211 [a] [7]; JP Morgan Chase v J.H. Elec. of N.Y., Inc., 69 AD3d 802,
+803 [2010]) and negligence (see
+Health Acquisition Corp. v Program Risk Mgt., Inc., 105 AD3d 1001,
+1004-1005 [2013]; Landon v
+Kroll Lab. Specialists, Inc., 91 AD3d 79, 83 [2011], affd 22 NY3d 1
+[2013]).
+
+Furthermore, the defendant was not entitled to dismissal pursuant to CPLR 3211 (a)
+(1) of the cause of action to recover damages for breach of contract, since he failed to
+conclusively establish as a matter of law a defense to that cause of action (see Goshen
+v Mutual Life Ins. Co. of N.Y., 98 NY2d 314, 326 [2002]; Americredit Fin. Servs., Inc. v
+Decoteau, 103 AD3d 761, 763 [2013]).
+
+However, the Supreme Court should have granted that branch of the defendant's
+motion which was pursuant to CPLR 3211 (a) (7) to dismiss the fifth cause of action,
+which alleged that the defendant violated the NYCHRL. The provisions of the NYCHRL
+"must be construed 'broadly in favor of discrimination plaintiffs, to the extent that such a
+construction is reasonably possible' " (Nelson v HSBC Bank USA, 87 AD3d 995, 997 [2011],
+quoting Albunio v City of New
+York, 16 NY3d 472, 477-478 [2011]). Even given this liberal construction, the
+plaintiff's allegations against the defendant do not give rise to a cognizable theory under
+the NYCHRL against the defendant. The plaintiff's theory that the defendant aided and
+abetted the plaintiff's employer, or discriminated against the plaintiff by allegedly failing
+to provide an expert report and resigning as an expert witness prior to trial, is not based
+on a reasonable construction of the NYCHRL (see generally Albunio v City of New York, 16 NY3d 472
+[2011]).
+
+Further, the Supreme Court should have granted that branch of the defendant's
+motion which was to disqualify the plaintiff's counsel pursuant to the advocate-witness
+rules (see Rules of Professional Conduct [22 NYCRR 1200.0] rule 3.7). The
+advocate-witness rules contained in the Code of Professional Responsibility, which has
+been superseded by the Rules of Professional Conduct, provide guidance for the courts,
+but are not binding authority, in determining whether a party's attorney should be
+disqualified during litigation (see S & S Hotel Ventures Ltd. Partnership v 777 S. H.
+Corp., 69 NY2d 437, 444-445 [1987]). Rule 3.7 of the Rules of Professional
+Conduct (22 NYCRR 1200.0) provides that, unless certain exceptions apply, "[a] lawyer
+shall not act as advocate before a tribunal in a matter in which the lawyer is likely to be a
+witness on a significant issue of fact" (Rules of Professional Conduct [22 NYCRR
+1200.0] rule 3.7 [a]). Here, since the plaintiff's attorney was the only person, other than
+the defendant, who had knowledge of any discussions regarding the terms of the
+agreement by which the defendant was retained as an expert witness and the actions or
+omissions which form the grounds for the plaintiff's causes of action alleging breach of
+contract and negligence, he is "likely to be a witness on a significant issue of fact" (Rules
+of Professional Conduct [22 NYCRR 1200.0] rule 3.7 [a]; see Falk v Gallo, 73 AD3d
+685, 686 [2010]; Matter of Stober v Gaba & Stober, 259 AD2d 554, 555
+[1999]). Accordingly, the Supreme Court improvidently exercised its discretion in
+denying that branch of the defendant's motion which was to disqualify Alan J. Rich as
+the plaintiff's counsel (see Friia
+v Palumbo, 89 AD3d 896, 897 [2011]; Kattas v Sherman, 32 AD3d 496, 497 [2006]; Matter of
+Stober v Gaba & Stober, 259 AD2d at 555). Rivera, J.P., Leventhal, Hall and
+Roman, JJ., concur.
+
+

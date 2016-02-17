@@ -1,0 +1,90 @@
+
+	Livingston v En-Consultants, Inc.
+	2014 NY Slip Op 01439 [115 AD3d 650]
+	March 5, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 30, 2014
+
+
+
+
+
+
+	Daniel Livingston, Respondent,
+v
+En-Consultants,
+Inc., Appellant.
+
+
+—[*1]
+
+
+Esseks, Hefter & Angel, LLP, Riverhead, N.Y. (Patricia M. Carroll and
+Anthony C. Pasca of counsel), for appellant.
+
+Sinnreich Kosakoff & Messina LLP, Central Islip, N.Y. (Jonathan Sinnreich and
+Lisa A. Perillo of counsel), for respondent.
+
+
+
+In an action to recover damages for breach of contract, the defendant appeals from an
+order of the Supreme Court, Suffolk County (Farneti, J.), dated June 26, 2012, which
+denied its motion pursuant to CPLR 3211 (a) (5) to dismiss the complaint as time-barred.
+
+Ordered that the order is affirmed, with costs.
+
+The plaintiff allegedly hired the defendant to prepare an application for a permit to
+replace a bulkhead on the plaintiff's beachfront property in Montauk. The application the
+defendant prepared included a proposed design for the replacement bulkhead. After the
+plaintiff's permit application was approved by the New York State Department of
+Environmental Conservation, the plaintiff installed a replacement bulkhead that was
+allegedly "substantially in accordance with" the design provided by the defendant. When
+the replacement bulkhead failed within a year, the plaintiff commenced this action to
+recover damages for breach of contract. The defendant moved pursuant to CPLR 3211
+(a) (5) to dismiss the complaint as time-barred, and the Supreme Court denied the
+motion.
+
+On a motion pursuant to CPLR 3211 (a) (5) to dismiss a complaint as barred by the
+applicable statute of limitations, the moving defendant must establish, prima facie, that
+the time in which to commence the action has expired (see Landow v Snow Becker
+Krauss, P.C., 111 AD3d 795, 796 [2013]; Zaborowski v Local 74, Serv. Empls. Intl. Union, AFL-CIO, 91
+AD3d 768, 768-769 [2012]). An action to recover damages for breach of contract is
+governed by a six-year statute of limitations period (see CPLR 213 [2]), while an
+action alleging professional malpractice, with the exception of medical, dental, or
+podiatric malpractice, is governed by a three-year statute of limitations period regardless
+of whether the underlying theory is based in contract or tort (see CPLR 214 [6];
+Castle Oil Corp. v Thompson Pension Empl. Plans, 299 AD2d 513, 514 [2002]).
+Since "malpractice is professional misfeasance toward one's client" (Chase Scientific
+Research v NIA Group, 96 NY2d 20, 24 [2001]), whether a person is a professional
+is determined by reference to qualities that "include extensive formal learning and
+training, licensure and regulation indicating a qualification to practice, a code of conduct
+imposing standards beyond those accepted in the marketplace and a system of discipline
+for violation of those standards," as well as a relationship "of trust and confidence,
+carrying with it [*2]a duty to counsel and advise clients"
+(id. at 29).
+
+Here, the defendant failed to establish, prima facie, that it rendered professional
+services to the plaintiff, and, thus, that the three-year statute of limitations for
+professional malpractice should govern as opposed to the six-year statute of limitations
+for breach of contract (see Pike
+v New York Life Ins. Co., 72 AD3d 1043, 1048 [2010]; Castle Oil Corp. v
+Thompson Pension Empl. Plans, 299 AD2d at 514). The single, conclusory
+allegation in the complaint that the defendant relied upon as establishing that it is a
+professional within the meaning of CPLR 214 (6) was insufficient to meet its prima facie
+burden (see A.F. Rockland
+Plumbing Supply Corp. v Hudson Shore Associated Ltd. Partnership, 96 AD3d
+885, 886 [2012]; Lockwood v Layton, 79 AD3d 1342, 1344 [2010]; Fekete v Camp Skwere, 16
+AD3d 544, 546 [2005]). The defendant did not submit any evidence addressing the
+relevant factors to be considered in determining whether it "is a 'professional' within
+[CPLR 214 (6)]" (96 NY2d at 24; see Pike v New York Life Ins. Co., 72 AD3d 1043, 1048
+[2010]; Castle Oil Corp. v Thompson Pension Empl. Plans, 299 AD2d at 514).
+
+The defendant's remaining contentions are not properly before this Court.
+
+Accordingly, the Supreme Court properly denied the defendant's motion pursuant to
+CPLR 3211 (a) (5) to dismiss the complaint as time-barred. Skelos, J.P., Chambers, Hall
+and Miller, JJ., concur.
+
+

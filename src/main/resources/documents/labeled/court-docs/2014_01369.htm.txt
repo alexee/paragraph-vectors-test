@@ -1,0 +1,87 @@
+
+	Baker v Galusha
+	2014 NY Slip Op 01369 [114 AD3d 1124]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Maynard D. Baker, Respondent, v Richard Galusha,
+Appellant.
+
+
+—[*1]
+
+
+Bartlett, Pontiff, Stewart & Rhodes, PC, Glens Falls (John D. Wright of
+counsel), for appellant.
+
+Winn & Winn, Granville (Robert M. Winn of counsel), for respondent.
+
+
+
+Lahtinen, J. Appeal from an order of the Supreme Court (Krogmann, J.), entered
+October 11, 2012 in Warren County, which denied defendant's motion for summary
+judgment dismissing the complaint.
+
+In 2009, plaintiff ran for Town Supervisor of the Town of Warrensburg in Warren
+County, a position he had previously held from 1988 to 1997. During the campaign, a
+political advertisement appeared in a local newspaper that included comments about
+defendant, who was the Superintendent of the Town's public works department.
+Defendant took offense to those comments. The advertisement indicated that it had been
+paid for by the committee to elect plaintiff and Bryan Rounds; Rounds was another
+candidate running for a Town office with plaintiff, and Rounds also had a familial
+relationship to plaintiff. In response, defendant took out a full page advertisement in the
+Glens Falls Post-Star that appeared on election day and included statements that plaintiff
+considered defamatory. Plaintiff thus commenced this defamation action and defendant
+counterclaimed contending that plaintiff had defamed him in the earlier advertisement.
+Following disclosure, defendant moved for summary judgment dismissing the complaint.
+Supreme Court denied the motion and defendant now appeals.
+
+Plaintiff was a public figure (see Chapadeau v Utica Observer-Dispatch, 38
+NY2d 196, 198 [1975]) and, as such, he must prove by clear and convincing evidence
+that defendant made a false statement with actual malice (see Kipper v NYP Holdings Co.,
+Inc., 12 NY3d 348, 353-354[*2][2009]).
+Distinguishing actionable fact from a protected expression of opinion is a question of law
+in which several factors are weighed, including whether the allegedly defamatory words
+have a precise meaning that is readily understood, whether the statement can be proven
+as true or false, and whether the context and surrounding circumstances would indicate
+that the comment is an opinion (see e.g. Thomas H. v Paul B., 18 NY3d 580, 584 [2012]).
+Further, summary judgment dismissing a defamation action may be avoided where the
+statement is a " 'mixed opinion' implying a basis in undisclosed fact" or " 'pure opinion'
+that accuses the plaintiff of engaging in criminal conduct" (Loder v Nied, 89 AD3d
+1197, 1199 [2011]).
+
+Defendant's advertisement announced one of its purposes was "to expose the low
+character" of plaintiff. He continued that he had previously "not stooped to [plaintiff's]
+level and 'spilled the beans' about numerous unscrupulous dealings [he had] witnessed as
+DPW Superintendent during [plaintiff's] several terms in office." Defendant then set
+forth in some detail one apparent example of such purported conduct in which plaintiff
+allegedly insisted on changing a sewer expansion project at great cost to the Town in
+order to receive a significant personal financial benefit. Since defendant's statement
+includes both a strong inference that he knows undisclosed facts that support his
+assertion that plaintiff engaged in "numerous unscrupulous dealings" when he previously
+was Town Supervisor and includes an example that indicated possible unlawful abuse of
+that office, we agree with Supreme Court that the statements are sufficiently susceptible
+to a defamatory meaning to avoid summary judgment (see Silsdorf v Levine, 59
+NY2d 8, 16 [1983], cert denied 464 US 831 [1983]; Loder v Nied, 89
+AD3d at 1200).
+
+Moreover, defendant essentially acknowledged at his deposition that he had no basis
+for some of his accusations, and when this proof is viewed most favorably to the
+nonmovant, there is adequate evidence in the record to raise a triable issue of fact
+regarding whether defendant acted with actual malice (see DiFabio v Jordan, 113
+AD3d 1109, 1110 [2014]; Curren v Carbonic Sys., Inc., 58 AD3d 1104,
+1106-1107 [2009]). The remaining arguments have been considered and are
+unpersuasive.
+
+Peters, P.J., Garry and Rose, JJ., concur. Ordered that the order is affirmed, with
+costs.
+
+

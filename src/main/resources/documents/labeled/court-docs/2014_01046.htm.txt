@@ -1,0 +1,112 @@
+
+	Markham v Schmieder
+	2014 NY Slip Op 01046 [114 AD3d 1251]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+
+
+	David R. Markham et al., Respondents,
+v
+Edward
+J. Schmieder et al., Respondents, and Nothnagle Drilling, Inc. Appellant, et al.,
+Defendant.
+
+
+—[*1]
+
+
+Flink Smith LLC, Albany (Edward B. Flink of counsel), for
+defendant-appellant.
+
+Bond, Schoeneck & King, PLLC, Syracuse (John H. Callahan of counsel), for
+plaintiffs-respondents.
+
+Hiscock & Barclay, LLP, Rochester (Mark T. Whitford, Jr., of counsel), for
+defendant-respondent Edward J. Schmieder.
+
+Costello, Cooney & Fearon, PLLC, Camillus (Daniel R. Rose of counsel), for
+defendant-respondent Bruce C. Kershenski.
+
+
+
+Appeal from an order of the Supreme Court, Cayuga County (Thomas G. Leone,
+A.J.), entered August 30, 2012 in a personal injury action. The order, inter alia, denied
+the motion of defendant Nothnagle Drilling, Inc. for summary judgment dismissing the
+complaint and any cross claims against it.
+
+It is hereby ordered that the order so appealed from is unanimously affirmed without
+costs.
+
+Memorandum: Plaintiffs commenced this action seeking damages for personal
+injuries, loss of consortium and wrongful death resulting from a motor vehicle accident
+in which a vehicle owned by defendant Nothnagle Drilling, Inc. (NDI) and operated by
+defendant Edward J. Schmieder (Schmieder), an employee of NDI, struck motorcycles
+operated by Steven R. Markham (Steven), Sandra H. Markham (Sandra) and plaintiff
+David R. Markham (David). Steven and Sandra were killed in the accident, and David
+sustained personal injuries. According to plaintiffs, NDI is vicariously liable for
+Schmieder's negligence because Schmieder was operating the NDI-owned vehicle with
+NDI's permission. NDI subsequently moved for summary judgment dismissing the
+complaint and any cross claims against it, and Supreme Court denied the motion. We
+affirm.
+
+" '[I]t is well settled that Vehicle and Traffic Law § 388 (1) creates a strong
+presumption that the driver of a vehicle is operating it with the owner's permission and
+consent, express or implied, and that presumption continues until rebutted by substantial
+evidence to the contrary' " (Margolis v Volkswagen of Am., Inc., 77 AD3d 1317, 1320
+[2010]; see Leotta v Plessinger, 8 NY2d 449, 461 [1960], rearg denied 9
+NY2d 688 [1961], mot to amend remittitur granted 9 NY2d 686 [1961]). As the
+undisputed owner of the subject vehicle, NDI is presumed to have granted permission to
+Schmieder to have been operating it at the time of the accident (see Murdza v
+Zimmerman, 99 NY2d 375, 380 [2003]; Leotta, 8 NY2d at 461). As the
+movant, it was NDI's obligation to rebut the presumption of permission with substantial
+evidence (see Matter of
+Fiduciary Ins. Co. of Am. [Jackson], 99 AD3d 625, 625 [2012];
+Margolis, 77 AD3d at 1320; Power v Hodge, 37 AD3d 1078, 1078-1079 [2007];
+Guerrieri v Gray, 203 AD2d 324, 325 [1994]), i.e., "evidence which reasonably
+sustains the proposition that permission was not given or was subject to a restriction
+. . . with which the operator did not comply" (1A NY PJI3d 1:63 at 85
+[2014]; see Orlando v Pioneer Barber Towel Supply Co., 239 NY 342, 345
+[1925]). "[S]ummary judgment for the owner will not inexorably follow
+whenever the owner and driver disavow consent" but, rather, "whether summary
+judgment is warranted depends on the strength and plausibility of the disavowals, and
+whether they leave room for doubts that are best left for the jury" to resolve (Country-Wide Ins. Co. v National
+R.R. Passenger Corp., 6 NY3d 172, 179 [2006]). In other words, "[w]here the
+disavowals are arguably suspect, as where there is evidence suggesting implausibility,
+collusion or implied permission, the issue of consent should go to a jury" on the theory
+that the determination of the weight to be accorded the disavowals lies with the trier of
+fact (id. at 178; see St. Andrassy v Mooney, 262 NY 368, 372 [1933]).
+
+Here, we conclude that NDI failed to meet its initial burden on its motion inasmuch
+as there is an issue of fact whether the disavowals of permission by Schmieder and NDI's
+primary owner are "arguably suspect" (Country-Wide Ins. Co., 6 NY3d at 178;
+see Marino v City of New
+York, 95 AD3d 840, 841 [2012]; Power, 37 AD3d at 1078-1079;
+Stewart v Town of Hempstead, 204 AD2d 431, 431 [1994]). Although both
+Schmieder and NDI's primary owner testified at their depositions that Schmieder was
+using the subject vehicle for personal travel without the permission of NDI at the time of
+the accident, the record is unclear whether permission for such personal use was in fact
+required from NDI's primary owner. Indeed, the record establishes that any limitations on
+the use of the subject vehicle were never communicated to Schmieder in writing, and
+neither Schmieder nor NDI's primary owner testified at their depositions with specificity
+whether or how any such limitations were verbally communicated to Schmieder.
+Moreover, there is no evidence whether or how any rule concerning the use of vehicles
+for personal travel was communicated to the 8 or 10 other NDI employees who were
+assigned NDI-owned vehicles prior to the accident. In addition, Schmieder's access to the
+subject vehicle was unfettered and, although NDI paid for fuel for the vehicle, it did not
+require Schmieder to record the vehicle's mileage. The record also establishes that
+Schmieder could not recall NDI's primary owner ever denying permission to any NDI
+employee to use an NDI-owned vehicle for personal travel, and it further establishes that
+other NDI employees used their NDI-owned vehicles for personal travel, and that
+Schmieder had used the subject vehicle for both local and out-of-town personal travel
+prior to the accident. Present—Fahey, J.P., Lindley, Sconiers and Whalen, JJ.
+
+

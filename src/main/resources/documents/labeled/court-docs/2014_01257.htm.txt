@@ -1,0 +1,82 @@
+
+	People v Ernst & Young LLP
+	2014 NY Slip Op 01257 [114 AD3d 569]
+	February 20, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York, by Andrew M.
+Cuomo, Attorney General of the State of New York, Appellant,
+v
+Ernst &
+Young LLP, Respondent.
+
+
+—[*1]
+
+Eric T. Schneiderman, Attorney General, New York (Richard Dearing of
+counsel), for appellant.
+
+Latham & Watkins LLP, New York (Miles N. Ruthberg of counsel), for
+respondent.
+
+
+
+Order, Supreme Court, New York County (Jeffrey K. Oing, J.), entered on or about
+January 10, 2013, which granted defendant's motion to dismiss the claim for
+disgorgement of fees received from Lehman Brothers Holdings Inc., unanimously
+reversed, on the law, without costs, and the motion denied.
+
+In this action by the Attorney General brought under New York's Executive Law and
+Martin Act (General Business Law art 23-A), it was error to dismiss a claim for the
+equitable remedy of disgorgement at the pleading stage (see Matter of People v Applied
+Card Sys., Inc., 11 NY3d 105, 125-126 [2008], cert denied sub nom. Cross
+Country Bank, Inc. v New York, 555 US 1136 [2009]).
+
+Defendant argues that the remedies provided in both General Business Law §
+353 (the Martin Act) and Executive Law § 63 do not include disgorgement.
+Rather, the statutes specify that the remedies available are injunctive relief, restitution
+and cancellation of a business certificate. It also avers that restitution may be obtained in
+a class action settlement that would be duplicative of remedies sought here.
+
+However, where, as here, there is a claim based on fraudulent activity, disgorgement
+may be available as an equitable remedy, notwithstanding the absence of loss to
+individuals or independent claims for restitution (see Applied Card Sys., 11
+NY3d at 125-126). Disgorgement is distinct from the remedy of restitution because it
+focuses on the gain to the wrongdoer as opposed to the loss to the victim (id. at
+125). Thus, disgorgement aims to deter wrongdoing by preventing the wrongdoer from
+retaining ill-gotten gains from fraudulent conduct. Accordingly, the remedy of
+disgorgement does not require a showing or allegation of direct losses to consumers or
+the public; the source of the ill-gotten gains is "immaterial" (see Securities & Exch.
+Commn. v Commonwealth Chem. Sec., Inc., 574 F2d 90, 102 [2d Cir 1978]; see
+also Excelsior 57th Corp. v Lerner, 160 AD2d 407, 408-409 [1st Dept 1990] [in a
+fiduciary duty context]).
+
+Therefore, while the Attorney General does not allege direct injury to the public or
+consumers as a result of defendant's alleged collusion with Lehman Brothers in
+committing fraud, the equitable remedy of disgorgement is available in this action, and it
+was premature to categorically preclude it at the pleading stage.
+[*2]
+Nor would ordering disgorgement be tantamount
+to an impermissible penalty, since the "wrongdoer who is deprived of an illicit gain is
+ideally left in the position he would have occupied had there been no misconduct"
+(Restatement [Third] of Restitution and Unjust Enrichment § 51, Comment
+k; see also Matter of
+Blumenthal [Kingsford], 32 AD3d 767, 768 [1st Dept 2006], lv denied
+7 NY3d 718 [2006]).
+
+We further note that maintaining disgorgement as a remedy within the court's
+equitable powers is crucial, particularly where the Attorney General may be precluded
+from seeking restitution and damages if defendant settled the private class action against
+it (see Applied Card Sys., 11 NY3d at 125-126). Concur—Sweeny, J.P.,
+Andrias, Freedman, Richter and Clark, JJ.
+
+
+

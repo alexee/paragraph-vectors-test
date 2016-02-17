@@ -1,0 +1,135 @@
+
+	Matter of Colorado Energy Mgt., LLC v Lea Power Partners,
+LLC
+	2014 NY Slip Op 01253 [114 AD3d 561]
+	February 20, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of Colorado Energy Management, LLC,
+Respondent, and Centennial Energy Holdings, Inc.,
+Intervenor-Respondent,
+v
+Lea Power Partners, LLC,
+Appellant.
+
+
+—[*1]
+
+Paul Hastings, LLP, Washington, DC (Charles A. Patrizia of the bars of the
+District of Columbia and the State of Maryland, admitted pro hac vice, of counsel), for
+appellant.
+
+Cooley, LLP, New York (Alan Levine of counsel), for respondents.
+
+
+
+Judgment, Supreme Court, New York County (Charles E. Ramos, J.), entered July 2,
+2013, awarding petitioner Colorado Energy Management, LLC (CEM) $1,000,000
+pursuant to an order, same court and Justice, entered April 11, 2013, which granted
+petitioner's motion to confirm the portion of an arbitration award dated January 13, 2012,
+awarding CEM $1,000,000 and to vacate the portion awarding respondent Lea Power
+Partners, LLC (LPP) damages in the amount of $22,043,302, unanimously affirmed, with
+costs. Appeal from the aforesaid order, unanimously dismissed, without costs, as
+subsumed in the appeal from the judgment.
+
+LPP demanded arbitration through the American Arbitration Association (AAA)
+pursuant to an arbitration clause in an Engineering, Procurement and Construction (EPC)
+Agreement between itself and CEM. In the demand, LPP alleged that CEM committed
+gross negligence consisting of nine alleged breaches of the EPC Agreement. In the
+accompanying AAA notice of arbitration, LPP described the dispute by stating that
+"CEM failed to perform in a manner of a qualified and experienced EPC Contractor, and
+its failures were so significant as to be gross negligence resulting in the project
+construction costs increasing from $272,000,000 to $415,000,000 currently." The
+damages sought by LPP consisted of cost overruns and consequential damages. CEM
+counterclaimed for a cost bonus incentive fee of $12,596,173 allegedly due under the
+EPC Agreement, a $1 million development fee that was allegedly due under a separate
+Joint Development Agreement (JDA), and defamation.
+
+CEM moved the AAA for a dismissal of LPP's claim on the ground that, absent gross
+negligence, LPP's claims for damages were barred by the provisions of the EPC
+Agreement. CEM cited paragraph 4.4.3 of the agreement which provides that CEM's
+obligation to share responsibility for overruns in the manner prescribed by articles 4.3
+and 4.4 was to be CEM's only obligation and LPP's exclusive remedy for a contract sum
+that exceeds the target price set forth [*2]in the
+agreement. CEM also relied upon paragraph 12.7 of the agreement which capped CEM's
+total liability at $22,043,302, except for liability arising out of gross negligence and other
+exceptions that are not relevant to this appeal. Accordingly, CEM argued before the
+AAA that, in the absence of gross negligence, its liability under the EPC Agreement
+should be limited to the loss of $9,447,129 in incentive fees that it had already forfeited
+and the additional forfeiture of the $12,596,173 cost bonus incentive fee that was the
+subject of its first counterclaim.
+
+LPP opposed the motion to dismiss its claims, arguing at the end of its memorandum
+of law: "Assuming the veracity of these factual allegations, as is required, the Arbitrator
+can only conclude that LPP's claims are sufficient to fit within a cognizable legal theory
+of gross negligence. Given CEM's experience and the assurances provided to LPP about
+its capabilities, CEM's failures meet the defined standard of gross negligence." By order
+dated May 11, 2010, Steven A. Arbittier, the originally assigned arbitrator, denied CEM's
+motion to dismiss LPP's claims as well as LPP's motion to dismiss CEM's counterclaims.
+In denying CEM's motion, Mr. Arbittier reasoned: "The allegations in LPP's demand for
+arbitration, which must be taken as true at this stage of the case, state a claim for gross
+negligence which, if proven, could form the basis[FN*] for the recovery of causally related
+damages notwithstanding the limitations on liability and damages in the EPC contract"
+(emphasis added). Mr. Arbittier also determined that CEM's claim for a $1 million
+development fee was arbitrable under paragraph 11.1.1 of the EPC Agreement because it
+involved the parties and arose out of a related contract. It is undisputed that Mr.
+Arbittier's decision was never vacated and has not been challenged in the court below.
+
+Mr. Arbittier passed away in May 2011 and the arbitration hearing was conducted in
+September of that year before Peter B. Bradford, the successor arbitrator. In rendering his
+reasoned award, Mr. Bradford concluded that LPP's cost overruns were not the result of
+gross negligence on the part of CEM. Mr. Bradford, however, concluded that CEM
+"breached the EPC agreement causing cost overrun damages well beyond the $22 million
+cap." Accordingly, Mr. Bradford awarded LPP $22,043,032 and awarded CEM
+$1,000,000 on its counterclaim under the JDA. The awards were recited to be in full
+settlement of the remaining claims and counterclaims. The IAS court granted CEM's
+petition by vacating the $22,043,032 award to LPP and confirming the $1 million award
+to CEM. We affirm.
+
+Under the Federal Arbitration Act (9 USC § 1 et seq.), which the
+parties invoke, an arbitration award may be vacated where the arbitrators exceeded their
+powers (Fahnestock & [*3]Co., Inc. v Waltman,
+935 F2d 512, 515 [2d Cir 1991], cert denied 502 US 942 [1991]). Accordingly,
+where arbitrators rule on issues not presented to them by the parties, they have exceeded
+their authority and the award must be vacated (id.). The arbitration demand, the
+pre hearing motion practice and Mr. Arbittier's decision make it clear that gross
+negligence was the only claim by LPP that was presented to Mr. Bradford for a hearing.
+Therefore, Mr. Bradford exceeded his authority by finding that CEM breached the EPC
+Agreement and awarding damages for cost overruns. Notwithstanding that we reject
+CEM's arguments that Mr. Bradford's determination was in manifest disregard of the law
+or that it was affected by an evident material miscalculation, we find that the award for
+cost overruns was properly vacated.
+
+LPP's argument that Mr. Bradford lacked jurisdiction over CEM's claim for the
+development fee under the JDA is unpreserved as it was not made before the court
+below. In any event, Mr. Arbittier properly found the claim to be arbitrable because it
+involved the parties and arose under a contract that was related to the EPC Agreement.
+LPP's argument that CEM lacked standing to maintain this proceeding was rendered
+moot by the unopposed intervention of its guarantor, Centennial Energy Holding, Inc.
+(CEHI). As LPP conceded below, CEHI had standing to seek relief from the arbitration
+award. Concur—Mazzarelli, J.P., Saxe, Moskowitz, DeGrasse and Gische, JJ.
+
+
+Footnotes
+
+
+
+
+Footnote *: We take the decision's
+statement that gross negligence, if proven, could form "the basis" rather than "a basis" for
+recovery as a clear indication that Mr. Arbittier found gross negligence to be the only
+theory upon which LPP would have been entitled to an award in arbitration (cf.
+Argentina v Emery World Wide Delivery Corp., 93 NY2d 554, 560 n 2 [1999]; Fox v Tedesco, 15 AD3d
+538, 539 [2005]).
+
+
+
+

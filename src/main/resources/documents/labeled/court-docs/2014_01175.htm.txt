@@ -1,0 +1,136 @@
+
+	Matter of State of New York v Adrien S.
+	2014 NY Slip Op 01175 [114 AD3d 862]
+	February 19, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	In the Matter of State of New York,
+Respondent,
+v
+Adrien S., Appellant.
+
+
+—[*1]
+
+
+Mental Hygiene Legal Service, Mineola, N.Y. (Lesley DeLia, Dennis B. Feld,
+and Timothy M. Riselvato of counsel), for appellant.
+
+Eric T. Schneiderman, Attorney General, New York, N.Y. (Steven C. Wu, Patrick J.
+Walsh, and Judith Vale of counsel), for respondent.
+
+
+
+In a proceeding pursuant to Mental Hygiene Law article 10, Adrien S., an alleged sex
+offender requiring civil management, appeals from an order of the Supreme Court,
+Nassau County (Calabrese, J.), entered July 11, 2012, which, upon a finding, made after
+a jury trial, that he suffers from a mental abnormality as defined in Mental Hygiene Law
+§ 10.03 (i), and upon a determination, made after a dispositional hearing, that he
+currently is a dangerous sex offender requiring civil confinement, in effect, granted the
+petition and directed that he be committed to a secure treatment facility for care,
+treatment, and control until such time as he no longer requires confinement.
+
+Ordered that the order is reversed, on the law and the facts, without costs or
+disbursements, the finding of mental abnormality is set aside, and the matter is remitted
+to the Supreme Court, Nassau County, for a new trial on the issue of mental abnormality,
+and, if necessary, a new dispositional hearing.
+
+In 2002, the appellant was convicted, upon his plea of guilty, of burglary in the
+second degree, based upon an incident in which, in addition to unlawfully breaking into a
+woman's home and stealing a knife, he also allegedly rubbed or touched that woman's
+vagina and buttocks with a hard object. In September 2008, the State commenced this
+proceeding under article 10 of the Mental Hygiene Law, alleging that the appellant was a
+sex offender requiring civil management. The Supreme Court subsequently conducted a
+jury trial on the issues of whether the acts constituting burglary in the second degree, a
+designated felony pursuant to Mental Hygiene Law § 10.03 (f), were sexually
+motivated and whether the appellant suffers from a mental abnormality (see
+Mental Hygiene Law § 10.03 [i]). The jury unanimously found that the
+commission of the designated felony was sexually motivated and that the appellant
+suffers from a mental abnormality. On appeal, the appellant contends, inter alia, that the
+Supreme Court committed reversible error by failing to provide, upon his counsel's
+request, further instruction on the meaning of the term "sex offense" as part of the jury
+charge on mental abnormality.
+
+In the trial phase of a Mental Hygiene Law article 10 proceeding, the jury is required
+to make a finding of whether the subject of the proceeding suffers from a "mental
+abnormality." "Mental abnormality" is defined as:[*2]"a
+congenital or acquired condition, disease or disorder that affects the emotional, cognitive,
+or volitional capacity of a person in a manner that predisposes him or her to the
+commission of conduct constituting a sex offense and that results in that person having
+serious difficulty in controlling such conduct" (Mental Hygiene Law § 10.03 [i]).
+The term "sex offense," as set forth in the definition of the term "mental abnormality," is
+also a specifically defined term under Mental Hygiene Law article 10. In this regard, the
+definition of "sex offense" is limited to an act or acts constituting any felony defined in
+Penal Law article 130 (crimes involving rape, and nonconsensual oral and anal sexual
+contact against children and adults), patronizing a prostitute in the first degree (Penal
+Law § 230.06), incest in the first and second degrees (Penal Law §§
+255.27, 255.26), a felony attempt or conspiracy to commit any of the foregoing offenses,
+or a sexually motivated designated felony committed prior to April 13, 2007 (see
+Mental Hygiene Law § 10.03 [p]). Significantly, the term "sex offense," as
+employed in the statute, does not have a common or colloquial meaning, and does not
+encompass all sexually illegal misconduct. Rather, "it is an explicitly defined term which
+relates to the specific offenses listed in the definition and no other offenses" (Matter of State of New York v
+P.H., 22 Misc 3d 689, 706 [Sup Ct, NY County 2008]). Consequently, the
+finder of fact is required, inter alia, to determine whether the subject of the proceeding
+has a condition, disease, or disorder that predisposes him or her to commit conduct that
+would constitute a "sex offense" as defined under Mental Hygiene Law article 10.
+
+Although the Pattern Jury Instructions (see PJI 8:8) omit the statutory
+definition of "sex offense" from the instructions with respect to the term "mental
+abnormality," the PJI advises: "there may be cases in which the evidence of the
+[subject's] predisposition to commit sex offenses includes examples of sexual misconduct
+not rising to the level of the felonies enumerated in § 10.03 (p) (e.g., third-degree
+incest, see Penal Law § 130.25 [sic], or forcible touching, see id § 130.52).
+While such evidence may be relevant, it also may create a risk that the jury will infer,
+mistakenly, that the [subject of the proceeding] has a 'mental abnormality' solely because
+[he or she] has a condition that creates a predisposition to engage in the non-enumerated
+sexual misconduct. Where such a risk exists, the court should make clear that a finding of
+'mental abnormality' can be made only if the evidence establishes that the [subject of the
+proceeding] has a condition that predisposes him or her to commit one or more of the
+serious 'sex offenses' delineated in § 10.03 (p)" (NY PJI 8:8, Comment, Caveat 3).
+
+Here, the State's evidence consisted predominantly of instances of the appellant's
+sexually inappropriate acts that would not constitute sex offenses under Mental Hygiene
+Law article 10. Specifically, the State's expert testified at length regarding instances in
+which the appellant masturbated while he could be observed by prison officers or by staff
+members while placed at a secure treatment facility, and his propensity to continue to act
+in a sexually improper manner. The appellant's conduct, however, at most, might
+constitute the crime of public lewdness (Penal Law § 245.00), a class B
+misdemeanor, which is not one of the sex offenses enumerated under Mental Hygiene
+Law article 10. In light of the particular circumstances presented in this proceeding, the
+Supreme Court should have granted the appellant's request to issue an expanded charge
+to the jury containing supplemental information as to the specific statutory meaning of
+"sex offense," so that the jury could make a proper evaluation of the evidence.
+
+Contrary to the State's contention, the omission from the charge was not harmless. In
+this regard, the jury note sent to the Supreme Court during deliberations indicates a
+certain level of confusion (see
+generally People v Medina, 18 NY3d 98, 105-106 [2011]). Moreover, the
+Supreme Court's failure to either provide the statutory definition of "sex offense" under
+Mental Hygiene Law [*3]article 10 or to inform the jury
+that there is a distinction between a predisposition to commit a "sex offense" and a
+predisposition to commit nonenumerated acts of sexual misconduct could have misled
+the jury into making a finding of mental abnormality, based solely upon the evidence of
+the appellant's predisposition to commit any improper sexual conduct. Consequently, a
+new trial is required (see generally People v Blacknall, 63 NY2d 912, 913
+[1984]; Spells v Foley, 84 AD2d 786, 786-787 [1981]).
+
+Contrary to the appellant's contention, he was not entitled to a jury instruction that no
+adverse inference could be drawn from the fact that he did not testify (see CPL
+300.10 [2]), as Mental Hygiene Law article 10 proceedings are of a civil rather than a
+criminal nature (see People v
+Harnett, 16 NY3d 200, 206 [2011]; Matter of State of New York v Campany, 77 AD3d 92, 98
+[2010]).
+
+In light of our determination, we need not address the appellant's remaining
+contentions. Dillon, J.P., Balkin, Chambers and Cohen, JJ., concur.
+
+

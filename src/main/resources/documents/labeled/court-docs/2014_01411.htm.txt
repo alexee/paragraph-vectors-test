@@ -1,0 +1,186 @@
+
+	Kristal R. v Nichter
+	2014 NY Slip Op 01411 [115 AD3d 409]
+	March 4, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 30, 2014
+
+
+
+
+
+
+	Kristal R., an Infant, by Jesenia D., Her Mother and Natural
+Guardian, et al., Respondents,
+v
+Charles Nichter, M.D., et al.,
+Appellants.
+
+
+—[*1]
+
+
+Aaronson, Rappaport, Feinstein & Deutsch, LLP, New York (Elliott J. Zucker
+of counsel), for Charles Nichter, M.D., Taiye Apoeso, M.D., Ram Kairam, M.D.,
+Jayaraju Raju, M.D., Bronx Lebanon Hospital Center and Montefiore Medical Center,
+appellants
+
+Michael A. Cardozo, Corporation Counsel, New York (Susan Paulson of counsel),
+for New York City Health and Hospital Corporation, appellant.
+
+Scaffidi & Associates, New York (Anthony J. Scaffidi of counsel), for
+respondents.
+
+
+
+Order, Supreme Court, Bronx County (Douglas E. McKeon, J.), entered February 21,
+2012, which, to the extent appealed from as limited by the briefs, denied the motions of
+defendants New York City Health and Hospitals Corporation (Jacobi Hospital) and
+Montefiore Medical Center (Montefiore) for summary judgment dismissing the
+complaint, unanimously reversed, on the law, without costs, and the motion granted. The
+Clerk is directed to enter judgment accordingly.
+
+On May 17, 2001, the infant plaintiff, then five years old, suffered a generalized
+tonic-clonic seizure and was admitted to Lincoln Medical and Mental Health Center. On
+admission, she was no longer actively seizing, but had a low grade fever and complained
+of a headache. All diagnostic tests, including electroencephalography (EEG), lumbar
+puncture, MRI and CT scan, were normal or negative. The attending pediatric
+neurologist ruled out bacterial meningitis, brain infection, and mycoplasma pneumonia;
+her assessment was "seizure associated with febrile illness most likely a complex febrile
+seizure." Plaintiff was administered Ativan to control seizure activity, and intravenous
+antibiotics, and returned to her baseline mental status. She was discharged on May 21,
+2001, with a prescription for Diastat, which is used to treat immediate seizures but does
+not prevent future seizures or a seizure disorder from progressing.[FN1]
+
+
+On June 4, 2001, plaintiff experienced a generalized seizure and was taken by
+ambulance to the emergency room at defendant Bronx Lebanon Hospital, where she
+continued to seize. [*2]Ativan was administered, and
+plaintiff returned to her baseline mental status. Bronx Lebanon did not repeat the EEG,
+lumbar puncture, or CT scan performed by Lincoln. Plaintiff was discharged on June 5
+with a working diagnosis of complex febrile seizure.[FN2]
+
+
+On June 7, 2001, plaintiff experienced another seizure and was taken to defendant
+Jacobi Hospital (Jacobi), where she continued to have intermittent focal and generalized
+motor seizures. She was afebrile, but complained of headaches.
+
+On admission, Ativan was prescribed to control the seizures and Acyclovir for
+possible herpes simplex virus. Plaintiff was seizure-free overnight, with no reports of
+significant abnormal behavior. However, between June 9 and 10, she experienced
+multiple seizures and had episodes of abnormal behavior. Plaintiff was treated with
+Tegretol, Phospenytoin and Ativan, and the seizures were suppressed. Differential
+diagnoses of status epilepticus and viral encephalitis were considered.[FN3]
+
+ On June 12, plaintiff experienced multiple seizures and abnormal behavior, and was
+transferred to defendant Montefiore.
+
+On June 13, the infant plaintiff was moved to Montefiore's epilepsy unit for video
+EEG monitoring for evaluation of seizures and possible status epilepticus. After review
+of the EEG monitoring, the attending pediatric neurologist's assessment was: "Abnormal
+behavioral manifestations. Rule out frequent seizures status . . . encephalitis
+. . . collagen vascular disease . . . parainfectious
+disorder. . . . Continue Dilantin, Tegretol . . . to maximize
+seizure management."
+
+By June 18 the working diagnosis had changed to probable viral or parainfectious
+encephalopathy. On June 19, plaintiff was transferred to pediatrics. She remained on
+Tegretol and the anti-epileptic drug Dilantin to control her seizures, and was given a
+10-day course of the antibiotic Cipro.
+
+Plaintiff was discharged on July 3, 2001, on Tegretol. In the early morning hours of
+July 5, 2001, she suffered another seizure and was returned to Montefiore, where she
+remained overnight.
+
+Plaintiffs allege that Jacobi and Montefiore departed from accepted medical practices
+by failing to properly diagnose, treat and suppress the seizure disorder between June
+2001 and mid-July 2001, which caused it to progress to status epilepticus and complex
+partial status, leaving the infant plaintiff (plaintiff) neurologically impaired. Among other
+things, plaintiffs allege that with status epilepticus documented as early as June 10, it was
+a departure for Jacobi to wait two days to transfer plaintiff to Montefiore for continuous
+video EEG monitoring, which was unavailable at Jacobi, and that Montefiore failed to
+timely and appropriately administer antiseizure medications and antibiotics.
+
+Jacobi and Montefiore made prima facie showings that they did not deviate from
+accepted medical practices in treating the plaintiff's seizure disorder by submitting
+plaintiff's medical [*3]records, deposition transcripts of
+physicians who treated plaintiff, and affidavits by their medical experts (see Bacani v Rosenberg, 74
+AD3d 500 [1st Dept 2010], lv denied 15 NY3d 708 [2010]; Gargiulo v Geiss, 40 AD3d
+811 [2d Dept 2007]).
+
+Jacobi performed numerous diagnostic tests, including several MRIs & EEGs,
+multiple spinal taps, a CT scan, blood counts, blood and urine cultures, and cerebrospinal
+fluid (CSF) cultures. It administered three antiseizure medications to plaintiff,
+Phosphenytoin, Tegretol, and Ativan, and monitored their levels to ensure proper dosing.
+Jacobi's expert opined that these tests were appropriate and that the dosage of the
+anti-seizure medications was adjusted appropriately to ensure that the levels of
+medication were within therapeutic guidelines and at sufficient levels to address
+plaintiff's seizure activity. He also opined that no evidence supported a diagnosis of
+nonconvulsive seizures at Jacobi, and that the failure to use video EEG monitoring was
+not a deviation in 2001.
+
+Montefiore prescribed Tegretol for the seizures, Dilantin and Fosphenytoin for
+episodes of abnormal behavior, and Haldol for delirium. With respect to plaintiffs'
+allegations that Montefiore failed to adequately control plaintiff's seizures, Montefiore's
+expert opined that these medications were appropriate and that hospital staff
+appropriately managed plaintiff's seizure activity. He further opined that the appropriate
+workup was performed to determine the cause of the seizures, including blood tests, CSF
+tests, EEG monitoring, a lumbar puncture, and a brain MRI, and that there were no
+grounds for a claim of lack of informed consent, since a reasonable person would have
+consented to the treatment.
+
+Plaintiffs' expert's conclusory affirmation in opposition failed to raise factual issues
+whether defendants departed from accepted medical practices and, if so, whether their
+departures proximately contributed to the failure to timely diagnose and treat plaintiff's
+seizure disorder and subsequent neurological injuries (see Alvarez v Prospect
+Hosp., 68 NY2d 320 [1986]; Oestreich v Present, 50 AD3d 522 [1st Dept 2008]; Brown v Bauman, 42 AD3d
+390 [1st Dept 2007]). The expert's conclusion that plaintiff's medication
+levels at Jacobi and Montefiore were not properly adjusted was based on supposition and
+hindsight. Among other things, the expert failed to explain why the levels of medication
+prescribed were inappropriate given the clinical presentation at the time (see Matter of Joseph v City of New
+York, 74 AD3d 440 [1st Dept 2010]).
+
+Plaintiffs' expert opines that Jacobi failed to initiate an appropriate antiseizure
+medication regimen based upon the "true diagnosis of nonconvulsive status epilepticus."
+However, although plaintiff received a differential diagnosis of status epilepticus on June
+10, 2001, it is not until June 12, 2001, that her chart notes "complex partial status" and
+she was transferred to Montefiore that day. Plaintiffs' expert offered only conclusory
+assertions that plaintiff was having nonconvulsive seizures that would have been
+discovered earlier and would not have progressed to status epilepticus had Jacobi
+provided continuous EEG monitoring or transferred plaintiff to Montefiore sooner. The
+expert does not identify the actions Jacobi should have taken upon discovering the
+existence of nonconvulsive seizures when it was already [*4]monitoring plaintiff's medication levels and investigating
+the differential diagnosis of viral encephalitis (see Rodriguez v Montefiore Med. Ctr., 28 AD3d 357 [1st
+Dept 2006]). Concur—Sweeny, J.P., Renwick, Andrias, Freedman and Feinman,
+JJ.
+
+
+Footnotes
+
+
+
+
+Footnote 1: The action against New
+York City Health and Hospitals Corporation with respect to Lincoln Medical and Mental
+Health Center has been discontinued with prejudice.
+
+
+
+
+Footnote 2: Because the claims
+related to the diagnosis and treatment of encephalitis, mycoplasma pneumonia and
+mycoplasma encephalitis were dismissed on reargument, Bronx Lebanon is not pursuing
+its appeal.
+
+
+
+
+Footnote 3: Status epilepticus is a
+seizure that lasts more than 30 minutes, or multiple seizures over a 30-minute period of
+time in which the patient does not return to the baseline mental status between seizures.
+
+
+
+

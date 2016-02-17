@@ -1,0 +1,83 @@
+
+	Lifeline Funding, LLC v Ripka
+	2014 NY Slip Op 01106 [114 AD3d 507]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Lifeline Funding, LLC, Doing Business as US Claims, Inc.,
+Respondent,
+v
+Alan Ripka, Appellant.
+
+
+—[*1]
+
+
+Pollack, Pollack, Isaac & DeCicco, LLP, New York (Brian J. Isaac of counsel),
+for appellant.
+
+Howard R. Vargas, Delmar, for respondent.
+
+
+
+Judgment, Supreme Court, Bronx County (Norma Ruiz, J.), entered November 27,
+2012, awarding plaintiff the total sum of $161,896.34 after finding defendant guilty of a
+misdemeanor and liable for treble damages pursuant to Judiciary Law § 487, and
+bringing up for review an order, same court and Justice, entered August 27, 2012, which
+granted plaintiff's motion for summary judgment, and denied defendant's cross motion
+for summary judgment, unanimously modified, on the law, to the extent of reversing
+defendant's misdemeanor adjudication and vacating the award of treble damages
+pursuant to Judiciary Law § 487, and otherwise affirmed, without costs.
+
+A cause of action against a partnership for breach of contract does not lie against the
+individual partners absent an allegation that the partnership is insolvent or otherwise
+unable to pay its obligations (see United States Trust Co. of N.Y. v Bamco 18,
+183 AD2d 549, 550-551 [1st Dept 1993]). Hence, a plaintiff is required either to name
+the partnership as a party defendant, along with the individual partners, or to aver the
+insufficiency of partnership assets to satisfy the claim (id.). Here, although the
+partnership is listed as inactive by the New York Department of State, plaintiff made no
+showing that the partnership lacks sufficient funds to repay plaintiff. However, even if
+plaintiff's cause of action for breach of contract against the individual defendant was not
+properly pleaded, the remaining causes of action sufficiently allege individual
+wrongdoing pursuant to Partnership Law § 26 (c) which provides that a partner
+may be liable for wrongful conduct committed by him. Plaintiff made a prima facie
+showing of its entitlement to judgment as a matter of law with respect to its remaining
+causes of action. In opposition, defendant failed to raise an issue of fact. Although he
+raises factual arguments on appeal, we have not considered them because they were not
+raised before the motion court (see National Union Fire Ins. Co. of Pittsburgh, Pa. v Ferrell &
+Myers, Inc., 26 AD3d 191 [1st Dept 2006], lv denied 7 NY3d 705
+[2006]).
+
+This Court finds, however, that the motion court erred in finding that defendant
+violated Judiciary Law § 487. Defendant did not engage in the "extreme pattern of
+legal delinquency" [*2]required to violate the statute
+(Gonzalez v Gordon, 233 AD2d 191, 191 [1st Dept 1996], lv denied 90
+NY2d 802 [1997] [internal quotation marks omitted] [defendant attorney's disbursement
+of $39,000 in escrow funds without plaintiff's authority did not support an award of
+treble damages]; Wiggin v Gordon, 115 Misc 2d 1071, 1077 [Civil Ct, Queens
+County 1982] [defendant attorney who repeatedly told plaintiff he would pay taxes on
+the estate, never did so and then defaulted on the Judiciary Law 
+§ 487 proceedings brought against him engaged in "chronic, extreme pattern of legal
+delinquency"]). Although we do not condone defendant's actions, his conduct does not
+constitute "an extreme case" of attorney misconduct (Wiggin, 115 Misc 2d at
+1071).
+
+Defendant's attempts to assert the defenses of usury and champerty, i.e., that the
+agreement at issue contained an excessive interest rate, similarly raise factual issues that
+were neither raised before the motion court nor asserted in defendant's answer and will
+not be addressed for the first time on appeal (see CPLR 3018 [b]; National
+Union Fire Ins. Co. of Pittsburgh, Pa., 26 AD3d 191; Connecticut Natl. Bank v
+Peach Lake Plaza, 204 AD2d 909, 911 [3d Dept 1994]).
+
+We have considered the parties' remaining arguments and find them unavailing.
+Concur—Tom, J.P., Andrias, Saxe, DeGrasse and Richter, JJ.
+
+

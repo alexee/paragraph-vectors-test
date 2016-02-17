@@ -1,0 +1,76 @@
+
+	Kaleida Health v Univera Healthcare
+	2014 NY Slip Op 01035 [114 AD3d 1238]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Kaleida Health, Respondent,
+v
+Univera Healthcare,
+Respondent, and Utica Mutual Insurance Company,
+Appellant.
+
+
+—[*1]
+
+
+
+goldberg Segalla LLP, Buffalo (Paul D. McCormick of counsel), for
+defendant-appellant.
+
+Hodgson Russ LLP, Buffalo (Michelle L. Merola of counsel), for
+plaintiff-respondent.
+
+Hinman Straub P.C., Albany (James T. Potter of Counsel), for
+defendant-respondent.
+
+
+
+Appeal from a judgment of the Supreme Court, Erie County (Gerald J. Whalen, J.),
+entered August 22, 2012. The judgment, among other things, denied the motion of
+defendant Utica Mutual Insurance Company for summary judgment dismissing the
+complaint and cross claim against it.
+
+It is hereby ordered that the judgment so appealed from is unanimously affirmed
+without costs.
+
+Memorandum: Defendant Utica Mutual Insurance Company (Utica) appeals from a
+judgment denying its motion for summary judgment seeking dismissal of the complaint
+and the cross claim against it, granting the motions for summary judgment of plaintiff
+and defendant Univera Healthcare (Univera), and declaring that Utica is obligated to pay
+an outstanding hospital bill to plaintiff pursuant to Public Health Law § 2807-c (1)
+(b-2) for care that plaintiff provided to a certain patient who is now deceased. We reject
+Utica's contention that plaintiff and Univera are barred by collateral estoppel from
+asserting that Utica was obligated to pay the outstanding hospital bill as the result of a
+determination of the Workers' Compensation Board. While collateral estoppel is
+applicable to determinations of quasi-judicial administrative agencies, such as the
+Workers' Compensation Board (see Auqui v Seven Thirty One Ltd. Partnership, 22 NY3d
+246, 255 [2013]), plaintiff and Univera were not parties to and did not participate in
+the subject administrative proceeding. Although plaintiff and Univera received notice of
+the administrative proceeding, as a health care provider and private health insurer,
+respectively, they could not by virtue of such notice be compelled to participate in the
+proceeding (see Liss v Trans Auto Sys., 68 NY2d 15, 21 [1986]; see also
+Workers' Compensation Law § 25 [3] [a]). Utica's further contention that this
+action is barred because plaintiff was required to arbitrate this dispute is without merit
+because "[a]n agreement to arbitrate is not a defense to an action" (Allied Bldg.
+Inspectors Intl. Union of Operating Engrs., Local Union No. 211, AFL-CIO v Office of
+Labor Relations of City of N.Y., 45 NY2d 735, 738 [1978]), and arbitration is not
+compulsory here inasmuch as the value of the medical services provided are not in
+dispute (see Workers' Compensation Law § 13-g [1]-[3]; 12 NYCRR
+325-1.24 [d]). Finally, contrary to Utica's contention, we conclude that Supreme Court
+properly determined that Utica was responsible for the outstanding hospital bill pursuant
+to Public Health Law § 2807-c (1) (b-2) inasmuch as the subject patient's
+admission to one of plaintiff's hospitals was not a separate or new hospital admission, but
+was a continuation of that patient's earlier admission to another hospital, which was for
+treatment of a long-standing work-related injury. Present—Smith, J.P., Peradotto,
+Lindley, Sconiers and Valentino, JJ.
+
+

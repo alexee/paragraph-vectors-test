@@ -1,0 +1,102 @@
+
+	DePaul v NY Brush LLC
+	2014 NY Slip Op 01386 [114 AD3d 609]
+	February 27, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	William DePaul, Jr., et al.,
+Respondents-Appellants,
+v
+NY Brush LLC et al., Appellants-Respondents, and
+Ruttura & Sons Construction Co., Inc., Respondent/Third-Party Defendant-Respondent.
+NY Brush LLC et al., Third-Party Plaintiffs-Appellants, v Coastal Electric Construction
+Corp., Third-Party Defendant.
+
+
+[Recalled and vacated, see 120 AD3d 1046.]
+
+—[*1]
+
+
+Malapero & Prisco, LLP, New York (Frank J. Lombardo of counsel), for
+appellants-respondents/appellants.
+
+Arye Lustig & Sassower, P.C., New York (Mitchell J. Sassower of counsel), for
+respondents-appellants.
+
+Milber Makris Plousadis & Seiden, LLP, White Plains (David C. Zegarelli of
+counsel), for respondent.
+
+
+
+Order, Supreme Court, New York County (Joan M. Kenney, J.), entered January 2,
+2013, which, insofar as appealed from, denied the part of defendants Holt Construction
+Corp., Pepsi Cola Bottling Company of New York, Inc., and NY Brush LLC's
+(collectively, defendants) motion for summary judgment that sought to dismiss the Labor
+Law § 200 and common-law negligence claims as against them, granted the part of
+their motion that sought to dismiss the Labor Law § 241 (6) claim as against them,
+denied the part of their motion that sought summary judgment on their contractual
+indemnification claim against defendant/third-party defendant Ruttura & Sons
+Construction Co., Inc., and granted the part of Ruttura's motion for summary judgment
+that sought to dismiss the aforementioned contractual indemnification claim,
+unanimously modified, on the law, to deny defendants' motion as to the Labor Law
+§ 241 (6) [*2]claim insofar as it is predicated on a
+violation of Industrial Code (12 NYCRR) § 23-1.11 (a), and to deny the part of
+Ruttura's motion that sought to dismiss the contractual indemnification claim against it,
+and otherwise affirmed, without costs.
+
+Defendants, who do not dispute that plaintiff's injuries arose from a dangerous
+condition, failed to demonstrate that they did not have constructive notice of that
+dangerous condition, which was a wooden plank that plaintiff testified broke underneath
+him while he was walking across it, and thus are not entitled to summary judgment
+dismissing the Labor Law § 200 and common-law negligence claims. Plaintiff's
+photographs of the site, taken immediately after he fell, show three wooden planks lined
+up side by side but unconnected. The job superintendent and the site safety manager of
+defendant Holt, the general contractor, admitted that these photos showed planks that
+were wet and rotten, posing a hazard to any workers walking across them. These Holt
+employees denied that Holt placed the planks there, and testified that they did not see any
+dangerous condition on the site before the accident. However, they both conducted
+regular inspections of the whole site, and the site safety manager would have inspected
+the subject area about an hour before plaintiff fell. Moreover, plaintiff testified that he
+had seen planks there for three weeks preceding his accident, and the defects observed in
+the planks would tend to be longstanding. This evidence raises triable issues of fact about
+Holt's constructive notice (see
+Picaso v 345 E. 73 Owners Corp., 101 AD3d 511 [1st Dept 2012]; Burton v CW Equities, LLC,
+97 AD3d 462, 462 [1st Dept 2012]). Defendants Brush and Pepsi also failed to
+demonstrate that they neither created nor had actual or constructive notice of the
+dangerous condition that caused plaintiff's injuries, since they do not point to any
+probative evidence on these questions.
+
+Insofar as the Labor Law § 241 (6) claim is based on a violation of Industrial
+Code (12 NYCRR) § 23-1.7 (e) (1), it should be dismissed because the accident
+occurred in an open working area, the evidence that workers traversed the plank to get
+from the street to the job site notwithstanding (see Dalanna v City of New York,
+308 AD2d 400, 401 [1st Dept 2003]). However, insofar as it based on a violation of 12
+NYCRR 23-1.11 (a), the section 241 (6) claim should not be dismissed because
+defendants failed to demonstrate that the accident was not caused by unsound or
+defective lumber (see Purcell v
+Metlife Inc., 108 AD3d 431, 432-433 [1st Dept 2013]).
+
+Neither defendants nor defendant Ruttura is entitled to summary judgment on
+defendants' contractual indemnification claim against Ruttura. The subcontract between
+Holt and Ruttura broadly requires the latter to indemnify defendants for, inter alia, any
+claims arising from or in connection with Ruttura's performance of the work. The
+subcontract requires Ruttura to keep its work areas free of debris and unsafe conditions.
+The accident occurred in an area of the exterior parking lot where Ruttura, the concrete
+subcontractor, had graded the ground and reinforced it with rebar in preparation for
+pouring concrete. Thus, plaintiff's accident may be connected with Ruttura's performance
+of its work insofar as Ruttura may have failed to satisfy its contractual obligation to keep
+this area clear of debris, such as the concededly hazardous planks. However, [*3]as indicated, issues of fact exist as to the extent of
+defendants' liability for plaintiff's injuries (see Callan v Structure Tone, Inc., 52 AD3d 334, 335 [1st
+Dept 2008]). Concur—Tom, J.P., Friedman, Saxe, Richter and Clark, JJ.
+[Prior Case History: 2013 NY Slip Op 30000(U).]
+
+

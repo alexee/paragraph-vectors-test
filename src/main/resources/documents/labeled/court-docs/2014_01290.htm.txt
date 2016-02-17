@@ -1,0 +1,128 @@
+
+	Cioffi v Target Corp.
+	2014 NY Slip Op 01290 [114 AD3d 897]
+	February 26, 2014
+	Appellate Division, Second Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Peter Cioffi et al., Appellants,
+v
+Target
+Corporation et al., Defendants and Third-Party Plaintiffs-Respondents, et al., Defendant.
+Communication Technology Services, Third-Party
+Defendant-Respondent.
+
+
+—[*1]
+
+
+
+Rubin & Licatesi, P.C., Garden City, N.Y. (Sullivan Papain Block McGrath &
+Cannavo, P.C. [Brian J. Shoot and Jennifer M. Spina-Ahlfeld], of counsel), for
+appellants.
+
+Cascone & Kluepfel, LLP, Garden City, N.Y. (Michael T. Reagan of counsel), for
+defendants and third-party plaintiffs-respondents.
+
+Lewis Johs Avallone Aviles, LLP, Islandia, N.Y. (John B. Saville of counsel), for
+third-party defendant-respondent.
+
+
+
+In an action to recover damages for personal injuries, etc., the plaintiffs appeal, as
+limited by their brief, from so much of an order of the Supreme Court, Suffolk County
+(Gazzillo, J.), entered April 16, 2012, as, upon reargument, vacated the determinations in
+a prior order of the same court dated September 29, 2011, denying those branches of the
+motion of the defendants Target Corporation, Target Stores, Inc., Westbury Holding
+Company, Bailiwick Data Systems, Inc., Bailiwick Enterprises, and Bailiwick, LLC, and
+the third-party defendant's separate motion which were for summary judgment dismissing
+the Labor Law § 240 (1) cause of action insofar as asserted against those
+defendants, and thereupon granted those branches of the motions.
+
+Ordered that the order entered April 16, 2012, is reversed insofar as appealed from,
+on the law, with costs, and, upon reargument, the determinations in the prior order dated
+September 29, 2011, denying those branches of the motion of the defendants Target
+Corporation, Target Stores, Inc., Westbury Holding Company, Bailiwick Data Systems,
+Inc., Bailiwick Enterprises, and Bailiwick, LLC, and the third-party defendant's separate
+motion which were for summary judgment dismissing the Labor Law § 240 (1)
+cause of action insofar as asserted against those defendants are adhered to.
+
+On July 10, 2005, the injured plaintiff, Peter Cioffi, an employee of the third-party
+defendant, Communication Technology Services (hereinafter CTS), was performing
+work at a Target store in Nassau County as part of a larger renovation project. The
+injured plaintiff was using a scissor lift to install a new paging system inside a
+stockroom. After completing his work, the injured plaintiff removed the scissor lift from
+the stockroom. However, he realized that he left his tool pouch hanging from a pipe in
+the stockroom and went to retrieve it, using a ladder inside the [*2]stockroom that did not belong to CTS. The injured plaintiff
+testified at his deposition that he decided to use that ladder rather than the lift because he
+had already damaged the stockroom door with the lift. In addition, it took him 40 minutes
+to move the lift in and out of the stock room, and he was under pressure from his boss to
+complete his assigned work for the day. The injured plaintiff also chose not to retrieve a
+CTS ladder from a storage container outside the store because the work was going on
+overnight, and it would have taken half an hour to have a manager or security guard
+assist him in getting that ladder. While using the ladder inside the stockroom, it "kicked
+out" or "buckled" under the injured plaintiff, causing him to fall to the floor. The injured
+plaintiff, and his wife suing derivatively, commenced this action against, among others,
+Target Corporation, Target Stores, Inc., Westbury Holding Company, Bailiwick Data
+Systems, Inc., Bailiwick Enterprises, LLC, and Bailiwick, LLC (hereinafter collectively
+the Target defendants), alleging, inter alia, a violation of Labor Law § 240 (1).
+Westbury Holding Company owned the premises, and Bailiwick Data Systems, Inc.,
+Bailiwick Enterprises, LLC, and Bailiwick, LLC, collectively were the subcontractors
+that hired CTS. The Target defendants commenced a third-party action against CTS.
+
+CTS moved for summary judgment dismissing the complaint and the third-party
+complaint, and the Target defendants separately moved for summary judgment
+dismissing the complaint insofar as asserted against them. The Supreme Court, inter alia,
+denied those branches of the motions which were for summary judgment dismissing the
+Labor Law § 240 (1) cause of action insofar as asserted against the Target
+defendants, but otherwise granted the motions. CTS and the Target defendants then
+separately moved for leave to reargue those branches of their motions which were for
+summary judgment dismissing the Labor Law § 240 (1) cause of action insofar as
+asserted against the Target defendants. The Supreme Court granted the motions and,
+upon reargument, granted those branches of the motions which were for summary
+judgment dismissing the Labor Law § 240 (1) cause of action insofar as asserted
+against the Target defendants.
+
+The Supreme Court erred in, upon reargument, granting those branches of the
+motions which were for summary judgment dismissing the Labor Law § 240 (1)
+cause action insofar as asserted against the Target defendants. Although a plaintiff's
+negligent conduct in failing to use an available and adequate safety device which is the
+sole proximate cause of the accident will relieve a defendant of liability (see Robinson v East Med. Ctr.,
+LP, 6 NY3d 550, 555 [2006]; Santo v Scro, 43 AD3d 897, 898 [2007]), it cannot be said,
+as a matter of law, that the injured plaintiff was negligent in choosing to use the ladder
+inside the stockroom, since it was left to his discretion whether to use a ladder or lift
+depending on the height of the work, and the ladder was high enough for him to retrieve
+his tool pouch (cf. Robinson v East Med. Ctr., LP, 6 NY3d at 555; Montgomery v Federal Express
+Corp., 4 NY3d 805 [2005]).
+
+In addition, CTS and the Target defendants did not establish, prima facie, that the
+plaintiff was a recalcitrant worker (see Gallagher v New York Post, 14 NY3d 83, 88-89
+[2010]; Cahill v Triborough
+Bridge & Tunnel Auth., 4 NY3d 35, 39 [2004]), as they failed to eliminate all
+issues of fact, inter alia, as to whether the injured plaintiff knew that he was expected to
+use the lift or a CTS ladder, and not the ladder inside the stockroom, and whether the
+injured plaintiff had a good reason for using the ladder from which he fell (see
+Gallagher v New York Post, 14 NY3d at 89; Murray v Arts Ctr. & Theater of Schenectady, Inc., 77 AD3d
+1155, 1156 [2010]).
+
+Although the Target defendants' contention that the injured plaintiff was not engaged
+in an activity protected under Labor Law § 240 (1) is raised for the first time on
+appeal, we reach this issue, as it raises a purely legal question that appears on the face of
+the record which, had it been presented to the Supreme Court, could not have been
+avoided (see Romain v
+Grant, 60 AD3d 838, 839 [2009]). However, the contention is without merit (see Randall v Time Warner Cable,
+Inc., 81 AD3d 1149, 1150-1151 [2011]; Becker v ADN Design Corp., 51 AD3d 834, 837 [2008]).
+
+We decline the plaintiffs' invitation to search the record and award them summary
+judgment on their Labor Law § 240 (1) cause of action, as there are triable issues
+of fact, inter alia, as to whether the injured plaintiff's own conduct was the sole
+proximate cause of his injuries. Mastro, J.P., Chambers, Lott and Miller, JJ., concur.
+
+

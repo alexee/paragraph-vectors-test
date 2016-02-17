@@ -1,0 +1,111 @@
+
+	People v Birch
+	2014 NY Slip Op 01366 [114 AD3d 1117]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York, Respondent, v
+Jonathan Birch, Appellant.
+
+
+—[*1]
+
+
+Theresa M. Suozzi, Saratoga Springs, for appellant.
+
+P. David Soares, District Attorney, Albany (Vincent Stark of counsel) for
+respondent.
+
+
+
+Egan Jr., J. Appeal from an order of the Supreme Court (Breslin, J.), entered January
+23, 2012 in Albany County, which classified defendant as a risk level II sex offender
+pursuant to the Sex Offender Registration Act.
+
+In 2011, defendant waived indictment and pleaded guilty to a superior court
+information charging him with one count of rape in the third degree (see Penal
+Law § 130.25 [2]) and was sentenced to six months in jail and placed on probation
+for a period of 10 years. In anticipation of his release, the Board of Examiners of Sex
+Offenders prepared a risk assessment instrument in accordance with the Sex Offender
+Registration Act (see Correction Law art 6-C) that presumptively classified
+defendant as a risk level I sex offender. Included in the 70 points comprising defendant's
+overall score were 20 points assigned under risk factor 7 (relationship with the victim),
+which defendant contested. Following a hearing, Supreme Court upheld the points
+assigned under risk factor 7 and assigned defendant an additional 10 points under risk
+factor 12 (acceptance of responsibility). This raised defendant's overall score to 80,
+which placed him in the risk level II category, and Supreme Court found this to be an
+appropriate risk level classification. Supreme Court alternatively concluded that an
+upward departure was warranted and, for all of these reasons, classified defendant as a
+risk level II sex offender. This appeal by defendant ensued.
+
+Although Supreme Court did not issue the required written order setting forth its
+[*2]findings of fact and conclusions of law (see
+Correction Law § 168-n [3]), remittal is not required as the record is sufficiently
+developed to permit this Court to make the necessary findings (see People v Hemmes, 110
+AD3d 1387, 1388 [2013]; People v Rodriguez, 78 AD3d 1140, 1141 [2010], lv
+denied 16 NY3d 707 [2011]). The crux of defendant's argument on appeal is that the
+record does not contain clear and convincing evidence (see e.g. People v Belile, 108
+AD3d 890, 890 [2013], lv denied 22 NY3d 853 [2013]; People v McFall, 93 AD3d
+962, 963 [2012]) to support Supreme Court's decision to classify him as a risk level
+II sex offender. We agree.
+
+Insofar as is relevant here, the imposition of points under risk factor 7 required that
+defendant's crime be "directed at a stranger or a person with whom a relationship [was]
+established or promoted for the primary purpose of victimization" (Sex Offender
+Registration Act: Risk Assessment Guidelines and Commentary at 12 [2006]).
+Defendant, then 35 years old, met the 16-year-old victim while waiting tables at a local
+restaurant in November 2010; the two exchanged phone numbers and, between
+November 2010 and March 2011, communicated primarily via text messages on
+numerous occasions—often on a daily basis. Given this level of contact, it cannot
+be said that defendant was a "stranger" to the victim at the time of the underlying crime
+in March 2011 (see People v
+Pelaez, 112 AD3d 684, 685 [2013]; People v Helmer, 65 AD3d 68, 69-70 [2009]; see
+also Sex Offender Registration Act: Risk Assessment Guidelines and Commentary at
+12 [2006]; compare People v
+Tejada, 51 AD3d 472, 472 [2008]; People v Lewis, 45 AD3d 1381, 1381 [2007], lv
+denied 10 NY3d 703 [2008]). Additionally, under the particular facts of this case, we
+cannot say that the record establishes—by clear and convincing
+evidence—that defendant formed the underlying relationship for the primary
+purpose of victimization (see
+People v Johnson, 104 AD3d 1321, 1321-1322 [2013]; People v Stein, 63 AD3d
+99, 101-102 [2009]; compare People v DeDona, 102 AD3d 58, 67 [2012]; People v Washington, 91
+AD3d 1277, 1277 [2012], lv denied 19 NY3d 801 [2012]; People v Duart, 84 AD3d
+908, 909 [2011], lv dismissed 17 NY3d 916 [2011]; People v Romana, 35 AD3d
+1241, 1242 [2006], lv denied 8 NY3d 810 [2007]). Accordingly, defendant
+was improperly assessed 20 points under risk factor 7; deducting these points from the 70
+points initially assigned on the risk assessment instrument reduces defendant's overall
+score to 50 points, which presumptively classifies defendant as a risk level I sex offender.
+Even assuming that Supreme Court properly assessed defendant an additional 10 points
+under risk factor 12 (acceptance of responsibility), the resulting score (60 points) still
+would place defendant in the risk level I category. As a result, we are left to consider
+whether, as Supreme Court found, the facts of this case warrant a departure from the
+presumptive risk level classification.
+
+In this regard, the case law makes clear that "[a] departure from the presumptive risk
+level classification is warranted only where there exists an aggravating or mitigating
+factor of a kind, or to a degree, that is otherwise not adequately taken into account by the
+guidelines" (People v
+Kotzen, 100 AD3d 1162, 1162-1163 [2012], lv denied 20 NY3d 860
+[2013] [internal quotation marks and citations omitted]; see People v Wells, 101 AD3d
+1407, 1408 [2012]). Here, even assuming that the aggravating factor identified by
+Supreme Court—the age difference existing between defendant and the
+victim—was not adequately encompassed by the risk assessment instrument, we
+nonetheless determine that, under the facts of this case, an upward departure was not
+warranted, particularly given that the People did not seek an upward departure from
+defendant's presumptive classification as a risk level I sex offender and, more
+importantly, the absence of record evidence to support defendant's classification as a risk
+level II sex offender (cf. People v Wells, 101 AD3d at 1408-1409).
+
+Lahtinen, J.P., Stein and McCarthy, JJ., concur. Ordered that the order is reversed, on
+the law, without costs, and defendant is classified as a risk level I sex offender under the
+Sex Offender Registration Act.
+
+

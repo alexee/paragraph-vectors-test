@@ -1,0 +1,70 @@
+
+	Walton v Strong Mem. Hosp.
+	2014 NY Slip Op 01084 [114 AD3d 1289]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Adam L. Walton, Appellant,
+v
+Strong Memorial
+Hospital et al., Respondents, et al., Defendants. (Appeal No.
+2.)
+
+
+—[*1]
+
+
+Brown Chiari LLP, Lancaster, Magavern Magavern Grimm LLP, Buffalo
+(Edward J. Markarian of counsel), for plaintiff-appellant.
+
+Martin Clearwater & Bell LLP, New York City (Barbara D. Goldberg of counsel),
+for defendants-respondents.
+
+
+
+Appeal from a judgment of the Supreme Court, Erie County (John M. Curran, J.),
+entered December 5, 2012. The judgment dismissed all claims against
+defendants-respondents with prejudice.
+
+It is hereby ordered that the judgment so appealed from is unanimously affirmed
+without costs.
+
+Memorandum: Plaintiff commenced this medical malpractice action seeking damages
+for injuries he sustained that allegedly resulted from defendants' failure to remove a
+polyvinyl catheter from his heart after surgery. Plaintiff underwent heart surgery when he
+was three years old and, during the surgery, polyvinyl catheters were placed inside
+plaintiff's heart to record atrial pressure. Three days later, a follow-up procedure was
+performed to remove the catheters. A nursing note indicated that a catheter "possibly
+broke off with a portion remaining in [patient]." In December 2008, when plaintiff was
+25 years old, an echocardiogram showed a "linear density" inside plaintiff's heart. During
+a subsequent surgery, a 13-centimeter loop of plastic tubing was removed from plaintiff's
+heart.
+
+We conclude that Supreme Court properly granted the motion of
+defendants-respondents seeking dismissal of the complaint as time-barred, but our
+reasoning differs from that of the court. The issue before us is the applicability of the
+foreign object exception to the medical malpractice statute of limitations (see
+CPLR 214-a). In granting the motion, the court determined that the polyvinyl
+catheter was not a fixation device, but that the catheter did not fit within the legal
+definition of a foreign object. We, however, conclude that the polyvinyl catheter was a
+fixation device. We therefore reject plaintiff's contention that the polyvinyl catheter was
+not a fixation device and therefore must be a foreign object within the meaning of CPLR
+214-a. Fixation devices are "placed in the patient with the intention that they will remain
+to serve some continuing treatment purpose" (Rockefeller v Moront, 81 NY2d
+560, 564 [1993]), while foreign objects are "negligently left in the patient's body without
+any intended continuing treatment purpose" (LaBarbera v New York Eye & Ear
+Infirmary, 91 NY2d 207, 212 [1998] [internal quotation marks and emphasis
+omitted]). The polyvinyl catheter here was a fixation device and was not a foreign object
+because it was intentionally placed inside plaintiff's body to monitor atrial pressure for a
+few days after the surgery, i.e., it was placed for a continuing treatment purpose.
+Present—Centra, J.P., Peradotto, Lindley, Sconiers and Whalen, JJ.
+
+

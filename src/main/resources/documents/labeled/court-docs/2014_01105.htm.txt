@@ -1,0 +1,106 @@
+
+	Wyle Inc. v ITT Corp.
+	2014 NY Slip Op 01105 [114 AD3d 505]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Wyle Inc. et al., Appellants,
+v
+ITT Corp. et al.,
+Respondents.
+
+
+—[*1]
+
+
+Morrison Cohen LLP, New York (Donald H. Chase of counsel), for appellants.
+
+Venable LLP, New York (Michael Schatzow of counsel), for respondents.
+
+
+
+Order, Supreme Court, New York County (Charles E. Ramos, J.), entered November
+14, 2012, which granted defendants' motion to dismiss the complaint, unanimously
+reversed, on the law, without costs, and the motion denied.
+
+The issue here is whether the allegations in the complaint, when viewed in the light
+most favorable to plaintiffs, state a cause of action for breach of contract (see Arnav
+Indus., Inc. Retirement Trust v Brown, Raysman, Millstein, Felder & Steiner, 96
+NY2d 300, 303 [2001]). We find that a claim is stated.
+
+This lawsuit arises from the sale by defendant EDO Corporation of the stock of
+EDO's subsidiary, nonparty CAS, Inc., to plaintiff Wyle Services Corporation. The
+complaint alleges the following: CAS contracts with federal agencies to provide
+engineering, scientific, and technical services. Most of the company's revenue is derived
+from work it bills pursuant to a negotiated service contract with the General Service
+Administration (GSA), which sets forth a "Professional Engineering Services" (PES)
+schedule listing the specific rates that CAS can charge agencies for various work.
+
+In early 2010, defendants put CAS up for sale. At the same time, the term of CAS's
+contract to provide government services, including the PES schedule, was due to expire.
+In March 2010, the GSA's Office of the Inspector General (OIG) notified CAS in writing
+that, while it was considering extending the term of the service contract, the OIG would
+first exercise its contractual right to audit the "pricing policies and practices" reflected in
+the PES schedule, and that a change to the PES schedule rates might result.
+
+The parties executed a stock purchase agreement on August 7, 2010. Under the
+agreement, EDO and CAS submitted a "Company Disclosure Schedule" that they
+represented and warranted to Wyle set forth, among other things, each government
+contract to which CAS was a party that the company knew was being audited by a
+governmental authority. Although the OIG's audit of the PES schedule was still under
+way when the agreement was executed, EDO and CAS omitted any mention of that audit
+on the Company Disclosure Schedule.
+
+In March 2011, the OIG completed its audit, and as a result, GSA reduced many of
+the rates that CAS could charge under the PES schedule. In April 2011, Wyle demanded
+compensation for CAS's reduced profitability under article VIII of the agreement, which
+is [*2]headed, "SURVIVAL OF REPRESENTATIONS
+AND WARRANTIES; INDEMNIFICATION." Article VIII states that Wyle is entitled
+to "indemnification" for "Losses" arising from the selling parties' breach of their
+representations and warranties. Plaintiffs claim that, if they had known about the OIG
+audit, Wyle would have paid less for CAS because the GSA's audit of a government
+contractor's schedule "inevitably leads to reductions, often substantial reductions, in the
+rates a contractor can charge for future government work." Although Wyle informally
+sought indemnification from defendants in April 2011, it did not put its demand in
+writing until it sent two letters in June and September 2011. In December 2011, after
+defendants refused to compensate Wyle, plaintiffs commenced this action asserting a
+single claim for breach of contract.
+
+The motion court granted defendants' motion to dismiss on the ground that Wyle
+waited until some months after OIG had issued the audit before sending the letters.
+Wyle's delay, the court found, breached its contractual obligation under article VIII to
+promptly notify defendants of its indemnification claim in writing. According to the
+court, the OIG audit constituted a "Third Party Claim," defined as a "claim, action, suit,
+proceeding or demand" brought by a person who is not a party to the agreement against
+CAS's buyer or seller. The agreement precludes indemnification of a third-party claim if
+the prospective indemnitee failed to promptly notify the indemnitor of the claim in
+writing and the late notice materially prejudiced the indemnitee. Further, under the
+agreement, prejudice is presumed if the third-party claim is settled before the indemnitee
+was notified. The motion court found that defendants were prejudiced by Wyle's late
+notice because it deprived them of the opportunity to negotiate with GAS about the OIG
+audit findings and the new PES schedule rates.
+
+Without reaching the issue whether the OIG audit constitutes a third-party claim
+within the meaning of the agreement, we find that the complaint states a breach of
+contract because article VIII excuses late notice by providing that "no limitation or
+condition of liability provided for in this Article VIII shall apply in the event of
+. . . intentional misrepresentation." The factual allegations set forth in the
+complaint effectively claim that defendants deliberately kept Wyle from learning about
+the audit before the sale, which constitutes intentional misrepresentation. Plaintiffs assert
+that, eight days before the agreement was executed, CAS's head of finance alerted a
+lawyer who was assembling the agreement's disclosure schedules for defendants that the
+current draft did not reference the OIG audit but needed to do so. The CAS officer also
+sent the lawyer a proposed schedule that included the audit. According to plaintiffs, the
+CAS officer's concerns were ignored. Plaintiffs also submitted documentary evidence of
+the exchange between the CAS officer and the lawyer. Concur—Gonzalez, P.J.,
+Friedman, Renwick, Freedman and Richter, JJ.
+
+

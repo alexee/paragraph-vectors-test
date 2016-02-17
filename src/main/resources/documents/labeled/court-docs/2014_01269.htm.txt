@@ -1,0 +1,92 @@
+
+	71 Clinton St. Apts. LLC v 71 Clinton Inc.
+	2014 NY Slip Op 01269 [114 AD3d 583]
+	February 25, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	71 Clinton St. Apts. LLC, as Assignee of People's United
+Bank, as Successor by Merger to Bank of Smithtown, Appellant,
+v
+71 Clinton
+Inc. et al., Respondents, et al., Defendants.
+
+
+—[*1]
+
+
+Pryor Cashman LLP, New York (Todd E. Soloway of counsel), for
+appellant.
+
+
+
+Order, Supreme Court, New York County (Barbara Jaffe, J.), entered May 16, 2013,
+which, insofar as appealed from as limited by the briefs, denied plaintiff's motion for
+summary judgment on its complaint and dismissing defendants-respondents' (hereinafter
+defendants) third, fourth, eleventh, and twelfth affirmative defenses, unanimously
+reversed, on the law, without costs and the motion granted.
+
+Defendants are judicially estopped from arguing that the merger between nonparties
+Bank of Smithtown and People's United Bank was not completed before plaintiff
+brought this foreclosure action (see e.g. D & L Holdings v Goldman Co., 287
+AD2d 65, 71 [1st Dept 2001], lv denied 97 NY2d 611 [2002]). They obtained
+dismissal of the Bank of Smithtown's foreclosure action by arguing that the bank had
+merged into People's United. They may not now turn around and argue that the Bank of
+Smithtown did not merge into People's United. Hence, defendants' fourth
+affirmative defense should be dismissed.
+
+Plaintiff properly submitted a reply affidavit that responded to defendants' argument
+that People's United's June 20, 2011 letter cast doubt on whether People's United had
+really assigned defendant 71 Clinton Inc.'s note and mortgage to plaintiff on June 2, 2011
+(see Sanford v 27-29 W. 181st St. Assn., 300 AD2d 250 [1st Dept 2002]).
+Furthermore, plaintiff's reply was an adequate explanation for the June 20 letter.
+Therefore, as the assignee of the mortgage and of the note when the action was
+commenced, plaintiff has standing (see e.g. OneWest Bank FSB v Carey, 104 AD3d 444, 445
+[1st Dept 2013]).
+
+The motion court denied plaintiff's motion to dismiss the third and eleventh
+affirmative defenses (preclusion and right of redemption, respectively) on the ground that
+plaintiff had failed to address them. However, as can be seen from its opening brief
+before the motion court, plaintiff addressed those defenses.
+
+Plaintiff established its prima facie right to foreclose by producing the note,
+mortgage and guaranty, and affidavits establishing 71 Clinton Inc.'s nonpayment (see
+Red Tulip, LLC v Neiva, [*2]44 AD3d 204, 209 [1st
+Dept 2007], lv dismissed 10 NY3d 741 [2008]). Although defendant Steven
+Rosenfeld (the president of 71 Clinton Inc.) claimed he never received a notice of
+default, that does not preclude summary judgment in plaintiff's favor because it fails to
+raise a material issue of fact (see Forrest v Jewish Guild for the Blind, 3 NY3d 295, 312
+[2004]). To establish 71 Clinton Inc.'s default, plaintiff was not required to prove that it
+had sent a notice of default (see Chemical Bank v Broadway 55-56th St. Assoc.,
+220 AD2d 308 [1st Dept 1995]).
+
+The twelfth affirmative defense based on Judiciary Law § 489 must also be
+dismissed. That provision of the Judiciary Law codifies the old doctrine of champerty,
+which is an equitable defense that was developed "to prevent or curtail the
+commercialization of or trading in litigation" (Bluebird Partners v First Fid.
+Bank, 94 NY2d 726, 729 [2000]). "What the statute prohibits . . . is the
+purchase of claims with the intent and for the purpose of bringing an action that [the
+purchaser] may involve parties in costs and annoyance, where such claims would not be
+prosecuted if not stirred up . . . in [an] effort to secure costs" (Trust for Certificate Holders of
+Merrill Lynch Mtge. Invs., Inc. Mtge. Pass-Through Certificates, Series 1999-C1 v Love
+Funding Corp., 13 NY3d 190, 201 [2009] [internal quotation marks omitted]).
+
+Defendants do not assert, nor could they, that plaintiff commenced suit for the
+primary purpose of obtaining costs or to harass them. Defendants assert that plaintiff
+acquired the assignment for purposes of foreclosure; the law allows such an acquisition.
+"New York cases agree that if a party acquires a debt instrument for the purpose of
+enforcing it, that is not champerty simply because the party intends to do so by litigation"
+(Trust for Certificate Holders at 200). Plaintiff acquired the loan for the purpose
+of enforcing a legitimate claim, namely to obtain a judgment of foreclosure on a
+defaulted mortgage in a proceeding that was already under way. Concur—Sweeny,
+J.P., Andrias, Freedman, Richter and Clark, JJ. [Prior Case History: 2013 NY Slip
+Op 32889(U).]
+
+

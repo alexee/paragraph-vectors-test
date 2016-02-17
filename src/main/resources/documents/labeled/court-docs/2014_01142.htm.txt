@@ -1,0 +1,161 @@
+
+	Public Adm'r of Bronx County v 485 E. 188th St. Realty Corp.
+	2014 NY Slip Op 01142 [116 AD3d 1]
+	February 18, 2014
+	Gische, J.
+	Appellate Division, First Department
+	Published by New York State Law Reporting Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, May 14, 2014
+
+
+
+
+
+[*1]
+	Public Administrator of Bronx County, as Administrator of the Goods, Chattels and Credits of Ferrel Carino, Also Known as Jose Carino, Deceased, Respondent,
+v
+485 East 188th Street Realty Corp. et al., Appellants. (And a Third-Party Action.) T.C. Dunham Paint Company, Inc., Second Third-Party Plaintiff-Appellant, v Appula Management Corp., Second Third-Party Defendant-Appellant. New Palace Painters Supply Co., Inc., Third Third-Party Plaintiff-Appellant, v Appula Management Corp., Third Third-Party Defendant-Appellant.
+Public Administrator of Bronx County, as Administrator of the Goods, Chattels and Credits of Ferrel Carino, Also Known as Jose Carino, Deceased, Plaintiff, v 485 East 188th Street Realty Corp. et al., Defendants. 485 East 188th Street Realty Corp., Third-Party Plaintiff-Appellant, v Appula Management Corp., Third-Party Defendant-Respondent. (And Other Third-Party Actions.)
+
+
+
+
+First Department, February 18, 2014
+
+
+
+
+Public Adm'r of Bronx County v 485 E. 188th St. Realty Corp., 2010 NY Slip Op 33913(U), reversed; 2012 NY Slip Op 33569(U), modified.
+
+
+
+
+
+
+
+
+
+
+APPEARANCES OF COUNSEL
+
+
+
+Smith Mazure Director Wilkins Young & Yagerman, P.C., New York City (Louise M. Cherkis of counsel), for 485 East 188th Street Realty Corp., appellant.
+
+Rosenbaum & Taylor, P.C., White Plains (Dara L. Rosenbaum of counsel), for New Palace Painters Supply Co., Inc., appellant.
+
+Thomas Torto, New York City (Jason Levine of counsel), for T.C. Dunham Paint Company, Inc., appellant.
+
+Linda A. Stark, New York City, for Appula Management Corp., appellant.
+
+Law Offices of Marc A. Seedorf, Bronx (Marc A. Seedorf of counsel), for respondent.
+
+
+
+{**116 AD3d at 5} OPINION OF THE COURT
+
+
+
+Gische, J.
+
+This personal injury and wrongful death action arises from a flash fire in which Ferrel Carino, also known as Jose Carino, was severely burned; he subsequently passed away. Carino's estate is represented in this case by the Public Administrator.
+
+On July 26, 2006, while Carino was supervising a work crew refinishing wood floors in apartment 1A at a building owned by defendant 485 East 188th Street Realty Corp. (485 East), the products they were applying suddenly ignited. Carino was seriously burned in the fire and passed away only weeks later. Carino was employed by Appula Management Corp., which was defendant 485 East's residential property management company. The work crew included Victor Marache, who brought separate actions for his own injuries, and Danny Carino. Vito Manginelli was the sole owner and officer of both 485 East and Appula. He hired the work crew to rehabilitate empty apartments on behalf of the owner. The crew was responsible for all the rehabilitation work, which at times included refinishing the wood floors. Manginelli generally oversaw the floor refinishing work, even though he was a two to five minute drive away when the fire erupted. Manginelli testified at his deposition that after a fire occurred during another floor refinishing project only months before this fire, he decided to "babysit" the crew for a time. Manginelli's brother, Angelo, was the foreman, and he purchased the floor finishing products used by the crew from defendant New Palace Painters Supply Co., Inc.
+
+The accident occurred as the crew began the process of sealing newly sanded floors in [*2]apartment 1A. Marache was responsible for moving the buckets of sealer and polyurethane from place to place within the work site, while Jose Carino applied the substance to the floors. The sealer was applied first and allowed to dry for an hour before the polyurethane was applied. As Carino completed the polyurethane application, a fire erupted near the entrance to the apartment.
+
+After an investigation, the New York City Fire Department (FDNY) concluded that the fire was caused by flammable vapors from the lacquer sealer and/or the polyurethane floor sealer and{**116 AD3d at 6} that the source of the ignition was "most likely" the pilot light on the stove or a spark from the refrigerator. The FDNY report also states that the gas was on in the apartment and that the refrigerator was plugged in. Victor Marache, however, testified that the refrigerator was unplugged, per Carino's instructions. Fire Captain Roach, one of the first responders, testified that when he reached the scene, the gas and electricity were off. It is unclear, however, whether these utilities were off when FDNY arrived at the scene or turned off by FDNY in order to respond to the fire. Defendants' expert, Harold I. Zeliger,[FN1]
+
+could not definitively conclude whether the ignition source was the stove pilot light or a spark from the refrigerator. Burton Davidson, an expert who opined on the source of the fire in the Marache case, concluded that triboelectricity from the continual movement of the sealant products in the containers and the drippings from an applicator brush were just as likely an ignition source as a live pilot light or an electrical spark from a compressor motor. Zeliger opined, however, that the chemicals in use were not susceptible to spontaneous combustion.
+
+Defendants' expert concluded that the source of the flash fire could only have been the lacquer sealer because the flashpoint (the temperature at which a liquid generates vapors that can be ignited from an external source) of the polyurethane was 100 degrees Fahrenheit, while the flashpoint of the lacquer sealer was -4 degrees Fahrenheit. Since the air temperature was only 82 degrees Fahrenheit,[FN2]
+
+Zeliger concluded that the lacquer sealer and not the polyurethane served as the fuel for the fire. Davidson opined that because of the varying flashpoints of the different substances being used, the polyurethane alone could not have been the source of the fire. He did not, however, rule out that a combination of vapors from the lacquer sealer and the polyurethane ignited that day.
+
+Davidson stated that the lacquer sealer was prohibited for indoor use in the City of New York.
+
+Manginelli testified that the floor refinishing crew was repeatedly told over the course of [*3]years that finishing products were{**116 AD3d at 7} highly flammable and that before using the products all equipment were to be removed from the rooms, and the gas and electricity to the apartment was to be shut off.
+
+The lacquer sealer was manufactured by nonparty Akzo Nobel Coatings, Inc. and distributed by defendant T.C. Dunham Paint Company, Inc. Dunham received the lacquer sealer in 55-gallon drums, repackaged the product into one and five gallon containers, and labeled these containers with its customer's name. Dunham created its own polyurethane by blending ingredients from different chemical manufacturers. It also created labels for each of these products in its customer's name, in this case New Palace. New Palace was a wholesale/retail paint, hardware and building supply store operating in the Bronx. It resold the products with the labels created for it by Dunham.
+
+New Palace sold the lacquer sealer and the polyurethane to Appula. The label for the lacquer sealer contained certain warnings. The front of the lacquer sealer prominently stated "DANGER! HIGHLY FLAMMABLE! HARMFUL OR FATAL IF SWALLOWED." A back label stated: "DANGER! EXTREMELY FLAMMABLE: VAPORS MAY CAUSE FLASH FIRE . . . . Vapors may cause flash fire. Keep away from heat, spark and flame. Use with adequate ventilation . . . . DANGER! EXTREMELY FLAMMABLE."
+
+The label did not contain any warning that the substance was prohibited for indoor use within the City of New York.
+
+The label for the polyurethane also contained certain warnings. The front label stated: "CAUTION! COMBUSTIBLE." The back label stated:
+
+
+"CONTAINS PETROLEUM SOLVENTS: Keep away from heat and open flame. To avoid breathing vapors or spray mist, open windows and doors or use other means to ensure fresh air entry during application and drying . . . . Do not smoke during application and until all vapors (odors) are gone . . . . use only with adequate ventilation."
+
+
+Defendants' expert opined that these warnings were sufficient, while the experts proffered by plaintiff opined that these warnings were insufficient because they were too general. Plaintiffs' experts were particularly critical of the lacquer sealer warning, which fails to mention, as required by law, that indoor use of the product is prohibited in the City of New York. Manginelli testified that he had seen product labels for the floor{**116 AD3d at 8} refinishing products many times over the years and that had any one of those labels contained a warning that use of the product was prohibited in the City of New York, he would not have purchased the product.
+
+There are two orders on appeal. In the April 19, 2010 order, the motion court dismissed the complaint as against 485 East and Appula,[FN3]
+
+finding that 485 East and Appula were indistinct legal entities and, therefore, plaintiff's exclusive remedy against them was limited to the workers' compensation law (2010 NY Slip Op 33913[U] [2010]). The court also dismissed 485 East's third-party action against Appula for common-law indemnification and contribution on the basis that the action violated [*4]the anti-subrogation rules because 485 East and Appula were co-insureds under the same policy of insurance. Only 485 East has appealed from this order.
+
+In the June 13, 2012 order, the court dismissed all of plaintiff's causes of action against New Palace and Dunham, except for the negligence and strict liability claims that were premised on the theory of failure to warn (2012 NY Slip Op 33569[U] [2012]). Although Appula cross-moved for summary judgment dismissing the complaint and the third-party complaints against it, the court denied the cross motion on the basis that its 2010 order mooted the relief by operation of law. 485 East also moved for summary judgment dismissing the complaint and Dunham's cross claims and Appula's claims against it, none of which the court addressed, reasoning that the 2010 order also addressed these issues.[FN4]
+
+485 East, Appula, New Palace, and Dunham appealed from the 2012 order.
+
+As Appula concedes on appeal, 485 East's third-party action against it is not precluded by Workers' Compensation Law § 11. Thus, the motion court incorrectly dismissed that action in its 2010 order. Although section 11 of the Workers' Compensation Law protects employers from actions by third parties for injuries sustained by an employee acting within the scope of his or her employment, 485 East may sue Appula for common-law indemnification and contribution because plaintiff's decedent suffered a grave injury while employed by Appula (see Fleming v Graham, 10 NY3d 296, 299 [2008]).
+
+{**116 AD3d at 9}The court also incorrectly dismissed 485 East's third-party claims against Appula on the basis of the anti-subrogation rules. In 2010, there was a pending declaratory judgment action by QBE Insurance Corporation, Appula's insurer, invoking a policy exclusion for injuries sustained by an employee. Although the declaratory judgment action has since been discontinued, Appula correctly concedes that there was no basis for the court's conclusion, as a matter of law, that 485 East and Appula were co-insureds. Consequently, the anti-subrogation rule does not bar recovery by 485 East against Appula and the third-party complaint should not have been dismissed (see Medical Liab. Mut. Ins. Co. v Schurig, 211 AD2d 518 [1st Dept 1995], lv denied 86 NY2d 703 [1995]).
+
+Because plaintiff never appealed from the 2010 order, to the extent it dismissed the complaint as against 485 East, the order remains in effect. Although the 2010 order also dismissed the complaint as against Appula, plaintiff, as noted, never asserted any claim against Appula.
+
+485 East, New Palace, Dunham, and Appula all argue that plaintiff's remaining failure to warn claims have no merit because Carino was a knowledgeable user and the sole proximate cause of his own injuries since he used the floor finishing products without turning off gas and electricity sources near the work. Although plaintiff has no claims against either 485 East (based upon the 2010 order) or Appula, these parties are aligned in interest with the other defendants in seeking to dismiss the complaint based upon the cross claims and third-party claims that have been asserted against them.
+[*5]
+Defendants argue that the motion court improperly considered expert reports that plaintiff had obtained from a separately commenced action by Marache, a coworker, based upon the injuries Marache sustained in the very same fire and using the very same floor refinishing products. CPLR 3101 (d) (1) (i) does not, however, require a party to respond to a demand for expert witness information at any specific time, and defendants do not show that they were prejudiced by plaintiff's reliance on this material in responding to their dispositive motions (see Martin v Triborough Bridge & Tunnel Auth., 73 AD3d 481 [1st Dept 2010], lv denied 15 NY3d 713 [2010]). It is clear that all parties had these expert reports well before they made these motions, because defendants' own expert refers to them in his affidavit, which defendants submitted in support of their motions{**116 AD3d at 10} in this case.[FN5]
+
+Whether the motion court was mistaken about the parties' stipulation regarding the use of these materials is of no moment. The admissibility of expert testimony is a determination within the discretion of the court, and the court properly considered the materials in this case (see Christoforatos v City of New York, 90 AD3d 970 [2d Dept 2011]).
+
+The motion court correctly denied defendants' motions for summary judgment dismissing the case on the ground that Carino was a knowledgeable user which would obviate the need for any warnings and/or the sole proximate or intervening cause of the flash fire.
+
+A product may be defective due to inadequate warnings of the risks and dangers involved in its foreseeable use (Liriano v Hobart Corp., 92 NY2d 232, 237 [1998]). The duty also extends to forseeable product misuse (id. at 240 n 2). To be actionable, however, the absence of warnings must be a proximate cause of the claimed injuries (Howard v Poseidon Pools, 72 NY2d 972 [1988]). Even if a duty to warn otherwise exists, recovery may be denied to a knowledgeable user, i.e., one who was fully aware of the specific hazard without receiving the warning (see Travelers Ins. Co. v Federal Pac. Elec. Co., 211 AD2d 40, 43 [1st Dept 1995], lv denied 86 NY2d 712 [1995]). While in a proper case the court can decide as a matter of law that there is no duty to warn (id.), in most cases whether a party is a knowledgeable user is a factual question (see e.g. Passante v Agway Consumer Prods., Inc., 12 NY3d 372, 382 [2009]). Even if a user has some degree of knowledge of the potential hazards in the use of a product, summary judgment will not lie where reasonable minds might disagree as to the extent of the knowledge (id.).
+
+While there is evidence that Carino had some knowledge about general hazards associated with using floor refinishing products, it cannot be said, as a matter of law, that his knowledge base was sufficient to relieve defendants of any duty they may have had to provide adequate warnings. There is evidence that Carino had used floor refinishing products before and that he had been told by his employer that they were flammable and required certain safety precautions, such as shutting off the gas and electricity. There is no evidence, however, that he knew about the particular properties of each product he was using, including their flashpoints, the fact that one product was much more volatile than the other and the specifications for proper{**116 AD3d at 11} ventilation when using these products, or that he knew one product was prohibited for indoor use [*6]in the City of New York. Thus, it is for a jury to determine whether Carino had sufficient knowledge of the specific hazards attendant to the use of the floor finishing products to relieve defendants of any duty to warn of those hazards.
+
+We reject defendants' argument that the complaint should be dismissed because Carino was the sole proximate cause of his injuries. Even were it undisputed that the gas or the electricity was the ignition source for the fire, that fact would be insufficient to relieve defendants of all responsibility because the risks posed by using the products without turning off the gas and electricity were neither extraordinary nor unforeseeable (see Derdiarian v Felix Contr. Corp., 51 NY2d 308 [1980]; Yun Tung Chow v Reckitt & Colman, Inc., 17 NY3d 29 [2011]; Dillard v New York City Hous. Auth., 112 AD3d 504 [1st Dept 2013]). User negligence in the handling of these highly dangerous products is entirely forseeable, and it is the very reason that warnings are required. Even if Carino mishandled the products he was using, this would not entitle defendants to dismissal of the complaint (id.). It would raise an issue of fact as to the apportionment of liability between him and defendants (see Dillard, 112 AD3d 504 [2013], supra).
+
+We reject Appula's and 485 East's collateral arguments, that they are entitled to different relief than the other parties because plaintiff did not specifically oppose their respective motions, to the extent that Appula and 485 East incorporate the same arguments and proof as New Palace and Dunham. Plaintiff fully opposed New Palace and Dunham's motions and had no claims against either 485 East or Appula at the time. To the extent 485 East argues that the motion court should have considered its individual arguments in favor of dismissing the complaint and all cross claims against it, the 2010 order already dismissed plaintiff's claim against it and plaintiff did not appeal from that order. New Palace previously discontinued its claims against 485 East with prejudice. Dunham concedes that its indemnification claim against 485 East should be dismissed. The only remaining claim against 485 East is that of Appula. Notwithstanding that the motion court did not reach this issue, we have reviewed the record and conclude that 485 East has not established as a matter of law that it is entitled to dismissal of Appula's counterclaim. As previously stated, the anti-subrogation rules provide no basis for dismissal. In addition,{**116 AD3d at 12} 485 East's general claim, through its attorney, that it was not negligent, is insufficient to support the relief sought.
+
+We have considered the parties' remaining arguments for affirmative relief and find them unavailing.
+
+Accordingly, the order of the Supreme Court, Bronx County (Alison Y. Tuitt, J.), entered on or about April 19, 2010, which, to the extent appealed from as limited by the brief, sua sponte dismissed defendant/third-party plaintiff 485 East 188th Street Realty Corp.'s third-party complaint, should be reversed, on the law, without costs, and the third-party complaint reinstated. The order of the same court and Justice, entered June 13, 2012, which, to the extent appealed from as limited by the briefs, denied defendant New Palace Painters Supply Co., Inc.'s motion for summary judgment dismissing as against it the causes of action for negligence and strict liability based on failure to warn, denied defendant T.C. Dunham Paint Company, Inc.'s motion for summary judgment dismissing as against it the causes of action for negligence, failure to warn, and defective condition, and denied as having previously been granted 485 East's motion [*7]to dismiss all cross claims against it by Dunham and third-party defendant Appula Management Corp., should be modified, on the law, to grant 485 East's motion for summary judgment dismissing Dunham's former cross claim, now third-party claim, for indemnification, and otherwise affirmed, without costs.
+
+Tom, J.P., Friedman, Acosta and Moskowitz, JJ., concur.
+
+Order, Supreme Court, Bronx County, entered on or about April 19, 2010, reversed, on the law, without costs and the third-party complaint reinstated. Order, same court and Justice, entered June 13, 2012, modified, on the law, to grant 485 East's motion for summary judgment dismissing Dunham's former cross claim, now third-party claim, for indemnification, and otherwise affirmed, without costs.
+
+
+Footnotes
+
+
+
+
+Footnote 1: Although Zeliger was hired by defendant T.C. Dunham Paint Company, Inc., all of the defendants rely on his report in support of their respective dispositive motions.
+
+
+
+
+Footnote 2: Defendants' expert states that he took this fact from Marache's expert's affidavit. However, Davidson, Marache's expert, asserts that the maximum air temperature was 85 degrees Fahrenheit, although he gives no source for this information and does not specify whether it refers to the outside temperature or the temperature inside the apartment on the date of the fire.
+
+
+
+
+Footnote 3: Although the court dismissed the complaint against Appula, that entity was not a defendant in the main action.
+
+
+
+
+Footnote 4: By prior stipulation the third-party action by New Palace against 485 East had been discontinued with prejudice.
+
+
+
+
+Footnote 5: Mr. Zeliger was an expert in Marache's case as well.
+
+
+
+

@@ -1,0 +1,302 @@
+
+	People v Ingram
+	2014 NY Slip Op 01086 [114 AD3d 1290]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York,
+Appellant,
+v
+Robert L. Ingram, Respondent.
+
+
+—[*1]
+
+
+
+Frank A. Sedita, III, District Attorney, Buffalo (David A. Heraty of counsel), for
+appellant.
+
+The Legal Aid Bureau of Buffalo, Inc., Buffalo (Sherry A. Chase of counsel), for
+defendant-respondent.
+
+
+
+Appeal from an order of the Supreme Court, Erie County (Russell P. Buscaglia,
+A.J.), dated November 30, 2012. The order granted that part of the omnibus motion of
+defendant to suppress physical evidence and his oral statements to the police.
+
+It is hereby ordered that the order so appealed from is affirmed.
+
+Memorandum: The People appeal from an order granting that part of defendant's
+omnibus motion to suppress physical evidence, i.e., a handgun, and defendant's oral
+statements to the police. The People contend that the police had the requisite reasonable
+suspicion to justify their pursuit of defendant, and that suppression of the evidence and
+oral statements thereafter obtained from defendant is not warranted. We reject that
+contention and, inasmuch as Supreme Court's suppression determination is supported by
+the record (see People v
+Martinez, 105 AD3d 1458, 1459 [2013]; see generally People v
+Prochilo, 41 NY2d 759, 761 [1977]), we affirm the order.
+
+The testimony at the suppression hearing established that, on March 25, 2012, a
+housing officer of the Buffalo Police Department received a tip from an unnamed
+arrestee that there were two guns "stashed behind" a house located at 118 Montana
+Avenue in the City of Buffalo. The area in which the house was located was known to
+the officer and his partner as a high-crime area. At approximately 4:40 p.m. on that date,
+the two officers drove their patrol vehicle to that house to investigate the tip. Upon
+turning onto Montana Avenue, the officers saw two men near the curb in front of house
+number 116 or 118, crossing the street toward house number 119. The officer driving the
+patrol vehicle recognized one of the men as the victim of a recent shooting, and he
+stopped the patrol vehicle to speak with him. That man stopped to talk to the officer, but
+his companion—defendant—began walking away "swiftly." The second
+officer, curious as to why defendant was "going away so fast," exited the patrol vehicle
+and asked defendant his name. According to the testimony of the second officer,
+defendant did not respond, but turned around, "grabbed the right side of his jacket," and
+"tried to pull something out of it." The second officer yelled at defendant, "don't do it,"
+but defendant continued to pull at his jacket pocket. The second officer drew his pistol
+and pointed it at defendant, while continuing to yell, "don't do it." Defendant then began
+to run away, although we note that the second officer provided conflicting testimony
+whether defendant had begun to run away before he yelled at defendant. The two officers
+pursued defendant, ultimately apprehending him and recovering a loaded handgun from
+his jacket pocket. Notably, the officers testified that defendant and his companion were
+doing nothing illegal when they first saw them, and that they became suspicious only
+because defendant and his companion were in the vicinity of the house identified in the
+tip. Furthermore, the first officer testified that, although defendant's jacket was "thin," he
+did not see the outline of a weapon in defendant's jacket, and the second officer testified
+that he did not see a bulge or the outline of a weapon in defendant's jacket until after he
+began to pursue defendant.
+
+The People contend that the court erred in determining that the tip the officer
+received [*2]from the unnamed arrestee was unreliable.
+According to the People, the record establishes that the tip was reliable and the court
+therefore should have considered the tip as a factor in support of a determination that the
+officers had the requisite reasonable suspicion to justify their pursuit of defendant,
+particularly inasmuch as defendant was standing near the house identified in the tip
+(see generally People v De Bour, 40 NY2d 210, 222-223 [1976]). We reject that
+contention. The People contend that the tip was reliable because it was based upon the
+arrestee's personal knowledge and because "it is against the law to provide the police
+with false information about a crime." Even assuming, arguendo, that the arrestee's basis
+of knowledge was sufficient because he had personally observed guns "stashed" behind
+house number 118, we conclude that the People did not establish "that the specific
+information given [by the arrestee was] reliable" (People v DiFalco, 80 NY2d
+693, 697 [1993]; see generally People v Johnson, 66 NY2d 398, 402-402
+[1985]). The arrestee did not provide the officer with any information about who placed
+the guns behind house number 118, the precise location of the guns behind the house, or
+the type of guns. Moreover, the officer previously had never met the arrestee or received
+reliable information from him.
+
+We further conclude that the court properly determined that, when the officers
+initially approached defendant, they had no more than an "objective, credible reason" to
+request information (People v
+Moore, 6 NY3d 496, 498-499 [2006], citing De Bour, 40 NY2d at 223
+[2006]). The officers acknowledged at the suppression hearing that there was nothing
+about the behavior of defendant or his companion that the officers found suspicious other
+than their proximity to house number 118. Although there was some testimony that
+defendant was standing in front of house number 118 when the officers first saw him, the
+court did not find that testimony credible but, rather, credited other testimony that
+defendant was standing in front of house number 116. That credibility determination is
+entitled to great deference (see Prochilo, 41 NY2d at 761; Martinez, 105
+AD3d at 1459). Furthermore, the first officer testified that he did not ask defendant's
+companion from where he was coming, nor did either officer testify that he saw the
+direction from which defendant was coming, and thus there is no credible evidence in the
+record supporting the claim that defendant was connected with the guns allegedly
+"stashed behind" house number 118. Defendant's presence on the curb in the general
+vicinity of house number 116 was " 'readily susceptible of an innocent interpretation,' "
+i.e., that defendant was simply crossing the street (People v Riddick, 70 AD3d 1421, 1422 [2010], lv
+denied 14 NY3d 844 [2010]), and "[t]he fact that defendant was located in a
+high[-]crime area does not by itself justify the police conduct where, as here, there were
+no other objective indicia of criminality" (People v Stevenson, 273 AD2d 826,
+827 [2000]). We therefore conclude that, at the time the officers approached defendant
+and his companion, they were limited to a level one intrusion, i.e., a request for
+information (see generally De Bour, 40 NY2d at 223). Thus, the second officer's
+request for defendant to give his name was permissible.
+
+We reject the People's contention that subsequent events gave rise to a reasonable
+suspicion that defendant had committed or was about to commit a crime, as was required
+to justify the police pursuit of defendant when defendant did not respond to the officer's
+question (see People v
+Cady, 103 AD3d 1155, 1156 [2013]; Riddick, 70 AD3d at 1422). We
+have previously held that " 'the fact that defendant reached for his waistband, absent any
+indication of a weapon such as the visible outline of a gun or the audible click of the
+magazine of a weapon, does not establish the requisite reasonable suspicion that
+defendant had committed or was about to commit a crime' " (Cady, 103 AD3d at
+1156; see Riddick, 70 AD3d at 1422-1423). Here, although defendant was
+reaching for his jacket pocket as he walked or ran away from the second officer, neither
+officer testified that he saw a bulge or the outline of a weapon in defendant's jacket.
+Rather, the second officer believed that defendant had a gun only because, in his
+experience, if an individual pulled vigorously at an object in his or her pocket, but the
+object did not come out easily, that object usually was a weapon. While we are mindful
+that an officer may rely on his or her knowledge and experience in determining whether
+reasonable suspicion exists, we respectfully disagree with our dissenting colleagues that
+the above circumstances were sufficient to establish the requisite reasonable suspicion
+"in the absence of other objective indicia of criminality" (Cady, 103 AD3d at
+1156 [internal quotation marks omitted]; see Riddick, 70 AD3d at 1423). Here,
+before pursuing defendant, the second officer knew only that defendant was walking
+across the street in a high-crime area, in the general vicinity of a house where an
+unnamed person of unestablished reliability claimed to have seen guns, and that, when
+the police approached, defendant walked or ran away while grabbing at his jacket pocket.
+We cannot [*3]conclude, based on the totality of those
+circumstances, that the police were justified in pursuing defendant (see People v
+Holmes, 81 NY2d 1056, 1058 [1993]; Cady, 103 AD3d at 1155-1156;
+Riddick, 70 AD3d at 1421-1423).
+
+We note that, although it appears from the dissent that there was testimony at the
+suppression hearing that defendant took an "aggressive fighter stance," there was no such
+testimony. Rather, that phrase was used only by defense counsel, when reading the
+second officer's testimony from the transcript of the felony hearing, in an attempt to
+impeach the officer regarding when he drew his service revolver. Thus, there was no
+evidence before the suppression court that defendant took an "aggressive fighter stance"
+(see People v Hall, 208 AD2d 1044, 1046 [1994]; People v Blanchard,
+177 AD2d 854, 856 [1991], lv denied 79 NY2d 918 [1992]; People v
+Gilman, 135 AD2d 951, 952-953 [1987], lv denied 71 NY2d 896 [1988]).
+
+The People's reliance on People v Bachiller (93 AD3d 1196, 1196-1198 [2012],
+lv dismissed 19 NY3d 861 [2012]) is misplaced. In that case, the police were
+responding to a report of a possible stabbing when they noticed the defendant in a
+"heated argument" with another man and then saw the defendant chase that man through
+adjacent backyards (id. at 1196). The defendant conceded that "the report of a
+possible stabbing coupled with the responding officer's observations at the scene
+furnished the police with the requisite 'founded suspicion that criminal activity [was]
+afoot' sufficient to justify the common-law right of inquiry" (id., quoting
+Moore, 6 NY3d at 498). Having obtained the requisite founded suspicion, the
+police then observed the defendant walk briskly away from them and "grab and hold onto
+an object in his waistband area" (id. at 1197). In determining that suppression
+was not warranted, we noted that the defendant "was not simply reaching in the direction
+of his waistband. Rather, the two officers as well as the initial responding officer, who
+was also pursuing defendant, testified that defendant was clutching an object that
+appeared to be a gun at his waistband" (id. at 1198 [emphasis added]). Here,
+neither officer testified that he observed any object—let alone an object that
+appeared to be a gun—in defendant's pocket before beginning to pursue defendant.
+
+All concur except Scudder, P.J., and Peradotto, J., who dissent and vote to reverse in
+accordance with the following memorandum.
+
+Scudder, P.J., and Peradotto, J. (dissenting). We respectfully dissent. In our view, the
+two Buffalo Police Department Housing Officers (officers) had the requisite reasonable
+suspicion to pursue defendant. We would therefore reverse the order, deny that part of
+the omnibus motion seeking suppression of physical evidence and defendant's oral
+statements to the police, and remit the matter for further proceedings on the indictment.
+
+After he was indicted on a charge of criminal possession of a weapon in the second
+degree (Penal Law § 265.03 [3]), defendant sought suppression of the handgun
+that had been seized from his jacket pocket on the ground that the officers lacked
+reasonable suspicion to pursue him. At the suppression hearing, the officers testified that
+they had received information from a person one of the officers had arrested earlier in the
+day concerning "possible weapons stashed behind a house" on Montana Avenue. The
+area around Montana Avenue was a high-crime area where there had been numerous
+arrests for narcotics and gun violence. Moreover, several people had been murdered in
+that area during the year in which this incident took place. Upon approaching the area,
+the officers observed defendant and a second man standing on a curb near the house in
+question. The man with defendant had recently been the victim of a shooting, and the
+officers stopped their patrol vehicle so the first officer could ask defendant's companion
+if he had any new information concerning that shooting. At that point, defendant
+"glanced in [the officers'] direction, his eyes got very big, and then he looked down and
+walked away . . . very swiftly." Defendant's pace then escalated to a run.
+The second officer exited the patrol vehicle "just to see why [defendant] was going away
+so fast." Defendant did not respond when asked for his name, but turned toward the
+second officer in an "aggressive fighter stance," grabbed the right side of his jacket, and
+"vigorously" struggled to pull something out of it. The second officer yelled at defendant,
+"don't do it," because the officer "believed that [defendant] had a weapon and he was
+trying to pull it out of his jacket." The second officer testified that his belief was based on
+having been "involved in numerous weapons arrest[s] and most likely every single time
+when they're vigorously pulling something out of their coat [and] it doesn't come out
+easily, it's normally a weapon." As defendant continued trying to pull something out of
+his coat, the second officer "pulled out [his] pistol, pointed it at [defendant], [and] told
+him again, don't do it." When defendant started running, the officers pursued him, caught
+him, and recovered a handgun from his coat pocket.
+[*4]
+"[I]t is well settled that the police may pursue a
+fleeing defendant if they have a reasonable suspicion that [the] defendant has committed
+or is about to commit a crime . . . Flight alone is insufficient to justify
+pursuit because an individual has a right to be let alone and refuse to respond to police
+inquiry . . . However, a defendant's flight in response to an approach by the
+police, combined with other specific circumstances indicating that the suspect may be
+engaged in criminal activity, may give rise to reasonable suspicion, the necessary
+predicate for police pursuit" (People v Riddick, 70 AD3d 1421, 1422 [2010], lv
+denied 14 NY3d 844 [2010] [internal quotation marks omitted]; see People v
+Holmes, 81 NY2d 1056, 1058 [1993]; People v Martinez, 80 NY2d 444, 446
+[1992]). "Reasonable suspicion represents that 'quantum of knowledge sufficient to
+induce an ordinarily prudent and cautious [person] under the circumstances to believe
+criminal activity is at hand' " (Martinez, 80 NY2d at 448).
+
+While each individual act of defendant was insufficient on its own to provide the
+officers with the reasonable suspicion necessary to pursue and to detain him forcibly, we
+note that the Court of Appeals has recognized that it is the combination of flight and
+"other specific circumstances indicating that [a] suspect may be engaged in criminal
+activity" that may give rise to reasonable suspicion (People v Sierra, 83 NY2d
+928, 929 [1994]; see People v
+Cady, 103 AD3d 1155, 1156 [2013]). "In determining whether a police officer
+has reasonable suspicion to justify his [or her] actions, 'the emphasis should not be
+narrowly focused on . . . any . . . single factor, but [rather
+should be] on an evaluation of the totality of circumstances, which takes into account the
+realities of everyday life unfolding before a trained officer' " (People v Stephens, 47 AD3d
+586, 589 [2008], lv denied 10 NY3d 940 [2008]).
+
+We agree with the majority that " '[t]he [suppression] court's determination is entitled
+to great deference and will not be disturbed where it is supported by the record' " (People v Martinez, 105 AD3d
+1458, 1459 [2013]; see
+People v Howington, 96 AD3d 1440, 1441 [2012]; People v Davis, 48 AD3d
+1120, 1122 [2008], lv denied 10 NY3d 957 [2008]), but we find it
+disturbing that Supreme Court failed to consider the testimony of the second officer that,
+based on his prior experience, when someone is vigorously trying to pull an object out of
+a coat pocket and the object does not come out easily, that object is "normally a weapon."
+It is well settled that the police "are allowed to 'draw on their own experience and
+specialized training to make inferences from and deductions about the cumulative
+information available to them that might well elude an untrained person' " (People v Hall, 10 NY3d
+303, 311 [2008], cert denied 555 US 938 [2008]; see People v
+Brown, 151 AD2d 199, 203 [1989], lv denied 75 NY2d 768 [1989]).
+Although we have consistently held that the mere fact that a person reaches for his
+waistband, "absent any indication of a weapon such as the visible outline of a gun or the
+audible click of the magazine of a weapon, does not establish the requisite reasonable
+suspicion that defendant ha[s] committed or [is] about to commit a crime"
+(Riddick, 70 AD3d at 1422-1423; see Sierra, 83 NY2d at 929-930;
+Cady, 103 AD3d at 1156), we conclude that here, based on the experience of the
+second officer, there was an indication of a weapon, i.e., defendant took an "aggressive
+fighter stance" and was "vigorously" struggling to remove something from his coat
+pocket. Moreover, the facts in Riddick, a case relied on by the majority, are
+distinguishable. In that case, the officers were in an unmarked car and were on a routine
+patrol. There was no specific tip concerning weapons, and there was no evidence that the
+defendant knew that the officers were police officers when he walked away from their
+unmarked van. While the defendant in Riddick made a "gesture" toward his
+waistband, there was no testimony that the gesture was aggressive or vigorous or that
+such a gesture was indicative of a weapon (id. at 1422-1424). Although a coat
+pocket may not be as common a location for a weapon, we conclude that the second
+officer's experience with weapons in coat pockets should have been considered by the
+court (see People v Benjamin, 51 NY2d 267, 271 [1980]; People v Bachiller, 93 AD3d
+1196, 1198 [2012], lv dismissed 19 NY3d 861 [2012]). Indeed, in
+People v Pines (281 AD2d 311, 311-312 [2001], affd 99 NY2d 525
+[2002]), the defendant, who was walking in the street with a companion, noticed the
+officers' unmarked but recognizable vehicle, after which "his eyes bulged out"
+(id. at 311). As the officers approached, the "defendant 'bunched up' his bubble
+jacket on the right side, at the waist area, with his hand cupped underneath it' "
+(id. at 312). The officer in Pines stated that the defendant's action
+"remind[ed] [him] of how he himself, when off-duty, sometimes adjusted his gun in a
+similar manner" (id.). The Appellate Court relied upon that testimony in holding
+that the pursuit was justified (id.). In both Pines and the instant case, the
+knowledgeable and experienced officer observed conduct by the defendant that was
+indicative of a weapon.
+
+In addition, the officers in this case had received a tip from an arrestee, i.e., an
+identified [*5]citizen informant, that there were guns
+stashed in the area where they observed defendant and his companion. While we agree
+with the majority that there was no information establishing the reliability of the tip, such
+information may still be relied upon in a De Bour analysis. "Regardless of
+whether . . . the citizen-informant's basis of knowledge was sufficiently
+established . . . , the combination of his report to the police and the officers'
+observation[s] . . . provided the requisite reasonable suspicion" (Matter of Shallany S., 11
+AD3d 414, 414 [2004]; see People v Gresty, 237 AD2d 931, 932 [1997]).
+
+We therefore conclude that, based on the combination of the tip, the high-crime
+location, the presence of a recent shooting victim, defendant's initial behavior and his
+conduct indicative of a weapon, the officers had the requisite reasonable suspicion for
+the pursuit. Present—Scudder, P.J., Peradotto, Carni, Sconiers and Whalen, JJ.
+
+

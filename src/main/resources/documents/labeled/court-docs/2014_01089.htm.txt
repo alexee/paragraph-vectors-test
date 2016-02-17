@@ -1,0 +1,171 @@
+
+	Calhoun v County of Herkimer
+	2014 NY Slip Op 01089 [114 AD3d 1304]
+	February 14, 2014
+	Appellate Division, Fourth Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Dawn Calhoun, Appellant,
+v
+County of Herkimer
+et al., Respondents, et al., Defendants.
+
+
+—[*1]
+
+
+Bosman Law Firm, L.L.C., Rome (A.J. Bosman of counsel), for
+plaintiff-appellant.
+
+Lemire Johnson, LLC, Malta (Gregg T. Johnson of counsel), for
+defendants-respondents.
+
+
+
+Appeal from an order and judgment (one paper) of the Supreme Court, Herkimer
+County (Erin P. Gall, J.), entered October 30, 2012. The order and judgment, among
+other things, granted the motion of defendants for summary judgment dismissing the
+amended complaint.
+
+It is hereby ordered that the order and judgment so appealed from is unanimously
+modified on the law by denying that part of the motion seeking to dismiss the retaliation
+claims and reinstating those claims, and as modified the order and judgment is affirmed
+without costs.
+
+Memorandum: This retaliation action arises from plaintiff's employment with
+defendant Herkimer County Office of Employment and Training Administration
+(Employment and Training Office) pursuant to a contract between the Employment and
+Training Office and a nonprofit service agency. Plaintiff worked for defendant County of
+Herkimer (County) in the Employment and Training Office for approximately six years.
+Defendant Steven Billings, who was then the County's Director of Employment and
+Training, was plaintiff's supervisor. In 2005, Billings's wife (Mrs. Billings), a special
+education teacher, was assigned to work with plaintiff's son, who had been classified as
+learning disabled. Beginning in October 2005, plaintiff expressed dissatisfaction with the
+special education services provided to her son by the school district generally and Mrs.
+Billings in particular. In March 2006, plaintiff and her husband attended a contentious
+meeting at the school with various parties, including Mrs. Billings. According to
+plaintiff, less than a week after that meeting, Billings advised plaintiff that her contract
+might not be renewed upon its expiration in April 2006 because of impending federal
+funding cuts. In a follow-up email to the school principal and a subsequent telephone
+conference with the principal and Mrs. Billings, plaintiff continued to object to the
+alleged failure of Mrs. Billings to provide services to plaintiff's son in accordance with
+his individualized education plan. Shortly thereafter, Billings notified plaintiff that her
+contract would not be renewed.
+
+Plaintiff subsequently commenced this action alleging, inter alia, that defendants
+subjected her to unlawful retaliation based upon her advocacy on behalf of her son,
+alleging violations of, inter alia, the Americans with Disabilities Act (42 USC §
+12101 et seq.) and the Human Rights Law (Executive Law § 290 et
+seq.). Defendants moved for summary judgment dismissing the amended complaint,
+and Supreme Court granted the motion. We note at the outset that plaintiff abandoned
+any claims not related to retaliation by failing to advance any contentions with respect to
+the merits thereof in her brief on appeal (see Inter-Community Mem. [*2]Hosp. of Newfane v Hamilton Wharton Group, Inc., 93
+AD3d 1176, 1177 [2012];
+Davis v School Dist. of City of Niagara Falls, 4 AD3d 866, 867 [2004]). We
+conclude, however, that the court erred in granting that part of the motion with respect to
+plaintiff's retaliation claims, and we therefore modify the order and judgment
+accordingly.
+
+In order to make out a claim for unlawful retaliation under state or federal law, a
+plaintiff must show that "(1) she has engaged in protected activity, (2) her employer was
+aware that she participated in such activity, (3) she suffered an adverse employment
+action based upon her activity, and (4) there is a causal connection between the protected
+activity and the adverse action" (Forrest v Jewish Guild for the Blind, 3 NY3d 295, 313
+[2004]; see Adeniran v State of
+New York, 106 AD3d 844, 844-845 [2013]; see also Treglia v Town of
+Manlius, 313 F3d 713, 719 [2002]).
+
+In order to establish entitlement to summary judgment in a retaliation case, a
+defendant may "demonstrate that the plaintiff cannot make out a prima facie claim of
+retaliation" or, alternatively, a defendant may "offer[ ] legitimate, nonretaliatory reasons
+for the challenged actions," and show that there are "no triable issue[s] of fact
+. . . whether the . . . [reasons are] pretextual" (Delrio v City of New York, 91
+AD3d 900, 901 [2012]; see generally Forrest, 3 NY3d at 305). Here,
+although we agree with the court that defendants met their initial burden on the motion
+under the first of the two tests set forth in Delrio by submitting evidence that they
+were not aware of plaintiff's protected activity and that, in any event, there was no causal
+connection between her protected activity and the failure to renew her contract (see Brightman v Prison Health
+Serv., Inc., 108 AD3d 739, 741 [2013]), we conclude that plaintiff raised an
+issue of fact with respect to each of those two elements of her prima facie case (cf. id.
+at 742).
+
+With respect to the element of defendants' awareness of plaintiff's protected activity,
+plaintiff submitted Billings's deposition testimony, in which Billings acknowledged that,
+during the course of plaintiff's employment, he became aware that plaintiff's son was a
+student of his wife and that plaintiff was "not happy with things that were happening at
+the school." Billings further acknowledged that, at some point, he specifically learned
+that "there was an issue" between plaintiff and his wife concerning plaintiff's son.
+Plaintiff also submitted her own deposition testimony, in which she testified that, after
+the dispute with the school escalated, "all of a sudden [Billings] started making little
+comments" to her that suggested that he had discussed plaintiff's son with his wife. On
+one occasion, for example, plaintiff told Billings that she had a meeting at the school,
+and Billings made a comment to the effect of "going up to fight with the school again[?]"
+or "[g]o get them." Plaintiff's husband similarly testified at his deposition that, after the
+March 2006 meeting at the school, Billings became "very hostile" toward him and told
+him that, "by pursuing this, [plaintiff] made it really uncomfortable for [Billings's] wife."
+We thus conclude that plaintiff set forth sufficient circumstantial evidence from which a
+trier of fact could reasonably infer that Billings was aware of plaintiff's advocacy on
+behalf of her son (see generally Gordon v New York City Bd. of Educ., 232 F3d
+111, 117 [2000]).
+
+With respect to the element of a causal connection, we note that such element "may
+be established either 'indirectly by showing that the protected activity was
+followed closely by [retaliatory] treatment, . . . or directly through
+evidence of retaliatory animus directed against a plaintiff by the defendant' "
+(Johnson v Palma, 931 F2d 203, 207 [1991], quoting DeCintio v Westchester
+County Med. Ctr., 821 F2d 111, 115 [1987], cert denied 484 US 965 [1987];
+see Gordon, 232 F3d at 117; Sumner v United States Postal Serv., 899
+F2d 203, 209 [1990]). Here, plaintiff's submissions raise an issue of fact relative to
+causal connection both indirectly and directly. Plaintiff established a causal connection
+indirectly by submitting evidence that her protected activity was followed closely, i.e.,
+within a few days or weeks, by Billings's decision to terminate her contract, thus raising
+an issue of fact based upon temporal proximity (see Cioffi v Averill Park Cent.
+School Dist. Bd. of Ed., 444 F3d 158, 168 [2006], cert denied 549 US 953
+[2006]; cf. Matter of Pace Univ. v New York City Commn. on Human Rights, 85
+NY2d 125, 129 [1995]). In addition, plaintiff established a causal connection directly by
+submitting evidence of retaliatory animus on the part of Billings through her own
+testimony and that of her husband (see DeCintio, 821 F2d at 115).
+
+Defendants also established their entitlement to summary judgment under the second
+of the two tests set forth in Delrio, by articulating legitimate, nonretaliatory
+reasons for the challenged employment action. The burden thereby shifted to plaintiff to
+produce evidence that the reasons put forth by defendants were merely pretextual or that,
+"regardless of any legitimate motivations the defendant may have had, the defendant was
+motivated at least in part by an [*3]impermissible motive"
+(Brightman, 108 AD3d at 741; see Treglia, 313 F3d at 721;
+Johnson, 931 F2d at 207; see generally Gordon, 232 F3d at 118;
+Sumner, 899 F2d at 208-209). Viewing the evidence in the light most favorable
+to the plaintiff, as we must, we conclude that "a reasonable jury could find that the
+[nonretaliatory] reasons given by [defendants] were pretextual explanations meant to
+hide [their] unlawful motive" (Treglia, 313 F3d at 721; see Cioffi, 444
+F3d at 168). Although defendants assert that they did not renew plaintiff's contract for
+financial reasons, i.e., anticipated federal budget cuts, plaintiff presented evidence that
+her position was funded in substantial part by defendant Herkimer County Department of
+Social Services, which did not reduce its funding for the position; that the actual funding
+cuts were much lower than anticipated, i.e., 14% compared to 28%; and that she was the
+only person affected by the funding cuts. Even if the loss of federal funding were one of
+the reasons for the decision not to renew plaintiff's contract, we conclude that the timing
+and circumstances of the nonrenewal suggest that impermissible retaliation may have
+played a part in the decision (see Gordon, 232 F3d at 117-118; Sumner,
+899 F2d at 208-209; Brightman, 108 AD3d at 741). Although the possibility of
+federal funding cuts loomed as early as January 2006, plaintiff testified that Billings had
+always assured her that, if funding were lost, the County would find a place for her. It
+was not until shortly after the situation at the school escalated in March 2006 that
+Billings informed plaintiff that her contract might not be renewed. Billings ultimately
+advised plaintiff that her contract had been terminated shortly after she participated in a
+tense telephone conference with Mrs. Billings and the school principal. We thus
+conclude that plaintiff set forth sufficient evidence of pretext or mixed motives to survive
+defendants' motion for summary judgment (see Sandiford v City of N.Y. Dept. of Educ., 22 NY3d 914,
+916 [2013]), and that "[i]t is the province of a jury to weigh the evidence, assess
+credibility, and ultimately determine whether defendants' actions were retaliatory" (Asabor v Archdiocese of N.Y.,
+102 AD3d 524, 529 [2013]). Present—Centra, J.P., Peradotto, Carni, Sconiers
+and Whalen, JJ.
+
+

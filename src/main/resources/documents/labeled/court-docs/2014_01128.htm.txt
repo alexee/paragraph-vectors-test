@@ -1,0 +1,127 @@
+
+	New York City Educ. Constr. Fund v Verizon N.Y.
+Inc.
+	2014 NY Slip Op 01128 [114 AD3d 529]
+	February 18, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	New York City Educational Construction Fund,
+Appellant,
+v
+Verizon New York Inc., Formerly Known as New York Telephone
+Co., Respondent, et al., Defendants.
+
+
+—[*1]
+
+
+Anderson Kill P.C., New York (Jeffrey E. Glen of counsel), for appellant.
+
+Gibson, Dunn & Crutcher LLP, New York (Randy M. Mastro of counsel), for
+respondent.
+
+
+
+Judgment, Supreme Court, New York County (Barbara R. Kapnick, J.), entered June
+25, 2012, dismissing the complaint with prejudice, unanimously affirmed, without costs.
+Appeal from order, same court and Justice, entered June 12, 2012, unanimously
+dismissed, without costs, as subsumed in the appeal from the judgment.
+
+Defendant contends that New York City Zoning Resolution § 12-10 bars all of
+plaintiff's claims because it excludes "floor space used for mechanical equipment" from
+"floor area." However, the Zoning Resolution does not define "floor space used for
+mechanical equipment" (cf. Matter of Raritan Dev. Corp. v Silva, 91 NY2d 98,
+101 [1997] [Zoning Resolution defines "cellar space," which is also excluded from "floor
+area"]). An engineer employed by the New York City Department of Buildings has
+opined that "floor space for housing telephone switching equipment for business
+operation and not for the building's mechanical system . . . will not qualify
+for mechanical space and therefore should not be exempt from zoning floor area."
+However, this is not a final agency determination. Thus, the motion court correctly found
+that the definition of floor space used for mechanical equipment "demands administrative
+determination in the first instance" (2012 NY Slip Op 51142[U], *6 [2012]).
+
+The court correctly dismissed the first through fourth causes of action (fraud and
+negligent misrepresentation) because plaintiff did not establish justifiable reliance, due to
+its failure to use ordinary intelligence to ascertain the truth of defendant's representations
+(see e.g. Centro Empresarial
+Cempresa S.A. v AmÉrica Móvil, S.A.B. de C.V., 17 NY3d 269, 278-279
+[2011]; 1537 Assoc. v Kaprielian Enters., 259 AD2d 447 [1st Dept 1999]). This
+rule is not limited to parties that are contracting for the first time (see Centro, 17
+NY3d at 272-274, 278-279). Assuming, arguendo, that plaintiff is not a sophisticated
+investor, it cites no precedential authority for the proposition that only sophisticated
+investors have a duty to investigate.
+
+Unlike DDJ Mgt., LLC v
+Rhone Group L.L.C. (15 NY3d 147 [2010]) and CIFG Assur. N. [*2]Am., Inc. v Goldman, Sachs & Co. (106 AD3d
+437 [1st Dept 2013]), on which plaintiff relies, the case at bar does not involve a
+written representation, as plaintiff concedes (see ACA Fin. Guar. Corp. v Goldman, Sachs & Co., 106 AD3d
+494, 494, 496 [1st Dept 2013], appeal dismissed 22 NY3d 909 [2013]; HSH Nordbank AG v UBS
+AG, 95 AD3d 185, 198 n 9 [1st Dept 2012]).
+
+We turn now to the contract claims. In the parties' July 31, 2007 deed, plaintiff
+conveyed certain property to defendant. In the contemporaneous Zoning Lot
+Development and Easement Agreement (ZLDA), defendant conveyed certain property to
+plaintiff. Since the deed did not cover conveyances from defendant to
+plaintiff, section 2 (b) of the ZLDA, in which defendant conveyed 246,407
+square feet of floor area to plaintiff, did not merge into the deed (see Schoonmaker v
+Hoyt, 148 NY 425, 429-430 [1896]). Section 6 (a) of the ZLDA, in which defendant
+agreed not to sell any of plaintiff's 246,407 square feet of floor area, did not merge into
+the deed because that obligation could not be performed until after the conveyance
+(see White v Long, 204 AD2d 892, 894 [3d Dept 1994], mod on other
+grounds 85 NY2d 564 [1995]). By contrast, the 1972 agreement in which plaintiff
+agreed to sell defendant the real estate at issue, as amended in 2007, merged into the
+deed.
+
+Plaintiff contends that the 1972 contract contained obligations collateral to the
+transfer of real property. However, the amount of floor space allotted to defendant is not
+a collateral matter but an aspect of the conveyance of property from plaintiff to defendant
+that is related to the nature or extent of the property to be conveyed (see Novelty Crystal Corp. v PSA
+Institutional Partners, L.P., 49 AD3d 113, 117 [2d Dept 2008]; see also
+Cordua v Guggenheim, 274 NY 51, 57 [1937]).
+
+Plaintiff also contends that the 1972 agreement contained obligations that the parties
+intended to continue after the deed was issued. However, while the 1972 contract
+provides that various sections constitute covenants running with the land, it does not say
+that the limitations on the size of defendant's building will run with the land (see 527
+Smith St. Brooklyn Corp. v Bayside Fuel Oil Depot Corp., 262 AD2d 278 [2d Dept
+1999]).
+
+The fraud exception to the merger doctrine (see Woodworth v Delgrand, 174
+AD2d 1011 [4th Dept 1991]) does not apply because plaintiff's fraud claims were
+correctly dismissed.
+
+In its present state, the amended complaint does not specify which provisions of the
+ZLDA defendant breached; hence, the ninth cause of action (for breach of the ZLDA)
+was correctly dismissed (see
+767 Third Ave. LLC v Greble & Finger, LLP, 8 AD3d 75 [1st Dept 2004];
+Kraus v Visa Intl. Serv. Assn., 304 AD2d 408 [1st Dept 2003]).
+
+Contrary to defendant's contention, plaintiff is not equitably estopped from suing
+defendant for breach of the ZLDA (see Nassau Trust Co. v Montrose Concrete Prods.
+Corp., 56 NY2d 175, 184 [1982]).
+
+The court correctly dismissed the fifth and sixth causes of action, for unjust
+enrichment with respect to the Overbuilt Zoning Space (as defined in the complaint), as
+duplicative of plaintiff's contract claims (see e.g. IDT Corp. v Morgan Stanley Dean Witter & Co., 12
+NY3d 132, 142 [2009]). The whole concept of Overbuilt Zoning Space depends on
+the contracts. The complaint alleges, "Upon information and belief, the Verizon Building
+exceeds the Floor Area contractually and legally allocated and available to
+Verizon (such excess Floor Area utilized by the Verizon Building is referred to as the
+'Overbuilt Zoning Space')" (emphasis added).
+
+Plaintiff contends that its unjust enrichment claims should not have been dismissed
+as [*3]duplicative of its contract claims because it was
+fraudulently induced into entering the various contracts between itself and defendant.
+
+However, we have found that plaintiff's fraud claims were correctly dismissed.
+Concur—Mazzarelli, J.P., Andrias, DeGrasse and Clark, JJ.
+
+

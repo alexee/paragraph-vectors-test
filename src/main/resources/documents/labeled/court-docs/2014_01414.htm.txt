@@ -1,0 +1,82 @@
+
+	People v Garcia
+	2014 NY Slip Op 01414 [115 AD3d 415]
+	March 4, 2014
+	Appellate Division, First Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, April 30, 2014
+
+
+
+
+
+
+	The People of the State of New York,
+Respondent,
+v
+Jhonny Garcia, Appellant.
+
+
+—[*1]
+
+
+Robert S. Dean, Center for Appellate Litigation, New York (Jan Hoth of
+counsel), for appellant.
+
+Cyrus R. Vance, Jr., District Attorney, New York (Gina Mignola of counsel), for
+respondent.
+
+
+
+Judgment, Supreme Court, New York County (Laura A. Ward, J.), rendered January
+24, 2011, convicting defendant, after a jury trial, of criminal possession of a weapon in
+the second degree (two counts), criminal possession of a weapon in the third degree, and
+criminal possession of a controlled substance in the third and fourth degrees, and
+sentencing him to an aggregate term of five years, unanimously modified, as a matter of
+discretion in the interest of justice, to the extent of reducing the conviction of criminal
+possession of a weapon in the third degree to criminal possession of a weapon in the
+fourth degree, and otherwise affirmed.
+
+The court properly denied defendant's suppression motion without a hearing. The
+conclusory allegations in defendant's moving papers, when considered in the context of
+the detailed information provided to defendant concerning the basis for his arrest, were
+insufficient to create a factual dispute requiring such a hearing (see People v Burton, 6 NY3d
+584, 587 [2006]; People v Jones, 95 NY2d 721, 729 [2001]). Although on
+appeal defendant posits a potential factual issue, he raised no such issue in his moving
+papers.
+
+The court properly denied defendant's challenge for cause to two prospective jurors
+who initially expressed a bias towards believing a police officer over other witnesses.
+The court took appropriate corrective action (see People v Bludson, 97 NY2d
+644, 645-646 [2001]) by promptly instructing the jury panel on determining a witness's
+credibility and treating an officer's testimony the same as other testimony. Both of the
+panelists at issue then gave unequivocal assurances that they would follow these
+instructions. When viewed in context, a panelist's use of the word "try" did not render his
+assurance equivocal (see e.g. People v Shulman, 6 NY3d 1, 28 [2005], cert denied
+547 US 1043 [2006]; People v Rivera, 33 AD3d 303 [2006], affd 9
+NY3d 904 [2007]).
+
+The court properly admitted into evidence a lock and set of keys that were relevant to
+the issue of constructive possession. These items were nonfungible and had identifying
+characteristics, and there was testimony that they had not been altered. Accordingly, there
+was a sufficient foundation for receiving these items notwithstanding any gaps in the
+chain of custody (see generally People v Connelly, 35 NY2d 171, 174 [1974]).
+Defendant's challenges to this evidence go to weight rather than admissibility,
+particularly to the extent they raise credibility issues. In any event, the physical items
+were essentially cumulative to testimony that the police [*2]recovered keys from defendant and observed that one of the
+keys fit the lock in question.
+
+Defendant did not preserve his challenge to the legal sufficiency of the
+second-degree weapon possession count that required proof of unlawful intent, and we
+decline to review it in the interest of justice. As an alternative holding, we reject it on the
+merits. We also find that the verdict was not against the weight of the evidence (see People v Danielson, 9
+NY3d 342, 348-349 [2007]). The evidence warranted the conclusion that defendant
+intended to use the weapon unlawfully against another person.
+
+As the People concede, defendant's conviction of criminal possession of a weapon in
+the third degree was not supported by sufficient evidence, in that it was based on a prior
+conviction that was a violation rather than a crime. Concur—Tom, J.P., Friedman,
+Acosta, Andrias and Richter, JJ.
+
+

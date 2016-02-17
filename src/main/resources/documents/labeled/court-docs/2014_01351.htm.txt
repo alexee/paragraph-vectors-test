@@ -1,0 +1,229 @@
+
+	People v Anderson
+	2014 NY Slip Op 01351 [114 AD3d 1083]
+	February 27, 2014
+	Appellate Division, Third Department
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	The People of the State of New York, Respondent, v
+Claude Anderson, Appellant.
+
+
+—[*1]
+
+
+Sandra M. Colatosti, Albany, for appellant.
+
+Robert M. Carney, District Attorney, Schenectady (Gerald A. Dwyer of counsel), for
+respondent.
+
+
+
+Garry, J. Appeal from a judgment of the County Court of Schenectady County
+(Giardino, J.), rendered March 21, 2012, upon a verdict convicting defendant of the
+crimes of assault in the second degree (two counts), aggravated criminal contempt,
+criminal contempt in the first degree (two counts) and menacing in the second degree.
+
+In August 2010, defendant visited his paramour, Kimmarie Stokes, in an apartment
+in the City of Schenectady, Schenectady County where Stokes resided with her
+roommates, Melvin Moore and Marion Little. Little stepped outside the apartment, and
+shortly thereafter an altercation occurred, resulting in both Moore and Stokes being
+struck in the head with a baseball bat. Little saw defendant run out of the residence,
+followed by Stokes, who was bleeding from the head. Stokes told Little that Moore had
+also been injured. Upon entering the apartment, Little found Moore unconscious and
+called 911. Defendant was no longer at the scene when police arrived, but he later
+identified himself to law enforcement officers and was arrested.
+
+Defendant was indicted for various offenses, including contempt charges arising
+from an order of protection already in effect that required him to refrain from illegal
+contact with Stokes. A new order of protection was issued that prohibited defendant from
+all direct or indirect contact with Stokes. Thereafter, defendant contacted Stokes by
+telephone from jail, resulting in a second indictment and a new contempt charge.
+Following a consolidated jury trial, he was [*2]convicted
+of assault in the second degree (two counts), aggravated criminal contempt, criminal
+contempt in the first degree (two counts) and menacing in the second degree, and was
+sentenced to an aggregate prison term of 32/3 to 7 years. Defendant
+appeals.
+
+Defendant first contends that his constitutional right to a speedy trial was violated by
+the 17-month delay between his August 2010 arrest and the January 2012 trial.[FN1]
+
+ Whether a constitutional violation has occurred depends upon such factors as whether
+there was a lengthy period of pretrial incarceration, the nature of the charges, the extent
+of and reasons for the delay, and any resulting prejudice (see People v
+Taranovich, 37 NY2d 442, 445 [1975]; People v Swan, 90 AD3d 1146, 1147 [2011]). Here,
+defendant was incarcerated throughout the period between his arrest and the trial. While
+this factor weighs in his favor, the others do not. The initial delay was caused by a
+conflict in defendant's legal representation that was discovered after the People declared
+readiness for trial in October 2010; attempts to assign substitute counsel were frustrated
+by additional conflicts thereafter, resulting in several adjournments. These efforts were
+still underway in April 2011 when the second indictment was filed, charging defendant
+with violating the order of protection that had been imposed due to the crimes charged in
+the first indictment. Substitute counsel was appointed within a few days thereafter,
+defendant was arraigned on the second indictment and the People again declared
+readiness. Less than two months later, Stokes died from causes unrelated to defendant's
+actions.
+
+Defendant contends that he was prejudiced by Stokes' death, claiming that she would
+have testified that he struck her accidentally. However, even assuming that she would
+have so testified, nothing in the record suggests that a trial could possibly have been
+scheduled in the brief period between the second indictment and her death. Thus,
+defendant failed to demonstrate a relationship between the trial date and any resulting
+disadvantage. As the delay was partially caused by defendant's actions and the charges
+against him were serious, we find no constitutional violation (see People v Irvis, 90 AD3d
+1302, 1303-1304 [2011], lv denied 19 NY3d 962 [2012]; People v Morris, 25 AD3d
+915, 916-917 [2006], lv denied 6 NY3d 851 [2006]; People v Alger, 23 AD3d
+706, 706-707 [2005], lv denied 6 NY3d 845 [2006]).
+
+Defendant's right to confront witnesses pursuant to Crawford v Washington
+(541 US 36 [2004]) was not violated when County Court allowed a police officer who
+responded to the 911 call to testify about statements made by Stokes, and then permitted
+the People to play a police video depicting the officer's encounter with Stokes. The
+officer testified that Stokes said that she had been hit in the head with a bat, described her
+assailant, and said that he was in a nearby community center. The officer further testified
+that police then began looking for defendant. The video reveals that the officer
+encountered Stokes immediately upon arriving at the scene. She was bleeding profusely
+from her head and complaining of dizziness. The officer asked Stokes about her
+assailant's location, description and name, where the attack had occurred, and whether
+there were other victims, promptly relaying her answers to other police officers and
+emergency medical personnel who were dispatched to locate and assist Moore and
+pursue defendant. After the first few minutes, the officer asked no further questions
+about the incident, concentrating instead on attempting to calm Stokes as she became
+increasingly agitated and [*3]apprehensive about, among
+other things, the fact that defendant had not been found.[FN2]
+
+
+County Court correctly determined that the statements by Stokes were admissible as
+excited utterances (see People v Caviness, 38 NY2d 227, 230-231 [1975]; People v Rogers, 94 AD3d
+1246, 1248-1249 [2012], lv denied 19 NY3d 977 [2012]). Further, we find
+no constitutional violation. The video reveals that the officer's primary purpose in
+questioning Stokes was "to enable the police to meet an ongoing emergency and
+apprehend the perpetrator, not to provide evidence for later prosecution," and
+Crawford does not preclude such nontestimonial statements (People v Shaver, 86 AD3d
+800, 802 [2011], lv denied 18 NY3d 962 [2012]; see Davis v
+Washington, 547 US 813, 822 [2006]; People v Bradley, 8 NY3d 124, 127-128 [2006]; People v Kenyon, 108 AD3d
+933, 937 [2013], lv denied 21 NY3d 1075 [2013]; People v Hines, 39 AD3d
+968, 970 [2007], lv denied 9 NY3d 876 [2007]).
+
+We are unpersuaded by defendant's contention that County Court erred in its
+Molineux/Sandoval ruling admitting evidence of defendant's January 2010
+conviction for assault in the third degree and a 2008 temporary order of protection in
+favor of Stokes. Given defendant's claim that he struck Stokes accidentally with the
+bat—as well as his tearful trial testimony that "I never did anything like that before
+I had a fight with anybody . . . I never could do that"—the evidence
+was admissible to show the absence of mistake or accident (see People v Henson,
+33 NY2d 63, 72 [1973]; People
+v Wright, 81 AD3d 1161, 1162 [2011], lv denied 17 NY3d 803 [2011];
+People v Barreto, 64 AD3d
+1046, 1049 [2009], lv denied 13 NY3d 834 [2009]). The court properly
+balanced the need for the evidence and its probative value against any potential delay,
+prejudice or surprise, and gave appropriate limiting instructions (see People v Johnson, 106
+AD3d 1272, 1274 [2013], lv denied 21 NY3d 1043 [2013]; People v Wilkinson, 71 AD3d
+249, 254 [2010]).
+
+As part of its Molineux ruling, County Court also permitted the People to
+establish that defendant had been convicted in 2009 of criminal contempt in the second
+degree for violating the 2008 temporary order of protection. On appeal, defendant does
+not directly challenge this aspect of the Molineux ruling. Instead, he argues that
+County Court improperly deprived him of the opportunity to admit this
+conviction—which also formed the basis for raising the contempt charge in the
+second indictment from a class A misdemeanor to a class E felony—outside the
+presence of the jury (see CPL 200.60 [3]; Penal Law §§ 215.50,
+215.51 [c]). In this regard, County Court reasoned that, as the jury would learn of the
+conviction pursuant to the Molineux ruling, allowing defendant to admit it
+outside the presence of the jury would serve no purpose. The argument is unpreserved
+for appellate review, as defense counsel consented to this determination (see People v Westcott, 84
+AD3d 1510, 1513 [2011]). In any event, we would have found no error, as the
+purpose of the statutory procedure—to protect defendants from potential
+prejudice—is not implicated where, as here, the jury learns of the prior conviction
+pursuant to a separate determination that any such prejudice is outweighed by the
+conviction's probative value (compare People v Anderson, 89 AD3d 1161, 1162-1163
+[2011]).
+
+Defendant next contends that County Court erred in denying his application to admit
+three written statements in which Stokes repudiated previous allegations that defendant
+struck [*4]her intentionally. While we disagree with
+defendant's claim that the notarization of these extrajudicial
+statements—apparently prepared at defendant's instigation—provided
+sufficient "indicia of reliability" to require their admission for due process reasons
+(People v Robinson, 89 NY2d 648, 657 [1997]; compare People v Richard, 30
+AD3d 750, 754 [2006], lv denied 7 NY3d 869 [2006]), there is merit to his
+argument that, since the People were permitted to introduce evidence of the statements
+that Stokes made to police, he should have been permitted to use the letters to impeach
+her credibility. Hearsay declarants may generally be impeached by the same methods that
+would have been available had they testified at trial, and the prior inconsistent statement
+of an unavailable declarant may be used for this purpose without establishing the usual
+foundation where, as here, there was no prior opportunity for cross-examination (see
+People v Canady, 186 AD2d 749, 749-750 [1992], lv denied 81 NY2d 786
+[1993]; People v Conde, 16 AD2d 327, 331 [1962]; Jerome Prince, Richardson
+on Evidence § 8-111 [Farrell 11th ed]). Nevertheless, upon review of the record as
+a whole—including defendant's multiple inconsistent explanations of events, the
+inconsistency of the physical evidence with his claim of accident, and the evidence of his
+longstanding tumultuous relationship with Stokes—we find that there was
+overwhelming evidence of defendant's guilt and no significant probability that he would
+have been acquitted if the letters had been admitted. Accordingly, this error was harmless
+(see People v Arafet, 13
+NY3d 460, 468 [2009]; People v Rivera, 70 AD3d 1177, 1181-1182 [2010], lv
+denied 14 NY3d 891 [2010], 15 NY3d 855 [2010]).
+
+Contrary to defendant's claim, County Court properly refused his request to give the
+jury a justification charge with respect to the crimes against Stokes. Defendant did not
+testify that he struck Stokes in self-defense, but instead stated that he did so accidentally
+while defending himself against Moore. He testified unequivocally that he did not argue
+or fight with Stokes. Even in his previous accounts of events—such as his
+statement to police that he hit Moore because of a robbery attempt, and that Stokes then
+"tried to run out and I hit her too"—he made no claim that he acted against Stokes
+in self-defense. As no reasonable view of the evidence established a justification defense,
+defendant was not entitled to the charge (see People v Grady, 40 AD3d 1368, 1371 [2007], lv
+denied 9 NY3d 923 [2007]; People v Siler, 288 AD2d 625, 628 [2001],
+lv denied 97 NY2d 709 [2002]).
+
+By failing to object, defendant did not preserve his claim that County Court
+improperly assumed the role of an advocate by questioning witnesses excessively during
+the trial (see People v Charleston, 56 NY2d 886, 887-888 [1982]). In any event,
+as the questioning was limited to clarification of confusing testimony and did not favor
+either party, we would not have found that defendant was deprived of a fair trial (see People v Lupo, 92 AD3d
+1136, 1138 [2012]; People
+v Lozada, 35 AD3d 969, 970 [2006], lv denied 8 NY3d 947 [2007]).
+Finally, defendant claims that a recording of his telephone call to Stokes from jail should
+not have been admitted as it was improperly authenticated. Contrary to the People's
+claim, defendant preserved this argument with a sufficiently specific objection;
+nevertheless, it lacks merit. A Sheriff's Department employee testified that all outgoing
+inmate calls from the jail were recorded and that there was no way to alter or tamper with
+the recordings. Little—the roommate who summoned 911—testified that
+she was familiar with Stokes' voice and recognized it on the recording, an inmate who
+assisted defendant in placing the call testified that he did so, and defendant himself
+admitted that he made the call and that the voices on the recording were those of Stokes
+and himself. Accordingly, the recording was properly authenticated (see People v Galunas, 107
+AD3d 1034, 1034-1035 [2013]; People v Heard, 92 AD3d 1142, 1144-1145 [2012], lv
+denied 18 NY3d 994 [2012]; People v Ebron, 90 AD3d 1243, 1245 [2011], lv
+denied 19 NY3d 863 [2012]).
+[*5]
+Peters, P.J., Stein and McCarthy, JJ., concur.
+Ordered that the judgment is affirmed.
+
+
+Footnotes
+
+
+
+
+Footnote 1: Defendant does not
+claim that any statutory speedy trial violation occurred (see CPL 30.30 [1] [a]).
+
+
+
+
+Footnote 2: Authorities at the
+community center where Stokes said that defendant had gone apparently refused to
+permit police officers to enter in search of him. 
+
+
+

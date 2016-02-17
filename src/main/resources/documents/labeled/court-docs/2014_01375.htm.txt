@@ -1,0 +1,74 @@
+
+	Assured Guar. Mun. Corp. v DLJ Mtge. Capital, Inc.
+	2014 NY Slip Op 01375 [114 AD3d 598]
+	February 27, 2014
+	Appellate Division, First Department
+
+
+a
+	Published by New York State Law Reporting
+Bureau pursuant to Judiciary Law § 431.
+	As corrected through Wednesday, March 26, 2014
+
+
+
+
+
+
+	Assured Guaranty Municipal Corp., Formerly Known as
+Financial Security Assurance Inc., et al., Appellants,
+v
+DLJ Mortgage Capital,
+Inc., Respondent, et al., Defendant.
+
+
+—[*1]
+
+
+Quinn Emanuel Urquhart & Sullivan, LLP, New York (Philippe Z. Selendy of
+counsel), for appellants.
+
+Orrick, Herrington & Sutcliffe LLP, New York (Barry S. Levin of counsel), for
+respondent.
+
+
+
+Order, Supreme Court, New York County (Shirley Werner Kornreich, J.), entered
+October 12, 2012, which, to the extent appealed from as limited by the briefs, granted
+defendant DLJ Mortgage Capital, Inc.'s motion to dismiss so much of the complaint's
+first and second causes of action as demand rescissory damages, consequential damages
+and fees, based on its determination that plaintiffs' remedies are limited by the pooling
+and servicing agreement's "sole remedy" clause, unanimously reversed, on the law,
+without costs, and the first and second causes of action reinstated in their entirety.
+
+The motion court erred in holding that, as a matter of law, the remedy available to
+plaintiff monoline insurers for breach of defendant's representations and warranties under
+the pooling and servicing agreement is limited to cure of the breach or the substitution or
+repurchase of the particular securitized loan. While their remedy, as certificate insurer,
+for breach of other provisions of the agreement is so limited (e.g. § 2.02
+[b] [governing mortgage documentation]), the certificate insurer is not one of the parties
+affected by the "sole remedy" clause of the representations and warranties provision
+(§ 2.03 [c]).
+
+As the Court of Appeals has observed, "The best evidence of what parties to a
+written agreement intend is what they say in their writing" (Slamow v Del Col,
+79 NY2d 1016, 1018 [1992]). Where, as here, a contract is the result of negotiations
+between sophisticated business entities assisted by experienced counsel, failure to
+include a particular party, here the certificate insurer, among those governed by a
+contract provision can only be construed as the intentional exclusion of that party from
+its application (see Matter of
+New York City Asbestos Litig., 41 AD3d 299, 302 [1st Dept 2007]). Nor are
+plaintiffs' remedies restricted by section 13.01 of the agreement, comprising merely
+acknowledgment of the certificate insurer's right to exercise the rights of the certificate
+holders without their further consent.
+[*2]
+In view of this disposition, it is unnecessary to
+reach plaintiffs' alternative argument that the sole remedy clause does not apply to their
+claim for breach of defendant's obligation to repurchase certain mortgages.
+Concur—Tom, J.P., Saxe, Moskowitz, Gische and Clark, JJ. [Prior Case
+History: 37 Misc 3d 1212(A), 2012 NY Slip Op 52001(U).]
+
+
+[Recalled and vacated, see 117 AD3d 450.]
+
+
